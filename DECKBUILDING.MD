@@ -7,10 +7,17 @@ Advisor, Aetherborn, Alien, Ally, Angel, Antelope, Ape, Archer, Archon, Army, Ar
 ## Helpful Scryfall queries
 
 For finding all legendary creatures that could be a hero for a type, use the following query:
-(game:paper) t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/) 
-
+```
+(game:paper) -is:reserved t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/) 
+```
 For finding all non-legendary creatures valid for a type, use the following query:
-(game:paper) -t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/)
-
+```
+(game:paper) -is:reserved -t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/)
+```
 For finding all typal noncreature spells valid for a type, use the following query:
-(game:paper) f:legacy -t:legendary -t:creature (o:/ TYPE[s]?[^a-zA-Z]+/)
+```
+(game:paper) -is:reserved f:legacy -t:legendary -t:creature (o:/ TYPE[s]?[^a-zA-Z]+/)
+```
+
+## Sheets
+For aggregate data and quick links for typals, check out [this Google Sheets](https://docs.google.com/spreadsheets/d/1hEwRFH8E75JU7Sw15vyOXkVpo1Ly5rEP0Z_qgkT4T50/edit#gid=0)
