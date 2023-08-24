@@ -43,6 +43,8 @@ When a hero creature you own levels up, exile the top card of your library face 
 * Up to 4x of any nonbasic lands, unlimited basics
 * Singleton non-creature cards
 
+For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
+
 ### Deck Restrictions: 
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero
@@ -61,10 +63,10 @@ When a hero creature you own levels up, exile the top card of your library face 
 
 ## Hero mechanics:
 Your hero starts outside the game. Once per turn, anytime you could cast your hero, you may put it into your hand from outside the game and cast it. This is a special action and does not use the stack.
-	* If it fails to resolve, it returns to outside the game
-	* If this is the fourth time the hero creature spell resolves this way, **you lose the game at the end of your turn**.
-	* As a state-based action, it can be removed the game anytime states are check after it has transitioned zones
-		* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
+* If it fails to resolve, it returns to outside the game
+* If this is the fourth time the hero creature spell resolves this way, **you lose the game at the end of your turn**.
+* As a state-based action, it can be removed the game anytime states are check after it has transitioned zones
+	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
 
 ## Additional win cons:
 Your hero creature deals 17 damage total over the course of the game 
