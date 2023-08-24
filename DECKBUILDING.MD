@@ -13,4 +13,4 @@ For finding all non-legendary creatures valid for a type, use the following quer
 (game:paper) -t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/)
 
 For finding all typal noncreature spells valid for a type, use the following query:
-(game:paper) f:legacy -t:legendary -t:creature (o:/ Artificer[s]?[^a-zA-Z]+/)
+(game:paper) f:legacy -t:legendary -t:creature (o:/ TYPE[s]?[^a-zA-Z]+/)
