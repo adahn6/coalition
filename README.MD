@@ -26,6 +26,22 @@ Your hero will win you the game if it deals 17 player damage. This damage is tra
 
 But beware! Your hero has a limited number of lives. If you're bringing it into play from outside the game for the fourth time, you'll lose at the end of your turn.
 
+## Hero Levels
+
+As your hero gains experience, it will level up. You start the game with a “Hero Level” emblem. The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game. 
+
+When a hero creature you own levels up, exile the top card of your library face down. You may put the card into hand, or add one mana of any color. Until end of turn, you don’t lose mana added this way as steps and phases end.
+
+
+| Level  | Ability | Shorthand |
+| ------------- | ------------- | ------------- |
+| 0  | Whenever a hero creature you own becomes the target of a spell or ability an opponent controls, counter it unless that player pays generic mana equal to its level. | Ward [Level] | 
+| 1  | Hero creatures you own can attack and tap as soon as they come under your control. | Haste |
+| 2  | Hero creatures you own cannot be blocked except by two or more creatures. | Menace |
+| 3  | Attacking doesn’t cause hero creatures you own to tap. | Vigilance |
+| 4  | Hero creatures you own can deal excess combat damage to a player, planeswalker or battle they are attacking. | Trample |
+| 5  | Hero creatures you own can’t be destroyed. | Indestructible |
+
 ## Deck format:
 * 1 legendary creature referred to as your hero creature.
 * 60 cards
