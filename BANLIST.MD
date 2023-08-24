@@ -1,4 +1,6 @@
 # Banned cards
+This ban list uses the legacy banlist as inspiration, and is a work in progress pending playtesting. Updates will be made semi-regularly as playtests occur.
+
 * All cards on the reserve list. Click [here](https://magic.wizards.com/en/news/announcements/official-reprint-policy) for the list.
 * 25 cards with the Card Type “Conspiracy.” Click [here](https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&special=true&type=+%5b%22Conspiracy%22%5d) for the list.
 * 9 cards that reference "playing for ante." Click [here](https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&text=+%5b%22%20ante.%22%5d) for the list.
