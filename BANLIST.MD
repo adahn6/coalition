@@ -17,7 +17,6 @@
 * Mental Misstep
 * Mystical Tutor
 * Necropotence
-* Plague Engineer POSSIBLE— provisional consideration pending further playtesting 
 * Sensei's Divining Top
 * Sol Ring
 * Tinker
@@ -25,6 +24,10 @@
 * Underworld Breach
 * Vampiric Tutor
 * Zirda, the Dawnwaker
+
+## Current watchlist:
+This section contains cards considering bans based on playtesting
+* Plague Engineer
 
 ## Special note:
 Frankie Peanuts, beloved Elephant Rogue, is considered legal for sentimental reasons
