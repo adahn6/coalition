@@ -44,9 +44,12 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Heroic":
 
 * 906.9 If a Hero would be exiled from anywhere or put into its owner's hand, graveyard, or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event.
 
-* 906.10 Players start the game with a “Hero Level” emblem in the command zone. This is an emblem that reads "The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game.
+* 906.10 Players start the game with a “Hero Level” emblem in the command zone. This is an emblem that reads 
+```
+The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game.
 
 Whenever a hero creature you own levels up, exile the top card of your library face down and look at it. You may put that card into hand, or add one mana of any type. Until end of turn, you don’t lose mana added this way as steps and phases end. If a hero would level up but is already at maximum level, you still do this.
+```
 
 | Level  | Ability |
 | ------------- | ------------- |
