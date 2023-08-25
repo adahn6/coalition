@@ -13,10 +13,10 @@ This format is for 3-5 players per game and deck sizes are 60 cards + 8 sideboar
 In Heroic format, you'll build a deck around a legendary hero creature leading a creature type army into battle. As your hero deals player damage or kills other creatures, it will level up making it increasingly dangerous.
 
 ## Typal identity
-A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity.
+A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity, or have no typal identity.
 
 ## Hero Damage
-Your hero will win you the game if it deals 17 player damage. This damage is tracked as damage done by the hero, so if your hero is stolen and damages you, the damage you take can win you the game!
+Your hero will win you the game if it deals 17 total damage to players. This damage is tracked as damage done by the hero, so if your hero is stolen and damages you, the damage you take can win you the game!
 
 ## Hero Lives
 But beware! Your hero has a limited number of lives. If you're bringing it into play from outside the game for the fourth time, you'll lose at the end of your turn.
@@ -24,7 +24,7 @@ But beware! Your hero has a limited number of lives. If you're bringing it into 
 ## Hero Levels
 As your hero gains experience, it will level up. You start the game with a “Hero Level” emblem. The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game. 
 
-When a hero creature you own levels up, exile the top card of your library face down. You may put the card into hand, or add one mana of any color. Until end of turn, you don’t lose mana added this way as steps and phases end.
+Whenever a hero creature you own levels up, exile the top card of your library face down and look at it. You may put that card into hand, or add one mana of any type. Until end of turn, you don’t lose mana added this way as steps and phases end.
 
 | Level  | Ability | Shorthand |
 | ------------- | ------------- | ------------- |
@@ -38,16 +38,16 @@ When a hero creature you own levels up, exile the top card of your library face 
 ## Deck format:
 * 60 cards
 * 8 card sideboard
-	* Muist include one legendary creature referred to as your hero creature.
+	* Must include one legendary creature referred to as your hero creature
 * Up to 4x of creatures
 * Up to 4x of any nonbasic lands, unlimited basics
-* Singleton non-creature cards
+* Singleton non-creature, non-land cards
 
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
 
 ### Deck Restrictions: 
 * No cards from the [banned cards list](BANLIST.MD)
-* No legendary cards other than your hero
+* No legendary cards other than your hero in your 68 total cards
 	* No companion or partner
 * All cards in your deck share a single typal identity with your hero creature, or have no typal identity. This type may not be Human.
 	* Typal identity is defined as “All creature types printed on the card, with the exception of ‘non-‘ type clauses”
@@ -62,10 +62,14 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 		* Example: Morphon the Boundless can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular type
 
 ## Hero mechanics:
-Your hero starts outside the game. Once per turn, anytime you could cast your hero, you may put it into your hand from outside the game and cast it. This is a special action and does not use the stack.
+Your hero starts outside the game. Once per turn, anytime you could cast your hero, you may put it into your hand from outside the game and then immediately attempt to cast it. This is a special action and does not use the stack.
+* If you fail to cast the Hero for whatever reason, return it to the outside the game
+	* This can happen if relying on mana abilities that produce an unknown amount of mana
 * If it fails to resolve, it returns to outside the game
-* If this is the fourth time the hero creature spell resolves this way, **you lose the game at the end of your turn**.
-* As a state-based action, it can be removed the game anytime states are check after it has transitioned zones
+	* While putting the Hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
+* If this is the fourth time the hero spell *resolves* this way, **you lose the game at the end of the turn**.
+	* Any times the Hero was cast and was countered do not count towards this fourth cast lose the game limit.
+* As a state-based action, it can be removed the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
 
 ## Additional win cons:
