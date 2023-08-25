@@ -23,8 +23,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* If we're being honest, it's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting for ten mintues while a player orders their entire libary.
 * [Gush](https://scryfall.com/card/jvc/27/gush)
 	* It's actually very tempting to see what kind of damage this could do, as combo players should not be out of luck. Remains banned provisionally, but playtests around it are scheduled.
-* [Hermit Druid](https://scryfall.com/card/tpr/175/hermit-druid)
-	* This card is definitely extremely powerful in Legacy, but the legendary and creature type restrictions may actual prevent it from being nearly as good here. Playtesting should be done to consider including it. 
 * [Imperial Seal](https://scryfall.com/card/2x2/354/imperial-seal)
 	* Decks should be consistent enough without tutors.
 * [Mana Crypt](https://scryfall.com/card/2xm/270/mana-crypt)
@@ -67,6 +65,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* There's no reason for this to be banned in this format.
 * [Gitaxian Probe](https://scryfall.com/card/nph/35/gitaxian-probe)
 	* Honestly this maybe should stay banned but the effect is less good in multiplayer, and storm / combo should have access to some tools. Possibly gets banned again.
+* [Hermit Druid](https://scryfall.com/card/tpr/175/hermit-druid)
+	* This card is definitely extremely powerful in Legacy, but the legendary and creature type restrictions may actual prevent it from being nearly as good here. Playtesting required but unbanned until further notice.
 * [Lurrus of the Dream-Den](https://scryfall.com/card/iko/226/lurrus-of-the-dream-den)
 	* Lurrus is an understandable ban in Legacy but the effect here simply isn't out of line with playstyles. Obviously, subject to playtest.
 * [Mana Drain](https://scryfall.com/card/2x2/57/mana-drain)
@@ -91,7 +91,13 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 
 ## Current watchlist:
 This section contains cards considering bans based on playtesting
-
+* 1 MV Tutors: Extremely likely to be banned, primarily to keep consistency with the overall approach to banning high value non-creature tutors. That being said, they are not currently banned. The watchlist tutors are:
+	* [Enlightened Tutor](https://scryfall.com/card/ema/9/enlightened-tutor)
+	* [Personal Tutor](https://scryfall.com/card/cmm/110/personal-tutor)
+	* [Steelshaper's Gift](https://scryfall.com/card/cmm/59/steelshapers-gift)
+	* [Sylvan Tutor](https://scryfall.com/card/me4/169/sylvan-tutor)
+	* [Worldly Tutor)(https://scryfall.com/card/cc1/6/worldly-tutor)
+	* Note that technically [Entomb](https://scryfall.com/card/uma/94/entomb) could be argued to fit the bill for this principle as well.
 * [Plague Engineer](https://scryfall.com/card/mh1/100/plague-engineer) and [Engineered Plague](https://scryfall.com/card/7ed/133/engineered-plague)
 	* There are 65 cards that specify choosing a creature type, but only these two provide ongoing debuffs. Feels dangerously close to player hate, but provisionally allowed.
 * [Ancient Tomb](https://scryfall.com/card/uma/236/ancient-tomb)
