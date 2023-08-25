@@ -96,7 +96,7 @@ This section contains cards considering bans based on playtesting
 	* [Personal Tutor](https://scryfall.com/card/cmm/110/personal-tutor)
 	* [Steelshaper's Gift](https://scryfall.com/card/cmm/59/steelshapers-gift)
 	* [Sylvan Tutor](https://scryfall.com/card/me4/169/sylvan-tutor)
-	* [Worldly Tutor)(https://scryfall.com/card/cc1/6/worldly-tutor)
+	* [Worldly Tutor](https://scryfall.com/card/cc1/6/worldly-tutor)
 	* Note that technically [Entomb](https://scryfall.com/card/uma/94/entomb) could be argued to fit the bill for this principle as well.
 * [Plague Engineer](https://scryfall.com/card/mh1/100/plague-engineer) and [Engineered Plague](https://scryfall.com/card/7ed/133/engineered-plague)
 	* There are 65 cards that specify choosing a creature type, but only these two provide ongoing debuffs. Feels dangerously close to player hate, but provisionally allowed.
