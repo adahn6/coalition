@@ -102,6 +102,10 @@ This section contains cards considering bans based on playtesting
 	* There are 65 cards that specify choosing a creature type, but only these two provide ongoing debuffs. Feels dangerously close to player hate, but provisionally allowed.
 * [Ancient Tomb](https://scryfall.com/card/uma/236/ancient-tomb)
 	* By far the fastest mana available in the format, this is a rare exception to the legendary lands etc. If we're being honest, I'd probably rather ban this, but add an alternative card similar to command tower.
+* [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
+	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
+* [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep)
+	* Given the singleton inclusion, it shouldn't be as silly as its original legacy incarnation. It does become an auto-include in every deck, but then **PERHAPS** a singleton freebie encouraging interaction is actually healthy for the format.
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
