@@ -57,18 +57,18 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 		* Example: You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
 		* Example: You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo types
 	* Note: “Non-[Creature Type]” clauses do not count as a creature type for this purpose
-		* Example: All decks can run “Embiggen” as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
+		* Example: All decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
 	* Cards with changeling may be chosen for the legendary creature and may be included in any deck, however a singular shared type must be used for all cards that do not have changeling.
-		* Example: Morphon the Boundless can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular type
+		* Example: [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular type
 
 ## Hero mechanics:
 Your hero starts outside the game. Once per turn, anytime you could cast your hero, you may put it into your hand from outside the game and then immediately attempt to cast it. This is a special action and does not use the stack.
-* If you fail to cast the Hero for whatever reason, return it to the outside the game
+* If you fail to cast the hero for whatever reason, return it to the outside the game
 	* This can happen if relying on mana abilities that produce an unknown amount of mana
 * If it fails to resolve, it returns to outside the game
-	* While putting the Hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
+	* While putting the hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
 * If this is the fourth time the hero spell *resolves* this way, **you lose the game at the end of the turn**.
-	* Any times the Hero was cast and was countered do not count towards this fourth cast lose the game limit.
+	* Any times the hero was cast and was countered do not count towards this fourth cast lose the game limit.
 * As a state-based action, it can be removed the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
 
