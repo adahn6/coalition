@@ -59,7 +59,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 		* Example: [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular type
 
 ## Hero mechanics:
-Your hero starts outside the game. Once per turn, anytime you could cast your hero, you may put it into your hand from outside the game and then immediately attempt to cast it. This is a special action and does not use the stack.
+Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game and then immediately attempt to cast it. This is a special action and does not use the stack.
 * If you fail to cast the hero for whatever reason, return it to the outside the game
 	* This can happen if relying on mana abilities that produce an unknown amount of mana
 * If it fails to resolve, it returns to outside the game
