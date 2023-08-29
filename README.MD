@@ -15,20 +15,17 @@ In Heroic format, you'll build a deck around a legendary hero creature leading a
 ## Typal identity
 A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity, or have no typal identity.
 
-## Hero Damage
-Your hero will win you the game if it deals 17 total damage to players. This damage is tracked as damage done by the hero, so if your hero is stolen and damages you, the damage you take can win you the game!
-
-## Hero Lives
-But beware! Your hero has a limited number of lives. If you're bringing it into play from outside the game for the fourth time, you'll lose at the end of your turn.
+## Hero's Damage
+You win you the game if creatures you own deal 18 total damage to players. 
 
 ## Hero Levels
 As your hero gains experience, it will level up. You start the game with a “Hero Level” emblem. The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game. 
 
-Whenever a hero creature you own levels up, exile the top card of your library face down and look at it. You may put that card into hand, or add one mana of any type. Until end of turn, you don’t lose mana added this way as steps and phases end.
+Whenever a hero creature you own levels up, look the top card of your library. You may put that card into hand. If you don't, exile it and add one colorless mana. Until end of turn, you don’t lose mana added this way as steps and phases end, and you may spend this mana as if it was mana of any type.
 
 | Level  | Ability | Shorthand |
 | ------------- | ------------- | ------------- |
-| 0  | Whenever a hero creature you own becomes the target of a spell or ability an opponent controls, counter it unless that player pays generic mana equal to its level. | Ward [Level] | 
+| 0  | --- | --- | 
 | 1  | Hero creatures you own can attack and tap as soon as they come under your control. | Haste |
 | 2  | Hero creatures you own cannot be blocked except by two or more creatures. | Menace |
 | 3  | Attacking doesn’t cause hero creatures you own to tap. | Vigilance |
@@ -67,13 +64,8 @@ Your hero starts outside the game. Once per turn, anytime you could cast your he
 	* This can happen if relying on mana abilities that produce an unknown amount of mana
 * If it fails to resolve, it returns to outside the game
 	* While putting the hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
-* If this is the fourth time the hero spell *resolves* this way, **you lose the game at the end of the turn**.
-	* Any times the hero was cast and was countered do not count towards this fourth cast lose the game limit.
 * As a state-based action, it can be removed the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
 
 ## Additional win cons:
-Your hero creature deals 17 damage total over the course of the game 
-## Additional lose cons:
-At the end of your turn, if you have cast and resolved your hero creature four times from outside the game, you lose.
-This is a state-based action done every cleanup step.
+Your creatures deals 18 player damage total over the course of the game.
