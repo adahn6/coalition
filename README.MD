@@ -5,7 +5,7 @@ A new multiplayer format intended to be faster, cheaper, more consistent, and mo
 * Fast paced multi-player games
 * Decks feature flavorful creature type themes
 * Eternal format
-* Differences from Commander offer an alternative closer to Legacy's companions 
+* Inspired primarily by the original companion implementation, with the Typal restriction being the generic equivalent of the companion restriction
 
 ## Play Rules/Modifiers
 This format is for 3-5 players per game and deck sizes are 60 cards + 8 sideboard cards. Players start with 25 life.
@@ -15,8 +15,8 @@ In Heroic format, you'll build a deck around a legendary hero creature leading a
 ## Typal identity
 A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity, or have no typal identity.
 
-## Hero's Damage
-You win you the game if creatures you own deal 18 total damage to players. 
+## Hero Damage Victory
+As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 18, you win the game!
 
 ## Hero Levels
 As your hero gains experience, it will level up. You start the game with a “Hero Level” emblem. The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game. 
@@ -59,13 +59,14 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 		* Example: [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular type
 
 ## Hero mechanics:
-Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game and then immediately attempt to cast it. This is a special action and does not use the stack.
-* If you fail to cast the hero for whatever reason, return it to the outside the game
+Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
+* If you fail to cast the hero for any reason, return it to the outside the game.
 	* This can happen if relying on mana abilities that produce an unknown amount of mana
-* If it fails to resolve, it returns to outside the game
+* If it fails to resolve, it is treated like any other card
 	* While putting the hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
-* As a state-based action, it can be removed the game after it has transitioned zones
+	* If it's put into the graveyard or exile because of this, you can use the state-based action after zone transition to remove it from the game again
+* As a state-based action, it can be removed from the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
 
 ## Additional win cons:
-Your creatures deals 18 player damage total over the course of the game.
+You deal a combined 18 damage of combat damage from all creatures you own and non-combat player damage from your hero creature.
