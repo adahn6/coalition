@@ -60,13 +60,8 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
-* If you fail to cast the hero for any reason, return it to the outside the game.
-	* This can happen if relying on mana abilities that produce an unknown amount of mana
 * If it fails to resolve, it is treated like any other card
 	* While putting the hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
 	* If it's put into the graveyard or exile because of this, you can use the state-based action after zone transition to remove it from the game again
 * As a state-based action, it can be removed from the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
-
-## Additional win cons:
-You deal a combined 18 damage of combat damage from all creatures you own and non-combat player damage from your hero creature.
