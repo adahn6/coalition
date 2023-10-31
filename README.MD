@@ -16,21 +16,21 @@ In Heroic format, you'll build a deck around a legendary hero creature leading a
 A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity, or have no typal identity.
 
 ## Hero Damage Victory
-As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 18, you win the game!
+As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 21, you win the game!
 
 ## Hero Levels
 As your hero gains experience, it will level up. You start the game with a “Hero Level” emblem. The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game. 
 
-Whenever a hero creature you own levels up, look the top card of your library. You may put that card into hand. If you don't, exile it and add one colorless mana. Until end of turn, you don’t lose mana added this way as steps and phases end, and you may spend this mana as if it was mana of any type.
+Whenever a hero creature you own levels up, you may either draw a card or create a Treasure token.
 
-| Level  | Ability | Shorthand |
-| ------------- | ------------- | ------------- |
-| 0  | --- | --- | 
-| 1  | Hero creatures you own can attack and tap as soon as they come under your control. | Haste |
-| 2  | Hero creatures you own cannot be blocked except by two or more creatures. | Menace |
-| 3  | Attacking doesn’t cause hero creatures you own to tap. | Vigilance |
-| 4  | Hero creatures you own can deal excess combat damage to a player, planeswalker or battle they are attacking. | Trample |
-| 5  | Hero creatures you own can’t be destroyed. | Indestructible |
+| Level  | Ability |
+| ------------- | ------------- |
+| 0  | --- | Ward 2 Life | 
+| 1  | Hero creatures you own have haste |
+| 2  | Hero creatures you own have menace | 
+| 3  | Hero creatures you own have vigilance | 
+| 4  | Hero creatures you own have trample |
+| 5  | Hero creatures you own have indestructible | 
 
 ## Deck format:
 * 60 cards
