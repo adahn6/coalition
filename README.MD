@@ -25,7 +25,7 @@ Whenever a hero creature you own levels up, you may either draw a card or create
 
 | Level  | Ability |
 | ------------- | ------------- |
-| 0  | Ward 2 Life | 
+| 0  | Hero creatures you control have "Ward-- 2 Life" | 
 | 1  | Hero creatures you own have haste |
 | 2  | Hero creatures you own have menace | 
 | 3  | Hero creatures you own have vigilance | 
