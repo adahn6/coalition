@@ -29,8 +29,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* Access to fast mana is, overall, restricted
 * [Mana Vault](https://scryfall.com/card/2xm/270/mana-vault)
 	* Access to fast mana is, overall, restricted
-* [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep)
-	* Tempting to let it in given the singleton format. Discussions will ensue.
 * [Mystical Tutor](https://scryfall.com/card/ema/62/mystical-tutor)
 	* Decks should be consistent enough without tutors.
 * [Necropotence](https://scryfall.com/card/ima/98/necropotence)
@@ -44,11 +42,9 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Thassa’s Oracle](https://scryfall.com/card/thb/73/thassas-oracle)
 	* The win condition here goes against the overall spirit of the format. Some playtesting will occur, as combo players should have wins, but this one is likely just too much.
 * [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach)
-	* I mean, if we really want to break the format we can unban this AND [Hermit Druid](https://scryfall.com/card/tpr/175/hermit-druid) and watch someon win T3 consistently lmao
+	* On the potential unban list. Format restrictions make this one a lot harder to work, though obviously it is still very powerful
 * [Vampiric Tutor](https://scryfall.com/card/cmr/156/vampiric-tutor)
 	* Decks should be consistent enough without tutors. 
-* [Zirda, the Dawnwaker](https://scryfall.com/card/iko/233/zirda-the-dawnwaker)
-	* The beautiful elemental fox is simply too, too good. Hands down would be the best card in the format.
 
 ## Cards banned in Legacy but not Heroic
 * [Arcum's Astrolabe](https://scryfall.com/card/mh1/220/arcums-astrolabe)
@@ -69,6 +65,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* This card is definitely extremely powerful in Legacy, but the legendary and creature type restrictions may actual prevent it from being nearly as good here. Playtesting required but unbanned until further notice.
 * [Lurrus of the Dream-Den](https://scryfall.com/card/iko/226/lurrus-of-the-dream-den)
 	* Lurrus is an understandable ban in Legacy but the effect here simply isn't out of line with playstyles. Obviously, subject to playtest.
+* [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep)
+	* Singleton restriction makes this less of an issue than other formats, and life totals are not a non-issue here making the Phyrexian cost actually matter.
 * [Mana Drain](https://scryfall.com/card/2x2/57/mana-drain)
 	* Counter spells are fine.
 * [Mind Twist](https://scryfall.com/card/me3/72/mind-twist)
@@ -87,6 +85,9 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* The consistency of four of these may be too much, but that seems unlikely at the moment. A win condition is not inherently bad.
 * [Windfall](https://scryfall.com/card/cmm/859/windfall)
 	* It's frustrating and annoying but again, hard to justify a full ban. Multiplayer means this is just as likely to help an opponent significantly.
+* [Zirda, the Dawnwaker](https://scryfall.com/card/iko/233/zirda-the-dawnwaker)
+	* A very strong deck archetype but not clearly harmful, consider this unbanned until such harm is proven.
+
 
 
 ## Current watchlist:
@@ -98,14 +99,10 @@ This section contains cards considering bans based on playtesting
 	* [Sylvan Tutor](https://scryfall.com/card/me4/169/sylvan-tutor)
 	* [Worldly Tutor](https://scryfall.com/card/cc1/6/worldly-tutor)
 	* Note that technically [Entomb](https://scryfall.com/card/uma/94/entomb) could be argued to fit the bill for this principle as well.
-* [Plague Engineer](https://scryfall.com/card/mh1/100/plague-engineer) and [Engineered Plague](https://scryfall.com/card/7ed/133/engineered-plague)
-	* There are 65 cards that specify choosing a creature type, but only these two provide ongoing debuffs. Feels dangerously close to player hate, but provisionally allowed.
 * [Ancient Tomb](https://scryfall.com/card/uma/236/ancient-tomb)
 	* By far the fastest mana available in the format, this is a rare exception to the legendary lands etc. If we're being honest, I'd probably rather ban this, but add an alternative card similar to command tower.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
-* [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep)
-	* Given the singleton inclusion, it shouldn't be as silly as its original legacy incarnation. It does become an auto-include in every deck, but then **PERHAPS** a singleton freebie encouraging interaction is actually healthy for the format.
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
