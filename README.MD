@@ -23,7 +23,7 @@ As your hero gains experience, it will level up. You start the game with a “He
 
 | Level  | Ability |
 | ------------- | ------------- |
-| X  | Hero creatures you own have "Ward-- X Life" | 
+| X  | Hero creatures you own have "Ward-- Pay X Life" | 
 
 ## Deck format:
 * 60 cards
