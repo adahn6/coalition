@@ -10,8 +10,6 @@ A new multiplayer format intended to be faster and more aggressive than Commande
 ## Play Rules/Modifiers
 This format is for 3-5 players per game and deck sizes are 60 cards + 8 sideboard cards. Players start with 25 life.
 
-In Heroic format, you'll build a deck around a legendary hero creature leading a creature type army into battle. As your hero deals player damage or kills other creatures, it will level up making it increasingly dangerous.
-
 ## Typal identity
 A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity, or have no typal identity.
 
