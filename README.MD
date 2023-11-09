@@ -1,5 +1,5 @@
 # Heroic format
-A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary hero creature, fill the deck with cards of one creature type. But no other legendaries allowed! As your hero deals player damage, it will level up. The goal of the format is make fast, aggressive decks where dealing combat damage to players is a first-class win condition. 
+A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary hero creature, fill the deck with cards of one creature type. But no other legendaries allowed! As your hero deals player damage, it will level up, giving you card draw or a Treasure token. The goal of the format is make fast, aggressive decks where dealing combat damage to players is a first-class win condition. 
 
 ## Why Play This Format?
 * Fast paced multi-player games
@@ -17,11 +17,7 @@ A card's typal identity comes from any part of that card that references a creat
 As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 21, you win the game!
 
 ## Hero Levels
-As your hero gains experience, it will level up. You start the game with a “Hero Level” emblem. The first time each turn your hero creature deals player damage, it levels up; whenever a hero creature you own levels up, you may either draw a card or create a Treasure token.
-
-| Level  | Ability |
-| ------------- | ------------- |
-| X  | Hero creatures you own have "Ward-- Pay X Life" | 
+The first time each turn your hero creature deals player damage, it levels up; whenever a hero creature you own levels up, you may either draw a card or create a Treasure token.
 
 ## Deck format:
 * 60 cards
