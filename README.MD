@@ -17,7 +17,10 @@ A card's typal identity comes from any part of that card that references a creat
 As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 21, you win the game!
 
 ## Hero Levels
-The first time each turn your hero creature deals player damage, it levels up; whenever a hero creature you own levels up, you may either draw a card or create a Treasure token.
+The first time each turn your hero creature deals player damage, you choose to Flourish or Prosper.
+
+Flourish-- Put the top card of your library into hand
+Prosper-- Scry 1, then make a Treasure token
 
 ## Deck format:
 * 60 cards
@@ -52,3 +55,4 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 	* If it's put into the graveyard or exile because of this, you can use the state-based action after zone transition to remove it from the game again
 * As a state-based action, it can be removed from the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
+* If you remove it from the game this way, then each opponent that targeted your hero with a spell or ability, or controlled a source that dealt combat damage to your hero chooses to Prosper or Flourish
