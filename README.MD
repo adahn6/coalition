@@ -20,6 +20,7 @@ As you play, you'll keep track of the combat damage your creatures deal other pl
 The first time each turn your hero creature deals player damage, you choose to Flourish or Prosper.
 
 Flourish-- Put the top card of your library into hand
+<br>
 Prosper-- Scry 1, then make a Treasure token
 
 ## Deck format:
