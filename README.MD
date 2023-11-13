@@ -19,8 +19,8 @@ As you play, you'll keep track of the combat damage your creatures deal other pl
 ## Hero Levels
 The first time each turn your hero creature deals player damage, you choose to Flourish or Prosper.
 
-Flourish-- Put the top card of your library into hand  
-Prosper-- Scry 1, then make a Treasure token
+Flourish-- Put the top card of your library into hand. Effects your opponents control cannot prevent cards from being drawn this way.  
+Prosper-- Scry 1, then make a tapped Treasure token. 
 
 ## Deck format:
 * 60 cards
