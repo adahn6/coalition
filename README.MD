@@ -55,4 +55,3 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 	* If it's put into the graveyard or exile because of this, you can use the state-based action after zone transition to remove it from the game again
 * As a state-based action, it can be removed from the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
-* If you remove it from the game this way, then each opponent that targeted your hero with a spell or ability, or controlled a source that dealt combat damage to your hero chooses to Prosper or Flourish
