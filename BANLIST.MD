@@ -74,7 +74,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Oath of Druids](https://scryfall.com/card/c16/159/oath-of-druids)
 	* If you find a way to make this work for you in a multiplayer game then honestly, werk.
 * [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)
-	* On the one hand, lmao. On the other hand, lmao. Ragavan is an exceptionally good card and will likely break the meta, but let's see how it plays out. **PROVISIONAL**
+	* If we're being honest, [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator) is by far the better Pirate choice here. Unclear how much Ragavan is worse, may get banned subject to testing.
 * [Skullclamp](https://scryfall.com/card/moc/379/skullclamp)
 	* Overall, token creation is restricted here between singleton non-creature spells and typal restrictions. Skullclamp could be broken, but the burden of proof is on playtesting.
 * [Strip Mine](https://scryfall.com/card/vma/316/strip-mine)
@@ -100,9 +100,15 @@ This section contains cards considering bans based on playtesting
 	* [Worldly Tutor](https://scryfall.com/card/cc1/6/worldly-tutor)
 	* Note that technically [Entomb](https://scryfall.com/card/uma/94/entomb) could be argued to fit the bill for this principle as well.
 * [Ancient Tomb](https://scryfall.com/card/uma/236/ancient-tomb)
-	* By far the fastest mana available in the format, this is a rare exception to the legendary lands etc. If we're being honest, I'd probably rather ban this, but add an alternative card similar to command tower.
+	* By far the fastest mana available in the format, this land feels like a bit of an outlier. That being said, the very harsh reality of 25 life and aggro-friendly format means a very real cost is paid, so not banned at the moment.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
+* [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)
+	* Very likely to get banned, he's just too strong with extremely consistent access to a two-card comb with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
+* [Demonic Consultation](https://scryfall.com/card/me2/85/demonic-consultation)
+	* This one just doesn't seem consistently powerful enough to truly disallow, especially with the [dreaded winfish](https://scryfall.com/card/thb/73/thassas-oracle) gone, and may be unbanned accordingly
+* [Flash](https://scryfall.com/card/a25/57/flash)
+	* Because of typal and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get unbanned.
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
