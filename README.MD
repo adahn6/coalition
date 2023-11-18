@@ -1,5 +1,5 @@
 # Heroic format
-A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary hero creature, fill the deck with cards of one creature type. But no other legendary cards allowed! As your hero deals player damage, you'll choose a reward. The goal of the format is make fast, aggressive decks where dealing combat damage to players is a first-class win condition. 
+A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary hero creature, fill the deck with cards of one creature type. But no other legendary cards allowed! As your hero deals player damage, you'll choose a reward. The goal of the format is make flavorful creature type decks where combat is a first-class win condition.
 
 ## Why Play This Format?
 * Fast paced multi-player games
