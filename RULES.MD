@@ -17,7 +17,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Heroic":
 	* 906.4a Typal identity is established before the game begins, and is affected by Changeling.
 		* Example: Morphon the Boundless is all creature types, as it has Changeling.
 
-	* 906.4b Reminder text is ignored when determining color identity.
+	* 906.4b Reminder text is ignored when determining typal identity.
 
 	* 906.5c The back face of a double-faced card is included when determining a card's typal identity. This is an exception to rule 712.8a.
 
@@ -39,28 +39,12 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Heroic":
 
 * 906.7 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
-* 906.8 Once per turn, a player may put their hero into their hand from outside the game and cast it. 
-	* 906.8a Should it fail to resolve after being cast this way, it returns to outside the game. 
+* 906.8 Once per turn, a player may put their hero into their hand from outside the game. 
 
 * 906.9 If a Hero would be exiled from anywhere or put into its owner's hand, graveyard, or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event.
 
-* 906.10 Players start the game with a “Hero Level” emblem in the command zone. This is an emblem that reads 
-```
-The first time each turn your hero creature deals player damage or kills a creature, it gains its next ability. Hero levels are gained from top to bottom and once they are gained they are kept for the rest of the game.
-
-Whenever a hero creature you own levels up, exile the top card of your library face down and look at it. You may put that card into hand, or add one mana of any type. Until end of turn, you don’t lose mana added this way as steps and phases end. If a hero would level up but is already at maximum level, you still do this.
-```
-
-| Level  | Ability |
-| ------------- | ------------- |
-| 0  | Whenever a hero creature you own becomes the target of a spell or ability an opponent controls, counter it unless that player pays generic mana equal to its level. |
-| 1  | Hero creatures you own can attack and tap as soon as they come under your control. |
-| 2  | Hero creatures you own cannot be blocked except by two or more creatures. | 
-| 3  | Attacking doesn’t cause hero creatures you own to tap. | 
-| 4  | Hero creatures you own can deal excess combat damage to a player, planeswalker or battle they are attacking. | 
-| 5  | Hero creatures you own can’t be destroyed. |
+* 906.10 The first time each turn a hero creature deals player damage, its owner chooses to either "Flourish", defined as drawing a card (or, should an effect prevent this and no card is drawn this way, place the top card of their library into hand), or Prosper, defined as "Scry 1, then create a tapped Treasure token."
 
 * 903.11. The Heroic variant includes the following specification for winning and losing the game.
 All other rules for ending the game also apply. (See rule 104.)
-	* 903.11a If a player has resolved casting their hero four times after bringing it into hand from outside the game, they lose the game at the end of their turn. This is done as a state-based action during the cleanup step. 
-	* 903.11b If a Hero deals 17 total damage to players, that Hero's owner wins the game immediately.
+	* 903.11b A player wins the game if creatures they own have dealt a total of 21 combat damage, combined with any additional player damage dealt by their Hero creature.
