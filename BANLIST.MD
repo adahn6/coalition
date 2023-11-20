@@ -13,10 +13,10 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* This card is already banned in nearly all formats for very good reason.
 * [Channel](https://scryfall.com/card/ima/157/channel)
 	* This card is already banned in nearly all formats for very good reason.
-* [Demonic Consultation](https://scryfall.com/card/me2/85/demonic-consultation)
-	* While not as consistent or strong as in Legacy and Vintage, it's still too powerful of a combo piece, especially when coupled with permanent access to a legendary creature combo piece.
 * [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor)
 	* Decks should be consistent enough without tutors.
+* [Dreadhorde Arcanist](https://scryfall.com/card/war/125/dreadhorde-arcanist)
+	* Lol no to this one, it is just too good.
 * [Flash](https://scryfall.com/card/a25/57/flash)
 	* Banned from nearly all formats except somehow Oathbreaker, this card is way too powerful to allow.
 * [Goblin Recruiter](https://scryfall.com/card/6ed/186/goblin-recruiter)
@@ -53,8 +53,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* Possibly concerning, but worth considering unbanned until proven otherwise
 * [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* On the one hand, delve is an extremely concerning mechanic-- this is banned/restricted in Legacy/Vintage for good reason. On the other hand, singleton copies without tutor make it much less consistent, and combo players should have some tools in this format. This is *extremely* subject to playtesting and may well change.
-* [Dreadhorde Arcanist](https://scryfall.com/card/war/125/dreadhorde-arcanist)
-	* It's a very powerful card and running 4x makes it very good. But its playstyle is within the spirit of the game, so it will only be banned subject to significant power level issues.
+* [Demonic Consultation](https://scryfall.com/card/me2/85/demonic-consultation)
+	* Not as consistent or strong as in Legacy and Vintage and a good combo piece, could get banned if too strong.
 * [Expressive Iteration](https://scryfall.com/card/stx/186/expressive-iteration)
 	* There's no reason for this to be banned in this format.
 * [Frantic Search](https://scryfall.com/card/cmm/96/frantic-search)
