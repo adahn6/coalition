@@ -88,17 +88,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Zirda, the Dawnwaker](https://scryfall.com/card/iko/233/zirda-the-dawnwaker)
 	* A very strong deck archetype but not clearly harmful, consider this unbanned until such harm is proven.
 
-
-
 ## Current watchlist:
 This section contains cards considering bans based on playtesting
-* 1 MV Tutors: Extremely likely to be banned, primarily to keep consistency with the overall approach to banning high value non-creature tutors. That being said, they are not currently banned. The watchlist tutors are:
-	* [Enlightened Tutor](https://scryfall.com/card/ema/9/enlightened-tutor)
-	* [Personal Tutor](https://scryfall.com/card/cmm/110/personal-tutor)
-	* [Steelshaper's Gift](https://scryfall.com/card/cmm/59/steelshapers-gift)
-	* [Sylvan Tutor](https://scryfall.com/card/me4/169/sylvan-tutor)
-	* [Worldly Tutor](https://scryfall.com/card/cc1/6/worldly-tutor)
-	* Note that technically [Entomb](https://scryfall.com/card/uma/94/entomb) could be argued to fit the bill for this principle as well.
 * [Ancient Tomb](https://scryfall.com/card/uma/236/ancient-tomb)
 	* By far the fastest mana available in the format, this land feels like a bit of an outlier. That being said, the very harsh reality of 25 life and aggro-friendly format means a very real cost is paid, so not banned at the moment.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
