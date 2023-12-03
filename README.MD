@@ -1,5 +1,5 @@
-# Heroic format
-A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary hero creature, fill the deck with cards of one creature type. But no other legendary cards allowed! As your hero deals player damage, you'll choose a reward. The goal of the format is make flavorful creature type decks where combat is a first-class win condition.
+# Coalition format
+A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary creature, referred to as your hero creature, and the allies of one of its creature types-- but no other legendary cards allowed! Your coalition wins if you can deal 21 combat damage to players over the course of the game, combined with any extra player damage dealt by your hero. As a bonus, if your hero deals player damage, you'll get a reward. The goal of the format is to prioritize synergistic creature type decks with combat damage contributing to a first-class win condition.
 
 ## Why Play This Format?
 * Fast paced multi-player games
@@ -11,12 +11,12 @@ A new multiplayer format intended to be faster and more aggressive than Commande
 This format is for 3-5 players per game and deck sizes are 60 cards + 8 sideboard cards. Players start with 25 life.
 
 ## Typal identity
-A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Heroic deck must share a single typal identity, or have no typal identity.
+A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Coalition deck must share a single typal identity, or have no typal identity.
 
-## Hero Damage Victory
-As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 21, you win the game!
+## Coalition Damage Victory
+As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your legendary creature. If this total reaches 21, you win the game! 
 
-## Hero Levels
+## Hero Player Damage
 The first time each turn your hero creature deals player damage, reveal the top card of your library. If it's a typal card or land card, you may choose to draw that card. If you do not draw this card (regardless of reason), scry 1 and create a Glory token (It’s an enchamnent with “{T}, Sacrifice this enchanment: Add one mana of any color. This mana can't be spent to cast non-Typal spells”)
 
 ## Deck format:
@@ -33,7 +33,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 68 total cards
 	* No companion or partner
-* All cards in your deck share a single typal identity with your hero creature, or have no typal identity. This type may not be Human.
+* All cards in your deck share a single typal identity with your hero creature, or have no typal identity. *This type may not be Human*.
 	* Typal identity is defined as “All creature types printed on the card, with the exception of ‘non-‘ type clauses”
 		* Example: You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) and choose the Dragon type printed in her ability
 		* Example: You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian creature type
