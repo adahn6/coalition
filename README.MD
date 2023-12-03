@@ -17,10 +17,7 @@ A card's typal identity comes from any part of that card that references a creat
 As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your hero creature. If this total reaches 21, you win the game!
 
 ## Hero Levels
-The first time each turn your hero creature deals player damage, you choose to Flourish or Prosper.
-
-Flourish-- Draw a card. If for any reason no cards are put into hand this way (e.g. [Hullbreacher](https://scryfall.com/card/cmr/74/hullbreacher)), put the top card of your library into hand.
-Prosper-- Scry 1, then make a tapped Treasure token. 
+The first time each turn your hero creature deals player damage, reveal the top card of your library. If it's a typal card or land card, you may choose to either draw that card. If you do not draw a card this way, scry 1 and create a Glory token (It’s an enchamnent with “{T}, Sacrifice this enchanment: Add one mana of any color. This mana can't be spent to cast non-Typal spells”)
 
 ## Deck format:
 * 60 cards
