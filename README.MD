@@ -1,27 +1,26 @@
-# Coalition format
-A new multiplayer format intended to be faster and more aggressive than Commander. Build a deck around a legendary creature, referred to as your hero creature, and the allies of one of its creature types-- but no other legendary cards allowed! Your coalition wins if you can deal 21 combat damage to players over the course of the game, combined with any extra player damage dealt by your hero. As a bonus, if your hero deals player damage, you'll get a reward. The goal of the format is to prioritize synergistic creature type decks with combat damage contributing to a first-class win condition.
+# Heroic format
+Weclome to the Heroic format! It's a fast-paced and chaotic multiplayer format about leading creature armies into battle. In this format, you'll build a sixty-card deck, plus sideboard, around a legendary "hero" creature. You'll choose a type printed on the hero creature, and all other cards in the deck have that printed on them as well (unless they have no creature types printed at all). You win the match if you can deal 21 combat damage to players over the course of the game, combined with any extra player damage dealt by your hero. The goal of the format is to prioritize synergistic creature type decks with combat damage contributing to a first-class win condition.
+
+Heroic plays a little differently than most other formats. It's aggressive and fast, like Legacy can be, but power limited by its Typal identities. It's chaotic due to the singleton restrictions on non-creature, non-land cards, but focused when creature synergies are leveraged. Hero mechanics are similar in some ways to commander mechanics, but different enough to open new deckbuilding opportunities and keep games playing differently. Best of three matches mean you'll have a chance to see how your deck performs over time and add a fun layer of metagame strategy. 
 
 ## Why Play This Format?
-* Fast paced multi-player games
-* Decks feature flavorful creature type themes
+* Fast, aggressive multi-player games
+* Creature type decks are fun to build around
 * Eternal format
-* Inspired primarily by the original companion implementation, with the Typal restriction being the generic equivalent of the companion restriction
+* Hybridizes 60 card playstyles with multiplayer magic
 
 ## Play Rules/Modifiers
-This format is for 3-5 players per game and deck sizes are 60 cards + 8 sideboard cards. Players start with 25 life.
+This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and you'll sideboard inbetween matches.  
 
 ## Typal identity
-A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. Every card in your Coalition deck must share a single typal identity, or have no typal identity.
+A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). Every card in your deck must share a single typal identity, or have no typal identity.
 
-## Coalition Damage Victory
-As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your legendary creature. If this total reaches 21, you win the game! 
-
-## Hero Player Damage
-The first time each turn your hero creature deals player damage, reveal the top card of your library. If it's a typal card or land card, you may choose to draw that card. If you do not draw this card (regardless of reason), scry 1 and create a Glory token (It’s an enchamnent with “{T}, Sacrifice this enchanment: Add one mana of any color. This mana can't be spent to cast non-Typal spells”)
+## Win condition
+As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your legendary creature. If this total reaches 21, you win the match! But it's not over there; Heroic is intended to be played as best of three games. You'll add your victory points at the end of each match, whether you won or not, and the player at the end of three matches with the highest victory point total wins. 
 
 ## Deck format:
 * 60 cards
-* 8 card sideboard
+* 10 card sideboard
 	* Must include one legendary creature referred to as your hero creature
 * Up to 4x of creatures
 * Up to 4x of any nonbasic lands, unlimited basics
@@ -52,3 +51,7 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 	* If it's put into the graveyard or exile because of this, you can use the state-based action after zone transition to remove it from the game again
 * As a state-based action, it can be removed from the game after it has transitioned zones
 	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
+* As a replacement effect, if the hero creature would enter your library or hand, you may instead choose to remove it from the game
+
+## Other rules modifications
+Because of the unique nature of Heroic's win conditions, there are special rules for how to manage conceding. While a player may still conceded at instant speed, doing so means they will receive none of their victory points from that game towards their overall count. Without this rule, players could weaponize conceding at instant speed before an opponent deals combat damage to them in an attempt to gain an advantage; with this rule in place, doing so will disadvantage them far more than any advantage it could ever infer.
