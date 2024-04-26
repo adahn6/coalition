@@ -21,12 +21,20 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* If we're being honest, it's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting for ten mintues while a player orders their entire libary.
 * [Gush](https://scryfall.com/card/jvc/27/gush)
 	* It's actually very tempting to see what kind of damage this could do, as combo players should not be out of luck. Remains banned provisionally, but playtests around it are scheduled.
+* [Heartless Hidetsugu)[https://scryfall.com/card/cns/144/heartless-hidetsugu]
+	* While not strictly impossible to deal with, Heartless Hidetsugu represents a very aggressive way to immediately win the game with maximum victory points and this playstyle is discouraged. 
 * [Imperial Seal](https://scryfall.com/card/2x2/354/imperial-seal)
 	* Decks should be consistent enough without tutors.
 * [Mana Crypt](https://scryfall.com/card/2xm/270/mana-crypt)
 	* Access to fast mana is, overall, restricted
+* [Mana Vault](https://scryfall.com/card/2x2/308/mana-vault)
+	* Without other restrictions, this card isn't the broken fast mana access that it is in other formats, but it's still too relevant to combo lines to let in.
+* [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)
+	* He's just too strong with extremely consistent access to a two-card comb with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
 * [Mystical Tutor](https://scryfall.com/card/ema/62/mystical-tutor)
 	* Decks should be consistent enough without tutors.
+* ["Name Sticker" Goblin](https://scryfall.com/card/unf/107m/name-sticker-goblin
+	* Come on, this effect is miserable to deal with and shouldn't be legal in other formats either.
 * [Necropotence](https://scryfall.com/card/ima/98/necropotence)
 	* Frankly shocking it's legal in Commander.
 * [Sensei's Divining Top](https://scryfall.com/card/2x2/314/senseis-divining-top)
@@ -67,14 +75,12 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* Singleton restriction makes this less of an issue than other formats, and life totals are not a non-issue here making the Phyrexian cost actually matter.
 * [Mana Drain](https://scryfall.com/card/2x2/57/mana-drain)
 	* Counter spells are fine.
-* [Mana Vault](https://scryfall.com/card/2x2/308/mana-vault)
-	* Without other restrictions, this card isn't the broken fast mana access that it is in other formats. If someone can find a way to synergize with it well, that should be fine-- a truly powerful, consistent combo line discovered later may change this unban though.
 * [Mind Twist](https://scryfall.com/card/me3/72/mind-twist)
 	* Without access to reserve list cards like [Grim Monolith](https://scryfall.com/card/ulg/126/grim-monolith), and with a multiplayer game, this card is not nearly as good as in other formats.
 * [Oath of Druids](https://scryfall.com/card/c16/159/oath-of-druids)
 	* If you find a way to make this work for you in a multiplayer game then honestly, werk.
 * [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)
-	* If we're being honest, [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator) is by far the better Pirate choice here. Unclear what Ragavan's combo potential is, may get banned subject to testing.
+	* Unclear what Ragavan's power potential is, may get banned subject to testing.
 * [Skullclamp](https://scryfall.com/card/moc/379/skullclamp)
 	* Overall, token creation is restricted here between singleton non-creature spells and typal restrictions. Skullclamp could be broken, but the burden of proof is on playtesting.
 * [Strip Mine](https://scryfall.com/card/vma/316/strip-mine)
@@ -92,10 +98,10 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 This section contains cards considering bans based on playtesting
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
-* [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)
-	* Consider this essentially banned-- he's just too strong with extremely consistent access to a two-card comb with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
 * [Flash](https://scryfall.com/card/a25/57/flash)
 	* Because of typal and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get unbanned.
+* [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
+	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
