@@ -21,7 +21,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* If we're being honest, it's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting for ten mintues while a player orders their entire libary.
 * [Gush](https://scryfall.com/card/jvc/27/gush)
 	* It's actually very tempting to see what kind of damage this could do, as combo players should not be out of luck. Remains banned provisionally, but playtests around it are scheduled.
-* [Heartless Hidetsugu)[https://scryfall.com/card/cns/144/heartless-hidetsugu]
+* [Heartless Hidetsugu](https://scryfall.com/card/cns/144/heartless-hidetsugu)
 	* While not strictly impossible to deal with, Heartless Hidetsugu represents a very aggressive way to immediately win the game with maximum victory points and this playstyle is discouraged. 
 * [Imperial Seal](https://scryfall.com/card/2x2/354/imperial-seal)
 	* Decks should be consistent enough without tutors.
