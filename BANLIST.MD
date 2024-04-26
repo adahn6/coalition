@@ -33,7 +33,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* He's just too strong with extremely consistent access to a two-card comb with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
 * [Mystical Tutor](https://scryfall.com/card/ema/62/mystical-tutor)
 	* Decks should be consistent enough without tutors.
-* [Name Sticker Goblin](https://scryfall.com/card/unf/107m/name-sticker-goblin
+* ["Name Sticker" Goblin](https://scryfall.com/card/unf/107m/name-sticker-goblin)
 	* Come on, this effect is miserable to deal with and shouldn't be legal in other formats either.
 * [Necropotence](https://scryfall.com/card/ima/98/necropotence)
 	* Frankly shocking it's legal in Commander.
