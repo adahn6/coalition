@@ -50,7 +50,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Vampiric Tutor](https://scryfall.com/card/cmr/156/vampiric-tutor)
 	* Decks should be consistent enough without tutors. 
 
-## Cards banned in Legacy but not Heroic
+## Cards banned in Legacy but not Coalition
 * [Arcum's Astrolabe](https://scryfall.com/card/mh1/220/arcums-astrolabe)
 	* Singleton copies here just aren't as important as in legacy, and there should be some access to flexible mana.
 * [Deathrite Shaman](https://scryfall.com/card/ema/215/deathrite-shaman)
