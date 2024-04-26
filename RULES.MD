@@ -12,18 +12,18 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.3a Double-faced cards can be the Hero as long as the front face of the card has the types legendary creature.
 
-* 906.4 The Coalition variant uses typal identity to determine what cards can be in a deck with a certain Hero. The typal identity of a card is any creature type printed on the text of the card, including its creature type and any ability text of the card. A card may have multiple typal idenities, or no typal identity.
+* 906.4 The Coalition variant uses typal identity to determine what cards can be in a deck with a certain Hero. A card contains a typal identity for each creature type printed on the text of the card, including its creature type and any ability text of the card. A card may have multiple typal idenities, or no typal identity.
 
 	* 906.4a Typal identity is established before the game begins, and is affected by Changeling.
-		* Example: Morphon the Boundless is all creature types, as it has Changeling.
+		* Example: Morphon the Boundless is all creature types, as it has Changeling, and thus has all typal identities.
 
-	* 906.4b Reminder text is ignored when determining typal identity.
+	* 906.4b Reminder text is ignored when determining typal identities.
 
-	* 906.5c The back face of a double-faced card is included when determining a card's typal identity. This is an exception to rule 712.8a.
+	* 906.5c The back face of a double-faced card is included when determining a card's typal identities. This is an exception to rule 712.8a.
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
-	* 906.6a Each deck must contain exactly 60 cards and an 8 card sideboard. The hero creature starts the game in the sideboard and is not part of the 60 deck.
+	* 906.6a Each deck must contain exactly 60 cards and an 10 card sideboard. The hero creature starts the game in the sideboard and is not part of the 60 deck.
 
 	* 906.6b Each creature card may be included a maximum of four times.
 
@@ -31,7 +31,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6d Each non-creature, non-land card must have a different English name.
 
-	* 906.6e Every card in a Coalition deck and its sideboard must share a single chosen typal identity. Cards with no typal identity are not subject to this restriction.
+	* 906.6e Every card in a Coalition deck and its sideboard must share a chosen typal identity. Cards with no typal identity are not subject to this restriction.
 
 	* 906.6f The deck must contain a legendary creature in its sideboard, designated its Hero.
 
@@ -43,8 +43,6 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.9 If a Hero would be exiled from anywhere or put into its owner's hand, graveyard, or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event.
 
-* 906.10 The first time each turn a hero creature deals player damage, its owner chooses to either "Flourish", defined as drawing a card (or, should an effect prevent this and no card is drawn this way, place the top card of their library into hand), or Prosper, defined as "Scry 1, then create a tapped Treasure token."
-
 * 903.11. The Coalition variant includes the following specification for winning and losing the game.
 All other rules for ending the game also apply. (See rule 104.)
-	* 903.11b A player wins the game if creatures they own have dealt a total of 21 combat damage, combined with any additional player damage dealt by their Hero creature.
+	* 903.11b A player wins the game if creatures they own have dealt equal to or excess of 21 combat damage combined with any additional player damage dealt by their Hero creature.
