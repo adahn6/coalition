@@ -37,8 +37,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* Goblins are already a very well supported type, and the sticker effect is both frustrating to engage with and an extremely consistent ritual for high mana value Goblins.
 * [Necropotence](https://scryfall.com/card/ima/98/necropotence)
 	* Even as a singleton, Necropotence is a format warping card in any format and could cause unfortunate play patterns.
-* [Sensei's Divining Top](https://scryfall.com/card/2x2/314/senseis-divining-top)
-	* Decks should be consistent enough without tutors. Also, just annoying.
 * [Sol Ring](https://scryfall.com/card/cmm/410/sol-ring)
 	* Access to fast mana is, overall, restricted
 * [Tinker](https://scryfall.com/card/ulg/45/tinker)
@@ -81,6 +79,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* As the format is multiplayer, Oath of Druids is not a safe bet for any player. Legal for now unless consistent harmful play patterns emerge.
 * [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)
 	* Unclear what Ragavan's power potential is, may get banned subject to testing.
+* [Sensei's Divining Top](https://scryfall.com/card/2x2/314/senseis-divining-top)
+	* Play pattern here could slow down play too much, but the format is aggressive enough that this card is unlikely to be too powerful to allow.
 * [Skullclamp](https://scryfall.com/card/moc/379/skullclamp)
 	* Overall, token creation is restricted here between singleton non-creature spells and typal restrictions. Skullclamp could be broken, but the burden of proof is on playtesting.
 * [Strip Mine](https://scryfall.com/card/vma/316/strip-mine)
