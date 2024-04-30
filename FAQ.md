@@ -4,6 +4,22 @@
 
 The goal of this format is to provide a multiplayer format that's fun, chaotic, and fast. Ideally, all three matches can be played in around an hour or so and everyone can have a chance to have some high-value interactions and plays. To that end, rules and bans will be tweaked to ensure that this vision of how the games should play can be relatively consistent from table to table. That being said: in any format of Magic, there will always be better decks and worse decks. Play to win, but also win in a way that's appropriate for the environment. If you're playing with friends and have a deck that consistently beats them, consider trying another deck or swapping out some cards. If you're at a tournament, be gracious both in victory and defeat. Above all, have fun.
 
+## Quick rules
+
+### Coming from Commander:
+If you're familiar with Commander and just want a quick run down on what's different in this format, here's an itemized summary of what changes:
+* **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put them into hand**-- what you do from there is up to you
+  * **No command tax**!
+* Players start at **25 life**
+* **No color identity** restrictions; but instead, there is the new **Typal restrictions**
+* Decks are **sixty cards** and can have **multiple copies**
+  * 4x lands, 4x creatures  
+* **No commander damage** lose condition, but instead a new **Coalition win condition**
+  * **All combat damage from all creature**, plus **any other player damage from your hero**
+  * You win the game if you get to 21!
+* **Best of 3**
+  * **Sideboard** in-between matches, add up the total you got towards your win condition at the end of each match 
+
 ## FAQ
 
 ### Why isn't this just a Commander variant?
