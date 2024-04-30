@@ -1,6 +1,6 @@
 # Coalition format
 ![3-5 Players](images/players.png "Players")
-![25 Life](images/health.png "Life")
+![25 Life](images/life.png "Life")
 ![120 Minutes](images/games.png "Games")
 
 Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. In this format, you'll build a sixty-card deck, plus sideboard, around a legendary "hero" creature. You'll choose a creature type printed anywhere on the hero creature; then, all other cards in the deck must have that printed on them as well (unless they have no creature types printed at all), forming a "coalition" of that type and its allies. 
