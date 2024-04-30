@@ -48,7 +48,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 	* Cards with changeling may be chosen for the legendary creature and may be included in any deck, however a singular shared type must be used for all cards that do not have changeling.
 		* Example: [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular choice of those types
 * Legendary creature must be a legendary creature on the front side of the card
-
+	* Yes, [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide) is allowed as a Hero, as her card text defines her as a Legendary Creature on the front side when not on the battlefield.
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
