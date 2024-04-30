@@ -70,15 +70,15 @@ block-beta
     columns 1
     Creature 
   end
-  block:group1:4
+  block:group3:4
     columns 1
     Creature 
  end
- block:group1:4
+ block:group4:4
     columns 1
     Creature 
  end
- block:group1:4
+ block:group5:4
     columns 1
     Creature 
   end
