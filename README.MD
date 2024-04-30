@@ -65,7 +65,7 @@ Because of the unique nature of the Coalition win conditions, there are special 
 ```mermaid
 block-beta
   columns 4
-  ["Main Deck"]:4
+  A["Main Deck"]:4
   block:group1:4
     columns 1
     Creature 
