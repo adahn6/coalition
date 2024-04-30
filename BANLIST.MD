@@ -13,6 +13,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* This card is already banned in nearly all formats for very good reason.
 * [Channel](https://scryfall.com/card/ima/157/channel)
 	* This card is already banned in nearly all formats for very good reason.
+* [Chandra's Ignition](https://scryfall.com/card/lcc/220/chandras-ignition)
+	* This card is extremely powerful given the format's win condition. A ban may not strictly be necessary, but seems appropriate. May be revisited in future.
 * [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor)
 	* Decks should be consistent enough without tutors.
 * [Dreadhorde Arcanist](https://scryfall.com/card/war/125/dreadhorde-arcanist)
@@ -96,12 +98,16 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 
 ## Current watchlist:
 This section contains cards considering bans based on playtesting
+* [Arcbond](https://scryfall.com/card/frf/91/arcbond)
+	* This card can do quite a lot towards the format's win condition, and could potentially become too powerful to allow. But right now, it seems likelier to be a fun trick to turn tables on opponents, so it's staying in pending playtests.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
 * [Flash](https://scryfall.com/card/a25/57/flash)
 	* Because of typal and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get unbanned.
 * [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
 	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
+* [Themberchaud](https://scryfall.com/card/sld/728/themberchaud)
+	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the hero creature. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
