@@ -15,7 +15,7 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * Decks are **sixty cards** and can have **multiple copies**
   * 4x lands, 4x creatures  
 * **No commander damage** lose condition, but instead a new **Coalition win condition**
-  * **All combat damage from all creature**, plus **any other player damage from your hero**
+  * **All combat damage from all creatures**, plus **any other player damage from your hero**
   * You win the game if you get to 21!
 * **Best of 3**
   * **Sideboard** in-between matches, add up the total you got towards your win condition at the end of each match 
