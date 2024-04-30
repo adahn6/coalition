@@ -1,14 +1,14 @@
 # Coalition format
 ![3-5 Players](images/players.png "Players") ![Deck](images/deck.png "Deck") ![25 Life](images/life.png "Life") ![120 Minutes](images/games.png "Games")
 
-Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. In this format, you'll build a sixty-card deck, plus sideboard, around a legendary "hero" creature. You'll choose a creature type printed anywhere on the hero creature; then, all other cards in the deck must have that printed on them as well (unless they have no creature types printed at all), forming a "coalition" of that type and its allies. 
+Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; then, all other cards in the deck that have a creature type printed must have that type printed, forming a "coalition" of that type and its allies. 
 
-As you play, you'll track the combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of these victory points and you win the game. The goal of the format is to prioritize synergistic creature type decks with combat damage contributing to a first-class win condition. But Coalition doesn't stop there-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
+As you play, you'll get points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of these victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
-Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its Typal identities. Heroes are superficially similar to commanders, but the subtle differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
+Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its Typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
-* Fast, aggressive multi-player games
+* Fast, aggressive multiplayer games
 * Creature typal decks are flavorful and fun to build
 * Eternal format allows for a large deckbuilding pool
 * Hybridizes 60 card playstyles with multiplayer magic
@@ -22,7 +22,7 @@ As you play, you'll keep track of the combat damage your creatures deal other pl
 As of writing, winning a game also confers a 5 point victory point reward. This is subject to further playtesting.
 
 ## Typal identity
-A card's typal identity comes from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). Every card in your deck must share a single typal identity, or have no typal identity.
+A card's typal identies come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card may have multiple Typal identities, or none at all. Every card in your deck must share a single typal identity, or have no typal identity.
 
 ## Deck format:
 * 60 cards
@@ -30,10 +30,7 @@ A card's typal identity comes from any part of that card that references a creat
 	* Must include one legendary creature referred to as your hero creature
 * Up to 4x of creatures
 * Up to 4x of any nonbasic lands, unlimited basics
-* Singleton non-creature, non-land cards
-
-![Main Deck](images/maindeck.png "Main Deck") ![Sideboard](images/sideboard.png "Sideboard")
-
+* 1x non-creature, non-land cards
 
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
 
@@ -65,4 +62,4 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 * As a replacement effect, if the hero creature would enter your library or hand, you may instead choose to remove it from the game
 
 ## Other rules modifications
-Because of the unique nature of the Coalition win conditions, there are special rules for how to manage conceding. While a player may still concede at instant speed, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. Without this rule, players could weaponize conceding at instant speed before an opponent deals combat damage to them in an attempt to gain an advantage; with this rule in place, doing so will disadvantage them far more than any advantage it could ever infer.
+Because Coalition is multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. Without this rule, players could weaponize conceding at instant speed before an opponent deals combat damage to them in an attempt to gain an advantage; with this rule in place, doing so will disadvantage them far more than any advantage it could ever infer.
