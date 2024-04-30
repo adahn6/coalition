@@ -64,11 +64,11 @@ Because of the unique nature of the Coalition win conditions, there are special 
 
 ```mermaid
 block-beta
-  columns 3
-  a:3
-  block:group1:2
-    columns 2
-    h i j k
+  columns 4
+  Main Deck:4
+  block:group1:4
+    columns 1
+    Creature 
   end
   g
   block:group2:3
