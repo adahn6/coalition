@@ -32,6 +32,9 @@ A card's typal identity comes from any part of that card that references a creat
 * Up to 4x of any nonbasic lands, unlimited basics
 * Singleton non-creature, non-land cards
 
+![Main Deck](images/maindeck.png "Main Deck") ![Sideboard](images/sideboard.png "Sideboard")
+
+
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
 
 ### Deck Restrictions: 
