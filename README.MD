@@ -69,12 +69,15 @@ block-beta
   block:group1:4
     columns 1
     Creature 
+  end
   block:group1:4
     columns 1
     Creature 
+ end
  block:group1:4
     columns 1
     Creature 
+ end
  block:group1:4
     columns 1
     Creature 
