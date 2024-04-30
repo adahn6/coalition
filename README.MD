@@ -63,3 +63,5 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 
 ## Other rules modifications
 Because Coalition is multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. Without this rule, players could weaponize conceding at instant speed before an opponent deals combat damage to them in an attempt to gain an advantage; with this rule in place, doing so will disadvantage them far more than any advantage it could ever infer.
+
+As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 21 victory points and there are no penalties to any player who conceded. As a corrolary, if a game becomes a tie, no penalties or bonuses are given and players simply use their existing victory points at the time of the tie.
