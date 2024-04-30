@@ -1,7 +1,7 @@
 # Coalition format
 ![3-5 Players](images/players.png "Players") ![Deck](images/deck.png "Deck") ![25 Life](images/life.png "Life") ![120 Minutes](images/games.png "Games")
 
-Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck that have a creature type printed must have that type printed, forming a "coalition" of that type and its allies. 
+Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck that have a creature type printed must have that type printed, forming a "coalition" around that type. 
 
 As you play, you'll get points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of these victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
