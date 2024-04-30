@@ -61,30 +61,3 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 
 ## Other rules modifications
 Because of the unique nature of the Coalition win conditions, there are special rules for how to manage conceding. While a player may still concede at instant speed, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. Without this rule, players could weaponize conceding at instant speed before an opponent deals combat damage to them in an attempt to gain an advantage; with this rule in place, doing so will disadvantage them far more than any advantage it could ever infer.
-
-```mermaid
-block-beta
-  columns 4
-  A["Main Deck"]:4
-  block:group1:4
-    columns 1
-    Creature 
-  end
-  block:group3:4
-    columns 1
-    Creature 
- end
- block:group4:4
-    columns 1
-    Creature 
- end
- block:group5:4
-    columns 1
-    Creature 
-  end
-  g
-  block:group2:3
-    %% columns auto (default)
-    l m n o p q r
-  end
-```
