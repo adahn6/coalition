@@ -29,9 +29,9 @@ A card's typal identies come from any part of that card that references a creatu
 
 * 60 card main deck, 10 card sideboard
 	* Sideboard must include one legendary creature referred to as your hero creature
-* Up to 4x of creatures
-* Up to 4x of any nonbasic lands, unlimited basics
+* Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
+* Unlimited basics
 
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
 
