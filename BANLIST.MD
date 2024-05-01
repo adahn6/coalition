@@ -1,5 +1,5 @@
 # Banned cards
-This ban list uses the legacy banlist as inspiration, and is a work in progress pending playtesting. Updates will be made semi-regularly as playtests occur. 
+This ban list uses the [Legacy banlist](https://magic.wizards.com/en/banned-restricted-list) as inspiration, and is a work in progress pending playtesting. Updates will be made semi-regularly as playtests occur. 
 
 ## Guiding Principles
 Generally, the preference to not ban cards. However, cards that are overly damaging to the spirit of the format may need to be banned-- as an example, [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle) is currently banned as its win condition is not one that is in the spirit of the game and is extremely consistent. Most access to overly fast mana is currently banned, though [Ancient Tomb](https://scryfall.com/card/uma/236/ancient-tomb) is still allowed as it is a land-based mana accelerator and its life cost is significant. Similarly, most tutors have been banned as the consistency of decks is already quite high; new cards with tutor effects may be banned as playtests continue.
