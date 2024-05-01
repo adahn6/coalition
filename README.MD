@@ -25,6 +25,8 @@ As of writing, winning a game also confers a 5 point victory point reward. This 
 A card's typal identies come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card may have multiple Typal identities, or none at all. Every card in your deck must share a single typal identity, or have no typal identity.
 
 ## Deck format:
+![60 card main deck](images/maindeck.png "60 card main deck") ![10 card sideboard](images/sideboard.png "10 card sideboard")
+
 * 60 cards
 * 10 card sideboard
 	* Must include one legendary creature referred to as your hero creature
