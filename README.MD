@@ -64,6 +64,6 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 * As a replacement effect, if the hero creature would enter your library or hand, you may instead choose to remove it from the game
 
 ## Other rules modifications
-Because Coalition is multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players weaponizing conceding advantageously.
+Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players weaponizing conceding advantageously.
 
 As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 21 victory points and there are no penalties to any player who conceded. Additionally, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties or bonuses are given and players simply use their existing victory points at the end of the game.
