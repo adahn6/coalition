@@ -11,8 +11,8 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put them into hand**-- what you do from there is up to you
   * **No command tax**!
 * Players start at **25 life**
-* **No color identity** restrictions; but instead, there is the new **Typal restrictions**
-* Decks are **sixty cards** and can have **multiple copies**
+* **No color identity** restrictions; but instead, there is the new **typal identity** restrictions
+* Decks are **sixty cards** and are **not highlander**
   * 4x lands, 4x creatures  
 * **No commander damage** lose condition, but instead a new **Coalition win condition**
   * **All combat damage from all creatures**, plus **any other player damage from your hero**
