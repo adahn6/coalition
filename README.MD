@@ -1,4 +1,5 @@
 # Coalition Format
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/players_dark.png">
   <img alt="3-5 Players" src="images/players_light.png">
