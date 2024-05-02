@@ -56,10 +56,10 @@ Examples of typal identity choices for decks:
 > “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. all decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
 
 > [!NOTE] 
-> As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types. It should be treated as though those types were explicitly printed on the card; this is subject to change. 
+> As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types; it should be treated as though those types were explicitly printed on the card; this is subject to change. 
 
 > [!NOTE] 
-> Cards with changeling may be chosen for the legendary creature and may be included in any deck, however a singular shared type must be used for all cards that do not have changeling. E.g., [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular choice of those types
+> Cards with changeling may be chosen for the legendary creature, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless), and non-legendary changelings, e.g. [Changeling Outcast](https://scryfall.com/card/otc/128/changeling-outcast) may be included in any deck, however a singular shared typal identity must be chosen and shared by all cards that do not have changeling.
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
