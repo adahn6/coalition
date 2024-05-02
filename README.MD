@@ -53,8 +53,8 @@ You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-
 You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian creature type
 [!TIP] 
 You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird creature type
-[!TIP] 
-You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
+> [!TIP] 
+> You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
 [!TIP] 
 You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo types
 	
