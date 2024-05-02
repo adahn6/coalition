@@ -45,7 +45,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 > No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
 
 > [!WARNING]
-> All cards in your deck share a single [Typal identity](https://github.com/adahn6/coalition/tree/main?tab=readme-ov-file#typal-identity) with your hero creature, or have no typal identity. *This type may not be Human*.
+> All cards in your deck share a single [Typal identity](README.MDe#typal-identity) with your hero creature, or have no typal identity. *This type may not be Human*.
 
 > [!WARNING] 
 > No companion or partner
