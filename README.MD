@@ -36,10 +36,7 @@ A card's typal identies come from any part of that card that references a creatu
 * Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
 * Unlimited basic lands
-
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
-
-### Deck Restrictions: 
 > [!WARNING]
 > No cards from the [banned cards list](BANLIST.MD)
 
