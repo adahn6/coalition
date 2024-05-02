@@ -45,7 +45,8 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 	* No companion or partner
 * All cards in your deck share a single typal identity with your hero creature, or have no typal identity. *This type may not be Human*.
 	* Typal identity is defined as “All creature types printed on the card, with the exception of ‘non-‘ type clauses”
-		[!TIP] You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) and choose the Dragon type printed in her ability
+[!TIP]
+You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) and choose the Dragon type printed in her ability
 		* Example: You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian creature type
 		* Example: You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird creature type
 		* Example: You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
