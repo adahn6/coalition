@@ -42,11 +42,11 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards in your deck share a single [typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. *The chosen typal identity may not be Human*.
+* All cards in your deck share a single [typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. **The chosen typal identity may not be Human**.
 * No companion or partner
 
 Examples of typal identity choices for decks:
-* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your Hero, you can choose Dragon typal identity from the Dragon type printed in her ability
+* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon typal identity from the Dragon type printed in her ability
 * You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian typal identity
 * You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird typal identity
 * You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant typal identities
