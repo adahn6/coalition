@@ -8,7 +8,7 @@ Coalition is a fast-paced and chaotic multiplayer format about leading creature 
 
 As you play, you'll get points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of these victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
-Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its Typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
+Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
 * Fast, aggressive multiplayer games
@@ -25,7 +25,7 @@ As you play, you'll keep track of the combat damage your creatures deal other pl
 As of writing, winning a game also confers a 5 point victory point reward. This is subject to further playtesting.
 
 ## Typal identity
-A card's typal identies come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card may have multiple Typal identities, or none at all. Every card in your deck must share a single typal identity, or have no typal identity.
+A card's typal identies come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card may have multiple typal identities, or none at all. Every card in your deck must share a single typal identity, or have no typal identity.
 
 ## Deck format:
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
@@ -42,15 +42,15 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards in your deck share a single [Typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. *The chosen Typal identity may not be Human*.
+* All cards in your deck share a single [typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. *The chosen typal identity may not be Human*.
 * No companion or partner
 
-Examples of Typal choices for decks:
-* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your Hero, you can choose Dragon Typal identity from the Dragon type printed in her ability
-* You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian Typal identity
-* You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird Typal identity
-* You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant Typal identities
-* You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo Typal identities
+Examples of typal identity choices for decks:
+* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your Hero, you can choose Dragon typal identity from the Dragon type printed in her ability
+* You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian typal identity
+* You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird typal identity
+* You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant typal identities
+* You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo typal identities
 	
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. all decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
