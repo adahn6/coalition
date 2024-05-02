@@ -42,8 +42,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ### Deck Restrictions: 
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards
-> [!Alert] 
-> No companion or partner
+> [!ALERT] No companion or partner
 
 * All cards in your deck share a single typal identity with your hero creature, or have no typal identity. *This type may not be Human*.
 	* Typal identity is defined as “All creature types printed on the card, with the exception of ‘non-‘ type clauses”
