@@ -63,12 +63,11 @@ Examples of typal identity choices for decks:
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
-* If it fails to resolve, it is treated like any other card
-	* While putting the hero into hand is a special action that doesn't use the stack, it is cast normally and can be countered like normal spells
-	* If it's put into the graveyard or exile because of this, you can use the state-based action after zone transition to remove it from the game again
+* While putting a hero into hand is a special action that doesn't use the stack, it is then simply a card in hand; what you do with it from there is up to you
 * As a state-based action, it can be removed from the game after it has transitioned zones
-	* “If a hero creature is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game.”
-* As a replacement effect, if the hero creature would enter your library or hand, you may instead choose to remove it from the game
+	* “If a hero is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704"
+* As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
+	* "If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5."
 
 ## Other rules modifications
 Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players weaponizing conceding advantageously.
