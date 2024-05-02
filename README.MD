@@ -42,20 +42,27 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ### Deck Restrictions: 
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards
-	* No companion or partner
+[!Alert] No companion or partner
 * All cards in your deck share a single typal identity with your hero creature, or have no typal identity. *This type may not be Human*.
 	* Typal identity is defined as “All creature types printed on the card, with the exception of ‘non-‘ type clauses”
 [!TIP]
 You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) and choose the Dragon type printed in her ability
-		* Example: You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian creature type
-		* Example: You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird creature type
-		* Example: You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
-		* Example: You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo types
-	* Note: “Non-[Creature Type]” clauses do not count as a creature type for this purpose
-		* Example: All decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
-	* Note: As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types. It should be treated as though those types were explicitly printed on the card; this is subject to change. 
-	* Cards with changeling may be chosen for the legendary creature and may be included in any deck, however a singular shared type must be used for all cards that do not have changeling.
-		* Example: [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular choice of those types
+[!TIP] 
+You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian creature type
+[!TIP] 
+You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird creature type
+[!TIP] 
+You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
+[!TIP] 
+You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo types
+	
+[!NOTE] 
+“Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. all decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
+[!NOTE] 
+As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types. It should be treated as though those types were explicitly printed on the card; this is subject to change. 
+[!Alert] 
+Cards with changeling may be chosen for the legendary creature and may be included in any deck, however a singular shared type must be used for all cards that do not have changeling.
+* Example: [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular choice of those types
 * Legendary creature must be a legendary creature on the front side of the card
 	* Yes, [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide) is allowed as a Hero, as her card text defines her as a Legendary Creature on the front side when not on the battlefield.
 
