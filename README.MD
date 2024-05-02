@@ -38,32 +38,19 @@ A card's typal identies come from any part of that card that references a creatu
 * Unlimited basic lands
 
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
-> [!WARNING]
-> No cards from the [banned cards list](BANLIST.MD)
 
-> [!WARNING]
-> No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
+## Deck Restrictions:
+* No cards from the [banned cards list](BANLIST.MD)
+* No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
+* All cards in your deck share a single [Typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. *The chosen Typal identity may not be Human*.
+* No companion or partner
 
-> [!WARNING]
-> All cards in your deck share a single [Typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. *This type may not be Human*.
-
-> [!WARNING] 
-> No companion or partner
-
-> [!TIP]
-> You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) and choose the Dragon type printed in her ability
-
-> [!TIP] 
-> You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian creature type
-
-> [!TIP] 
->You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird creature type
-
-> [!TIP] 
-> You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant types
-
->[!TIP] 
-> You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo types
+Examples of Typal choices for decks:
+* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your Hero, you can choose Dragon Typal identity from the Dragon type printed in her ability
+* You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian Typal identity
+* You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird Typal identity
+* You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant Typal identities
+* You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo Typal identities
 	
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. all decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
