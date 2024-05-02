@@ -1,5 +1,8 @@
 # Coalition Format
-![3-5 Players](images/players.png "Players") ![Deck](images/deck.png "Deck") ![25 Life](images/life.png "Life") ![120 Minutes](images/games.png "Games")
+
+![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
+![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
+
 
 Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck that have a creature type printed must have that type printed, forming a "coalition" around that type. 
 
