@@ -45,6 +45,7 @@ Wolverine, Wombat, Worm, Wraith, Wurm, Yeti, Zombie, and Zubera
 ```
 
 ## Helpful Scryfall queries
+The following Scryfall queries are provided as-is for assistance with deckbuilding. Note that there may be false positive inclusions if a card's title contains the creature type, and false negatives for unusual plurals (e.g. Wolves) unless the queries are modified for those cases.
 
 For finding all legendary creatures that could be a hero for a type, use the following query:
 ```
