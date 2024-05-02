@@ -40,13 +40,17 @@ A card's typal identies come from any part of that card that references a creatu
 For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
 
 ### Deck Restrictions: 
-* No cards from the [banned cards list](BANLIST.MD)
-* No legendary cards other than your hero in your 70 total cards
-> [!IMPORTANT] 
-> No companion or partner
+> [!WARNING]
+> No cards from the [banned cards list](BANLIST.MD)
 
-* All cards in your deck share a single typal identity with your hero creature, or have no typal identity. *This type may not be Human*.
-	* Typal identity is defined as “All creature types printed on the card, with the exception of ‘non-‘ type clauses”
+> [!WARNING]
+> No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
+
+> [!WARNING]
+> All cards in your deck share a single [Typal identity](https://github.com/adahn6/coalition/tree/main?tab=readme-ov-file#typal-identity) with your hero creature, or have no typal identity. *This type may not be Human*.
+
+> [!WARNING] 
+> No companion or partner
 
 > [!TIP]
 > You can choose [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) and choose the Dragon type printed in her ability
@@ -71,10 +75,6 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 
 > [!NOTE] 
 > Cards with changeling may be chosen for the legendary creature and may be included in any deck, however a singular shared type must be used for all cards that do not have changeling. E.g., [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) can be chosen as the legendary, but that doesn’t mean you can include Dragons AND Dwarves AND Spirits etc, just a singular choice of those types
-
-> [!WARNING]
-> Legendary creature must be a legendary creature on the front side of the card
-> Yes, [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide) is allowed as a Hero, as her card text defines her as a Legendary Creature on the front side when not on the battlefield.
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
