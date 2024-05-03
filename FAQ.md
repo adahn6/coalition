@@ -21,9 +21,13 @@ If you're familiar with Commander and just want a quick run down on what's diffe
   * **Sideboard** in-between matches, add up the total you got towards your win condition at the end of each match 
 
 ## FAQ
+These questions are all roughly based on real questions asked when going over the format
 
 ### Why isn't this just a Commander variant?
 Similar as it may seem on first glance, there are some very important differences in the format definitions. Being able to place the Hero creature in hand alone opens up a very different set of playstyles, and the differences don't stop there. With no concept of command tax, no color identity restrictions, 60 card non-singleton decks, and different win and lose conditions, there's as much different as there is similar. Try it out-- the differences become clear quickly when playing. 
+
+### Okay but why not use Command Zone, etc?
+The overall goal of this format is to provide a *different* multiplayer format from Commander and the mechanics and rules themselves should reflect that. Similar as a hero may seem to a commander, the inspiration for the mechanic actually lies closer to the original implementation of companion, with the generic companion restriction "Each card in your starting deck shares a single typal identity or has no typal identity."
 
 ### Why ban fast mana and tutors?
 There are two reasons for these restrictions. First, this format can already be extremely fast and chaotic; adding in fast mana or tutors would enable some truly absurd plays that other players may not have chances to respond to. Second, one notable feature in some other formats is that the inconsistency of getting these cards in an opening hand can lead to a sense of unfairness, where that player lucked into the advantage that other players want. That frustration is, overall, understandable and worth minimizing.
