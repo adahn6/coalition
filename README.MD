@@ -59,7 +59,7 @@ Examples of typal identity choices for decks:
 > As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types; it should be treated as though those types were explicitly printed on the card; this is subject to change. 
 
 > [!NOTE] 
-> Legendary creatures with changeling, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless), may be chosen as a hero, and non-legendary changelings, e.g. [Changeling Outcast](https://scryfall.com/card/otc/128/changeling-outcast) may be included in any deck; however a singular shared typal identity must be chosen and shared by all cards that do not have changeling.
+> Legendary creatures with changeling, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless), may be chosen as a hero, and non-legendary changelings, e.g. [Changeling Outcast](https://scryfall.com/card/otc/128/changeling-outcast), may be included in any deck; however a singular shared typal identity must be chosen and shared by all cards that do not have changeling.
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
@@ -70,7 +70,7 @@ Your hero starts outside the game. Once on your turn, anytime you could cast you
 	* "If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5."
 
 ## Other rules modifications
-Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players weaponizing conceding advantageously.
+Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously.
 
 As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 21 victory points and there are no penalties to any player who conceded. 
 
