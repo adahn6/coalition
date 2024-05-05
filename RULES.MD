@@ -12,14 +12,14 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.3a Double-faced cards can be the Hero as long as the front face of the card has the types legendary creature.
 
-* 906.4 The Coalition variant uses typal identity to determine what cards can be in a deck with a certain Hero. A card contains a typal identity for each creature type printed on the text of the card, including its creature type and any ability text of the card. A card may have multiple typal idenities, or no typal identity.
+* 906.4 The Coalition variant uses affiliation to determine what cards can be in a deck with a certain Hero. A card is affiliated with each creature type printed on the text of the card, including its creature type and any ability text of the card. 
 
-	* 906.4a Typal identity is established before the game begins, and is affected by Changeling.
-		* Example: Morphon the Boundless is all creature types, as it has Changeling, and thus has all typal identities.
+	* 906.4a Affiliation is established before the game begins, and is affected by characteristic defining abilities like Changeling.
+		* Example: Morphon the Boundless is affiliated with all creature types, as it has Changeling.
 
-	* 906.4b Reminder text is ignored when determining typal identities.
+	* 906.4b Reminder text is ignored when determining affiliation.
 
-	* 906.5c The back face of a double-faced card is included when determining a card's typal identities. This is an exception to rule 712.8a.
+	* 906.5c The back face of a double-faced card is included when determining a card's affiliation. This is an exception to rule 712.8a.
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
