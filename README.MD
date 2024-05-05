@@ -42,7 +42,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards in be affiliated with a single chosen creature type
+* All cards are affiliated with a single chosen creature type
 * No companion or partner
 
 Examples of typal identity choices for decks:
