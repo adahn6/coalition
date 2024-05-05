@@ -25,7 +25,7 @@ As you play, you'll keep track of the combat damage your creatures deal other pl
 As of writing, winning a game also confers a 5 point victory point reward. This is subject to further playtesting.
 
 ## Affiliation
-A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card is affiliated with all creature types printed this way.
+A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). 
 
 ## Deck format:
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
