@@ -24,8 +24,8 @@ As you play, you'll keep track of the combat damage your creatures deal other pl
 
 As of writing, winning a game also confers a 5 point victory point reward. This is subject to further playtesting.
 
-## Typal identity
-A card's typal identies come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card may have multiple typal identities, or none at all. Every card in your deck must share a single typal identity, or have no typal identity.
+## Affiliation
+A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). A card is affiliated with all creature types printed this way.
 
 ## Deck format:
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
@@ -42,15 +42,15 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards in your deck share a single [typal identity](README.MD#typal-identity) with your hero creature, or have no typal identity. **The chosen typal identity may not be Human**.
+* All cards in be affiliated with a single chosen creature type
 * No companion or partner
 
 Examples of typal identity choices for decks:
-* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon typal identity from the Dragon type printed in her ability
-* You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian typal identity
-* You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird typal identity
-* You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant typal identities
-* You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo typal identities
+* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon from the Dragon type printed in her ability
+* You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian affiliation
+* You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird affiliation
+* You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant affiliations
+* You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Sero affiliations
 	
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. all decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
@@ -59,7 +59,7 @@ Examples of typal identity choices for decks:
 > As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types; it should be treated as though those types were explicitly printed on the card; this is subject to change. 
 
 > [!NOTE] 
-> Legendary creatures with changeling, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless), may be chosen as a hero, and non-legendary changelings, e.g. [Changeling Outcast](https://scryfall.com/card/otc/128/changeling-outcast), may be included in any deck; however a singular shared typal identity must be chosen and shared by all cards that do not have changeling.
+> Legendary creatures with changeling, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless), may be chosen as a hero, and non-legendary changelings, e.g. [Changeling Outcast](https://scryfall.com/card/otc/128/changeling-outcast), may be included in any deck; however a singular shared affiliation must be chosen and shared by all cards that do not have changeling.
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
