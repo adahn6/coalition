@@ -4,9 +4,9 @@
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
 
-Coalition is a fast-paced and chaotic multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck must be "affiliated" with that type, forming your coalition.
+Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck must be "affiliated" with that type, forming your coalition.
 
-As you play, you'll get points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of these victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
+As you play, you'll get victory points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
 Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
@@ -19,13 +19,13 @@ Coalition plays a little differently than most other formats. It's aggressive an
 ## Play Rules/Modifiers
 This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and you'll sideboard in-between matches.  
 
-## Win condition
-As you play, you'll keep track of the combat damage your creatures deal other players, as well as any additional player damage dealt by your legendary creature. If this total reaches 21, you win the match! But it's not over there; Coalition is intended to be played as best of three games. You'll keep a total of your victory points across all three matched, whether you won or not, and the player at the end of three matches with the highest victory point total wins. 
-
-As of writing, winning a game also confers a 5 point victory point reward. This is subject to further playtesting.
+## Victory points
+As you play, you'll earn victory points for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 25, you win the match! But it's not over there; Coalition is intended to be played as best of three games. You'll keep a total of your victory points across all three matched, whether you won or not, and the player at the end of three matches with the highest victory point total wins. 
 
 ## Affiliation
-A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. The only exception to this is that a negation of a type does not count (i.e. "non-Humans" does not contribute to typal identity). 
+A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. As an exception, a negation of a type does not count towards a card's affiliation (i.e. "non-Humans" does not give affiliation with Humans). 
+
+A card that is not affiliated with any creature types is unaffiliated.
 
 ## Deck format:
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
@@ -42,24 +42,24 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards are affiliated with a single chosen creature type
+* All cards are either unaffiliated or are affiliated with your chosen creature type
 * No companion or partner
 
 Examples of typal identity choices for decks:
-* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon from the Dragon type printed in her ability
+* With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon affiliation from the Dragon type printed in her ability
 * You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian affiliation
 * You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird affiliation
 * You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant affiliations
 * You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Sero affiliations
 	
 > [!NOTE] 
-> “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. all decks can run [Embiggen](https://scryfall.com/card/unf/137/embiggen) as its text “target non-Brushwagg creature” does not count as referencing the Brushwagg creature type
+> “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
 > [!NOTE] 
 > As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types; it should be treated as though those types were explicitly printed on the card; this is subject to change. 
 
 > [!NOTE] 
-> Legendary creatures with changeling, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless), may be chosen as a hero, and non-legendary changelings, e.g. [Changeling Outcast](https://scryfall.com/card/otc/128/changeling-outcast), may be included in any deck; however a singular shared affiliation must be chosen and shared by all cards that do not have changeling.
+> Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), may be follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a hero, but only has the option of choosing an Insect affiliation. 
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
