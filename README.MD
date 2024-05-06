@@ -6,7 +6,7 @@
 
 Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck must be "affiliated" with that type, forming your coalition.
 
-As you play, you'll get victory points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 21 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
+As you play, you'll get victory points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 25 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
 Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
@@ -75,6 +75,6 @@ While there are differences from commanders, a hero does have similar state-base
 ## Other rules modifications
 Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously.
 
-As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 21 victory points and there are no penalties to any player who conceded. 
+As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 25 victory points and there are no penalties to any player who conceded. 
 
 In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties are given and players simply use their existing victory points at the end of the game.
