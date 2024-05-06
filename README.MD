@@ -63,7 +63,10 @@ Examples of typal identity choices for decks:
 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
-* While putting a hero into hand is a special action that doesn't use the stack, it is then simply a card in hand; what you do with it from there is up to you
+
+Heros may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on the spell. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
+
+While there are differences from commanders, they do use similar state-based actions and replacement effects duing the game:
 * As a state-based action, it can be removed from the game after it has transitioned zones
 	* “If a hero is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704"
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
