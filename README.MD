@@ -64,10 +64,10 @@ Examples of typal identity choices for decks:
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
 
-Heros may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on the spell. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
+Heroes may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on casting it. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
 
-While there are differences from commanders, they do use similar state-based actions and replacement effects duing the game:
-* As a state-based action, it can be removed from the game after it has transitioned zones
+While there are differences from commanders, a hero does have similar state-based actions and replacement effects duing the game:
+* As a state-based action, a hero can be removed from the game after it has transitioned zones
 	* “If a hero is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704"
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
 	* "If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5."
@@ -77,4 +77,4 @@ Because Coalition has multiple players with multiple games played, there are spe
 
 As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 21 victory points and there are no penalties to any player who conceded. 
 
-In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties or bonuses are given and players simply use their existing victory points at the end of the game.
+In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties are given and players simply use their existing victory points at the end of the game.
