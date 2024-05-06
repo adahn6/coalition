@@ -53,7 +53,7 @@ Examples of typal identity choices for decks:
 * You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Sero affiliations
 	
 > [!NOTE] 
-> “Non-[Creature Type]” clauses do not count as a creature type for this purpose, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
+> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
 > [!NOTE] 
 > As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types; it should be treated as though those types were explicitly printed on the card; this is subject to change. 
