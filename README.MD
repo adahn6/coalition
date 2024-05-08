@@ -79,3 +79,20 @@ Because Coalition has multiple players with multiple games played, there are spe
 As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 25 victory points and there are no penalties to any player who conceded. 
 
 In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties are given and players simply use their existing victory points at the end of the game.
+
+
+## Quick rules
+
+### Coming from Commander:
+If you're familiar with Commander and just want a quick run down on what's different in this format, here's an itemized summary of what changes:
+* **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put them into hand**-- what you do from there is up to you
+  * **No command tax**!
+* Players start at **25 life**
+* **No color identity** restrictions; but instead, there is the new **typal identity** restrictions
+* Decks are **sixty cards** and are **not highlander**
+  * 4x lands, 4x creatures  
+* **No commander damage** lose condition, but instead a new **Coalition win condition**
+  * **All combat damage from all creatures**, plus **any other player damage from your hero**
+  * You win the game if you get to 21!
+* **Best of 3**
+  * **Sideboard** in-between matches, add up the total you got towards your win condition at the end of each match 
