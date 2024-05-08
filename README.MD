@@ -42,8 +42,8 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards are either unaffiliated or are affiliated with your chosen creature type
-    * The chosen affiliation [**may not be Human**](https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-as-a-typal-identity-for-my-deck)
+* All cards are either [unaffiliated or are affiliated](#Affiliation) with your chosen creature type
+    * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-a-typal-identity-for-my-deck)
 * No companion or partner
 
 Examples of typal identity choices for decks:
