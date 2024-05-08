@@ -20,7 +20,7 @@ Coalition plays a little differently than most other formats. It's aggressive an
 This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and you'll sideboard in-between matches.  
 
 ## Victory points
-As you play, you'll earn victory points for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 25, you win the match! But it's not over there; Coalition is intended to be played as best of three games. You'll keep a total of your victory points across all three matched, whether you won or not, and the player at the end of three matches with the highest victory point total wins. 
+As you play, you'll earn victory points for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 25, you win the match! But it's not over there; Coalition is intended to be played as best of three games. The winner is the player with the most combined victory points across all three games.
 
 ## Affiliation
 A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. As an exception, a negation of a type does not count towards a card's affiliation (i.e. "non-Humans" does not give affiliation with Humans). 
