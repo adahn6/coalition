@@ -90,7 +90,7 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * Players start at **25 life**
 * **No color identity** restrictions; but instead, there is the new **affiliation** restrictions
 * Decks are **sixty cards** and are **not highlander**
-  * 4x lands, 4x creatures  
+  * 4x lands, 4x creatures, 1x all other cards  
 * **No commander damage** lose condition, but instead a new **victory point win condition**
   * **All combat damage from all creatures**, plus **any other player damage from your hero**
   * You win the game if you get to 25
