@@ -88,11 +88,11 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put them into hand**-- what you do from there is up to you
   * **No command tax**!
 * Players start at **25 life**
-* **No color identity** restrictions; but instead, there is the new **typal identity** restrictions
+* **No color identity** restrictions; but instead, there is the new **affiliation** restrictions
 * Decks are **sixty cards** and are **not highlander**
   * 4x lands, 4x creatures  
-* **No commander damage** lose condition, but instead a new **Coalition win condition**
+* **No commander damage** lose condition, but instead a new **victory point win condition**
   * **All combat damage from all creatures**, plus **any other player damage from your hero**
-  * You win the game if you get to 21!
+  * You win the game if you get to 25
 * **Best of 3**
-  * **Sideboard** in-between matches, add up the total you got towards your win condition at the end of each match 
+  * **Sideboard** after matches, and add up the total victory points across all three games to determine rankings
