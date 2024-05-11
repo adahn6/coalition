@@ -16,7 +16,7 @@ There are two reasons for these restrictions. First, this format can already be 
 ### Why not allow other legendary cards?
 The choice of legendary creature should really be something special, not just another card in the deck that you happen to have easy access to. To that end, removing other legendary cards helps increase its significance. And furthermore, access to any other legendary cards would dramatically change the power of decks, likely reducing the viability of the Hero creature and increasing the importance of non-Typal legendary spells like planewalkers and artifacts. That change would make the format's power levels harder to regulate while also reducing the typal aesthetic, which is a lose-lose.
 
-### Why can't I choose Human as a typal identity for my deck?
+### Why can't I choose Human affiliation for my deck?
 There are a few reasons. Firstly, Humans have the most cards printed by quite a large margin, which creates a incentive to choose them for maximum deckbuilding options; this incentive goes against the spirit of the format's deckbuilding. Second, many creature types have intentional mechanical synergies, but Human comes closer to a default type-- there's no obvious connective gameplay mechanics between most Humans. 
 
 ### Why do decks not just use highlander/singleton restrictions like Commander formats, or the same 4x restrictions for most 60 card formats?
