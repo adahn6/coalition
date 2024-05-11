@@ -8,11 +8,11 @@ Coalition is a fast and frenzied multiplayer format about leading creature coali
 
 As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; reach 25 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
-Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
+Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
 * Fast, aggressive multiplayer games
-* Creature typal decks are flavorful and fun to build
+* Creature type affiliation make decks flavorful and fun to build
 * Eternal format allows for a large deckbuilding pool
 * Hybridizes 60 card playstyles with multiplayer magic
 
@@ -45,10 +45,10 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
 * All cards are either [unaffiliated or are affiliated](#Affiliation) with your chosen creature type
-    * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-a-typal-identity-for-my-deck)
+    * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion or partner
 
-Examples of typal identity choices for decks:
+Affiliation examples:
 * With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon affiliation from the Dragon type printed in her ability
 * You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian affiliation
 * You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird affiliation
