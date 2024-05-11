@@ -1,13 +1,13 @@
 # Deckbuilding
 
 # Example Decks:
-* [Ranar, Warrior](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
+* [Ranar, Warrior affiliation](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
   * Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!
-* [Sarkhan, Dragons](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
+* [Sarkhan, Dragon affiliation](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
   * Use Sprite Dragons and Sarkhan to get +1+1 creatures on the field, while looting with Dragonborn Looter to help get out Murktide Regent!
-* [Emrakul, Eldrazi](https://www.moxfield.com/decks/gkTCyhX1VUijCaKwSelXRw)
+* [Emrakul, Eldrazi affiliation](https://www.moxfield.com/decks/gkTCyhX1VUijCaKwSelXRw)
   * Sneak the powerful Emrakul out on to the field to overpower your foes!
-* [Arden, Kor](https://www.moxfield.com/decks/CFkIOWHfNUiO3dMrNYzDXQ)
+* [Arden, Kor affiliation](https://www.moxfield.com/decks/CFkIOWHfNUiO3dMrNYzDXQ)
   * Bring out the big guns with Stoneforge Mystic and equip them for free on Arden!
 
 
