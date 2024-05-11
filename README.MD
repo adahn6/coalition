@@ -90,6 +90,7 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put them into hand**-- what you do from there is up to you
   * **No command tax**!
 * Players start at **25 life**
+* There is **no free mulligan**
 * **No color identity** restrictions; but instead, there is the new **affiliation** restrictions
 * Decks are **sixty cards** and are **not highlander**
   * 4x lands, 4x creatures, 1x all other cards  
@@ -98,3 +99,4 @@ If you're familiar with Commander and just want a quick run down on what's diffe
   * You win the game if you get to 25
 * **Best of 3**
   * **Sideboard** after matches, and add up the total victory points across all three games to determine rankings
+  * For game 1, decide the first player randomly. For games 2 and 3, the player ranked last chooses the first player. In the case of a tie, decide randomly which player ranked last chooses.
