@@ -103,7 +103,7 @@ This section contains cards considering bans based on playtesting
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
 * [Flash](https://scryfall.com/card/a25/57/flash)
-	* Because of affiliation and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get unbanned.
+	* Because of affiliation and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge.
 * [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
 	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
 * [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
