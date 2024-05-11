@@ -47,18 +47,18 @@ Wolverine, Wombat, Worm, Wraith, Wurm, Yeti, Zombie, and Zubera
 ## Helpful Scryfall queries
 The following Scryfall queries are provided as-is for assistance with deckbuilding. Note that there may be false positive inclusions if a card's title contains the creature type, and false negatives for unusual plurals (e.g. Wolves) unless the queries are modified for those cases.
 
-For finding all legendary creatures that could be a hero for a type, use the following query:
+To find all legendary creatures affiliated with a creature type, use the following query:
 ```
 (game:paper) -is:reserved t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/) 
 ```
-For finding all non-legendary creatures valid for a type, use the following query:
+To finding all non-legendary creatures affiliated with a creature type, use the following query:
 ```
 (game:paper) -is:reserved -t:legendary t:creature f:legacy (t:TYPE OR o:/ TYPE[s]?[^a-zA-Z]+/)
 ```
-For finding all typal noncreature spells valid for a type, use the following query:
+To find all noncreature spells affiliated with a creature type, use the following query:
 ```
 (game:paper) -is:reserved f:legacy -t:legendary -t:creature (o:/ TYPE[s]?[^a-zA-Z]+/)
 ```
 
 ## Sheets
-For aggregate data and quick links for typals, check out [this Google Sheets](https://docs.google.com/spreadsheets/d/1hEwRFH8E75JU7Sw15vyOXkVpo1Ly5rEP0Z_qgkT4T50/edit#gid=0)
+For aggregate data and quick links for creature types, check out [this Google Sheets](https://docs.google.com/spreadsheets/d/1hEwRFH8E75JU7Sw15vyOXkVpo1Ly5rEP0Z_qgkT4T50/edit#gid=0)
