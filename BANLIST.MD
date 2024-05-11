@@ -62,7 +62,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Expressive Iteration](https://scryfall.com/card/stx/186/expressive-iteration)
 	* There's no reason for this to be banned in this format.
 * [Flash](https://scryfall.com/card/a25/57/flash)
-	* This is banned from nearly all formats for good reason, but typal restrictions make this one a bit more interesting. Provisionally allowed until playtesting shows its potential.
+	* This is banned from nearly all formats for good reason, but affiliation restrictions make this one a bit more interesting. Provisionally allowed until playtesting shows its potential.
 * [Frantic Search](https://scryfall.com/card/cmm/96/frantic-search)
 	* There's no reason for this to be banned in this format.
 * [Gitaxian Probe](https://scryfall.com/card/nph/35/gitaxian-probe)
@@ -84,7 +84,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Sensei's Divining Top](https://scryfall.com/card/2x2/314/senseis-divining-top)
 	* Play pattern here could slow down play too much, but the format is aggressive enough that this card is unlikely to be too powerful to allow.
 * [Skullclamp](https://scryfall.com/card/moc/379/skullclamp)
-	* Overall, token creation is restricted here between singleton non-creature spells and typal restrictions. Skullclamp could be broken, but the burden of proof is on playtesting.
+	* Overall, token creation is restricted here between singleton non-creature spells and affiliation restrictions. Skullclamp could be broken, but the burden of proof is on playtesting.
 * [Strip Mine](https://scryfall.com/card/vma/316/strip-mine)
 	* Far too difficult to make effective in a multiplayer format to be worth banning.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise)
@@ -103,9 +103,11 @@ This section contains cards considering bans based on playtesting
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Very likely to get the banhammer, but they need to be truly broken not just extremely good. The concern is that with them, combo players are too good; without them, combo players have fewer tools.
 * [Flash](https://scryfall.com/card/a25/57/flash)
-	* Because of typal and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get unbanned.
+	* Because of affiliation and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get unbanned.
 * [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
 	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
+* [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
+	* The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem* to keep this one from being overly powerful. Subject to change as play patterns are uncovered.
 * [Themberchaud](https://scryfall.com/card/sld/728/themberchaud)
 	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the hero creature. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
 
