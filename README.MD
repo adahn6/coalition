@@ -6,7 +6,7 @@
 
 Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck must be "affiliated" with that type, forming your coalition.
 
-As you play, you'll get victory points for all combat damage your creatures deal, as well as any other player damage dealt by your hero; reach 25 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
+As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; reach 25 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
 
 Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by its typal identities. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
@@ -17,7 +17,9 @@ Coalition plays a little differently than most other formats. It's aggressive an
 * Hybridizes 60 card playstyles with multiplayer magic
 
 ## Play Rules/Modifiers
-This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and you'll sideboard in-between matches.  
+This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and you'll sideboard after each game.
+
+There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last may choose the first player.
 
 ## Victory points
 As you play, you'll earn victory points for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 25, you win the match! But it's not over there; Coalition is intended to be played as best of three games. The winner is the player with the most combined victory points across all three games.
@@ -92,7 +94,7 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * Decks are **sixty cards** and are **not highlander**
   * 4x lands, 4x creatures, 1x all other cards  
 * **No commander damage** lose condition, but instead a new **victory point win condition**
-  * **All combat damage from all creatures**, plus **any other player damage from your hero**
+  * Victory points are **all combat damage from all creatures**, plus **any other damage to opponents from your hero**
   * You win the game if you get to 25
 * **Best of 3**
   * **Sideboard** after matches, and add up the total victory points across all three games to determine rankings
