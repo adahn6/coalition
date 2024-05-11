@@ -68,7 +68,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Gitaxian Probe](https://scryfall.com/card/nph/35/gitaxian-probe)
 	* Honestly this maybe should stay banned but the effect is less good in multiplayer, and storm / combo should have access to some tools. Possibly gets banned again.
 * [Hermit Druid](https://scryfall.com/card/tpr/175/hermit-druid)
-	* This card is definitely extremely powerful in Legacy, but the legendary and creature type restrictions may actual prevent it from being nearly as good here. Playtesting required but unbanned until further notice.
+	* This card is definitely extremely powerful in Legacy, but the affiliation and legendary restrictions prevent it from being nearly as good here. Playtesting required but unbanned until further notice.
 * [Lurrus of the Dream-Den](https://scryfall.com/card/iko/226/lurrus-of-the-dream-den)
 	* Lurrus is an understandable ban in Legacy but the effect here simply isn't out of line with expected playstyles and other deck restrictions.
 * [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep)
