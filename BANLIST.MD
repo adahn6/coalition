@@ -9,6 +9,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * 25 cards with the Card Type “Conspiracy.” Click [here](https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&special=true&type=+%5b%22Conspiracy%22%5d) for the list.
 * 9 cards that reference "playing for ante." Click [here](https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&text=+%5b%22%20ante.%22%5d) for the list.
 * Cards whose art, text, name, or combination thereof that are racially or culturally offensive are banned in all formats. This list is a work in progress. Click [here](https://magic.wizards.com/en/news/announcements/depictions-racism-magic-2020-06-10) for the list.
+* All cards that bring a sticker or an Attraction into the game are banned.
 * [Balance](https://scryfall.com/card/ema/2/balance)
 	* This card is already banned in nearly all formats for very good reason.
 * [Channel](https://scryfall.com/card/ima/157/channel)
@@ -18,13 +19,13 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor)
 	* Decks should be consistent enough without tutors.
 * [Dreadhorde Arcanist](https://scryfall.com/card/war/125/dreadhorde-arcanist)
-	* Banned in Legacy for good reason, Dreadhorde Arcanist exponentionally boosts two types that already have strong support (wizards and zombies) and creates decks that are just too consistently powerful. 
+	* Banned in Legacy for good reason, Dreadhorde Arcanist exponentionally boosts two types that already have strong support (wizards and zombies) and creates decks that are just too consistently powerful. There has been discussion around the power level of its effects given the singleton restriction on instants and sorceries; playtests around unbanning it may occur.
 * [Goblin Recruiter](https://scryfall.com/card/6ed/186/goblin-recruiter)
 	* It's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting while a player orders their entire libary.
 * [Gush](https://scryfall.com/card/jvc/27/gush)
 	* Gush is extremely powerful, but combo player should have tools-- remains banned provisionally, but playtests around it are scheduled.
 * [Heartless Hidetsugu](https://scryfall.com/card/cns/144/heartless-hidetsugu)
-	* While not impossible to deal with, Heartless Hidetsugu represents a very aggressive way to immediately win the game with maximum victory points and this playstyle is discouraged. 
+	* While relatively high manag cost and not strictly impossible to deal with, Heartless Hidetsugu is in essence a one-card combo to win at potentially maximum victory points.
 * [Imperial Seal](https://scryfall.com/card/2x2/354/imperial-seal)
 	* Decks should be consistent enough without tutors.
 * [Mana Crypt](https://scryfall.com/card/2xm/270/mana-crypt)
@@ -35,8 +36,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* Malcolm is just too strong, with extremely consistent access to a two-card comb with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
 * [Mystical Tutor](https://scryfall.com/card/ema/62/mystical-tutor)
 	* Decks should be consistent enough without tutors.
-* ["Name Sticker" Goblin](https://scryfall.com/card/unf/107m/name-sticker-goblin)
-	* Goblins are already a very well supported type, and the sticker effect is both frustrating to engage with and an extremely consistent ritual for high mana value Goblins.
 * [Necropotence](https://scryfall.com/card/ima/98/necropotence)
 	* Even as a singleton, Necropotence is a format warping card in any format and could cause unfortunate play patterns.
 * [Sol Ring](https://scryfall.com/card/cmm/410/sol-ring)
@@ -44,9 +43,9 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Tinker](https://scryfall.com/card/ulg/45/tinker)
 	* This card is already banned in nearly all formats for very good reason.
 * [Thassa’s Oracle](https://scryfall.com/card/thb/73/thassas-oracle)
-	* The win condition here goes against the overall spirit of the format. It's not as strong as other formats since it doesn't contribute directly to victory points as much, but provisionally banned and likely to stay that way.
+	* Primarily banned as a signpost ban-- the win condition here goes against the overall spirit of the format. And while its win effect doesn't directly contribute to victory points and thus seems less effective here than in other formats, it's still extremely consistent at 4x.
 * [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach)
-	* On the potential unban list. Format restrictions make this one a lot harder to work, though obviously it is still very powerful
+	* On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful
 * [Vampiric Tutor](https://scryfall.com/card/cmr/156/vampiric-tutor)
 	* Decks should be consistent enough without tutors. 
 
@@ -62,17 +61,17 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Expressive Iteration](https://scryfall.com/card/stx/186/expressive-iteration)
 	* There's no reason for this to be banned in this format.
 * [Flash](https://scryfall.com/card/a25/57/flash)
-	* This is banned from nearly all formats for good reason, but affiliation restrictions make this one a bit more interesting. Provisionally allowed until playtesting shows its potential.
+	* This is banned from nearly all formats for good reason, but deckbuilding restrictions make this one a bit more interesting. Provisionally allowed until playtesting shows its potential.
 * [Frantic Search](https://scryfall.com/card/cmm/96/frantic-search)
 	* There's no reason for this to be banned in this format.
 * [Gitaxian Probe](https://scryfall.com/card/nph/35/gitaxian-probe)
 	* Honestly this maybe should stay banned but the effect is less good in multiplayer, and storm / combo should have access to some tools. Possibly gets banned again.
 * [Hermit Druid](https://scryfall.com/card/tpr/175/hermit-druid)
-	* This card is definitely extremely powerful in Legacy, but the affiliation and legendary restrictions prevent it from being nearly as good here. Playtesting required but unbanned until further notice.
+	* This card is definitely extremely powerful in Legacy, but deck restrictions keep it in check. Playtesting required but unbanned until further notice.
 * [Lurrus of the Dream-Den](https://scryfall.com/card/iko/226/lurrus-of-the-dream-den)
 	* Lurrus is an understandable ban in Legacy but the effect here simply isn't out of line with expected playstyles and other deck restrictions.
 * [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep)
-	* Singleton restriction makes this less of an issue than other formats, and life totals are not a non-issue here making the Phyrexian cost actually matter.
+	* Singleton restriction makes this less of an issue than other formats, and starting life totals make making the Phyrexian cost relatively impactful.
 * [Mana Drain](https://scryfall.com/card/2x2/57/mana-drain)
 	* Counter spells are fine.
 * [Mind Twist](https://scryfall.com/card/me3/72/mind-twist)
@@ -84,7 +83,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Sensei's Divining Top](https://scryfall.com/card/2x2/314/senseis-divining-top)
 	* Play pattern here could slow down play too much, but the format is aggressive enough that this card is unlikely to be too powerful to allow.
 * [Skullclamp](https://scryfall.com/card/moc/379/skullclamp)
-	* Overall, token creation is restricted here between singleton non-creature spells and affiliation restrictions. Skullclamp could be broken, but the burden of proof is on playtesting.
+	* Overall, token creation is relatively restricted in this format. Skullclamp could be broken, but the burden of proof is on playtesting.
 * [Strip Mine](https://scryfall.com/card/vma/316/strip-mine)
 	* Far too difficult to make effective in a multiplayer format to be worth banning.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise)
@@ -103,13 +102,14 @@ This section contains cards considering bans based on playtesting
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch.
 * [Flash](https://scryfall.com/card/a25/57/flash)
-	* Because of affiliation and legendary restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge.
+	* Because of deckbuilding restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge.
 * [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
 	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
 * [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
 	* The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem* to keep this one from being overly powerful. Subject to change as play patterns are uncovered.
 * [Themberchaud](https://scryfall.com/card/sld/728/themberchaud)
 	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the hero creature. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
+
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
