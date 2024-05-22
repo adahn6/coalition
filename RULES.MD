@@ -16,8 +16,10 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 * 906.4 The Coalition variant uses affiliation to determine what cards can be in a deck with a certain hero. A card is affiliated with each creature type printed on the text of the card, including its creature type and any ability text of the card. 
 
 	* 906.4a Affiliation is established before the game begins, and is affected by characteristic defining abilities like Changeling.
+
 		* Example: Morphon the Boundless is affiliated with all creature types, as it has Changeling.
-	        * Example: Grist, the Hunger Tide is an Insect creature affiliated with Insects during deck construction
+
+		* Example: Grist, the Hunger Tide is an Insect creature affiliated with Insects during deck construction
 
 	* 906.4b Reminder text is ignored when determining affiliation.
 
