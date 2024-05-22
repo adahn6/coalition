@@ -63,7 +63,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.11e Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
 
-	* 906.11f A player who concededs the game at any time loses all victory points and may not participate in further games
+	* 906.11f A player who concededs the game at any time loses all victory points from the current game and may not participate in further games
 
 	* 906.11g As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11f does not apply to any of them
 
