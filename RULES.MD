@@ -7,15 +7,16 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.2. A Coalition game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
 
-* 906.3. Each deck has a legendary creature card designated as its "Hero". This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
+* 906.3. Each deck has a legendary creature card designated as its "hero". This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
 	* Example: A hero that’s been turned face down (due to Ixidron’s effect, for example) is still a hero. A hero that’s copying another card (due to Cytoshape’s effect, for example) is still a hero. A permanent that’s copying a hero (such as a Body Double, for example, copying a hero in a player’s graveyard) is not a hero
 
-	* 906.3a Double-faced cards can be the Hero as long as the front face of the card has the types legendary creature.
+	* 906.3a Double-faced cards can be the hero as long as the front face of the card has the types legendary creature.
 
-* 906.4 The Coalition variant uses affiliation to determine what cards can be in a deck with a certain Hero. A card is affiliated with each creature type printed on the text of the card, including its creature type and any ability text of the card. 
+* 906.4 The Coalition variant uses affiliation to determine what cards can be in a deck with a certain hero. A card is affiliated with each creature type printed on the text of the card, including its creature type and any ability text of the card. 
 
 	* 906.4a Affiliation is established before the game begins, and is affected by characteristic defining abilities like Changeling.
 		* Example: Morphon the Boundless is affiliated with all creature types, as it has Changeling.
+	        * Example: Grist, the Hunger Tide is an Insect creature affiliated with Insects during deck construction
 
 	* 906.4b Reminder text is ignored when determining affiliation.
 
@@ -23,7 +24,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
-	* 906.6a Each deck must contain exactly 60 cards and an 10 card sideboard. The hero creature starts the game in the sideboard and is not part of the 60 deck.
+	* 906.6a Each deck must contain exactly 60 cards and an 10 card sideboard. The hero creature starts the game in the sideboard and is not part of the 60 card main deck.
 
 	* 906.6b Each creature card may be included a maximum of four times.
 
@@ -31,18 +32,34 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6d Each non-creature, non-land card must have a different English name.
 
-	* 906.6e Every card in a Coalition deck and its sideboard must share a chosen typal identity. Cards with no typal identity are not subject to this restriction.
+	* 906.6e Every card in a Coalition deck and its sideboard must share a chosen affiliation. Unaffiliated cards are not subject to this restriction.
 
-	* 906.6f The deck must contain a legendary creature in its sideboard, designated its Hero.
+	* 906.6f The deck must contain a legendary creature in its sideboard, designated its hero.
 
-	* 906.6f The deck must not contain banned cards. A ban list is maintained in this repository.
+	* 906.6g The deck must not contain banned cards. A ban list is maintained in this repository.
+
+	* 906.6h The deck must no legendary cards excepted the legendary creature declared as the hero.
 
 * 906.7 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
-* 906.8 Once per turn, a player may put their hero into their hand from outside the game. 
+* 906.8 Once per turn, a player may put their hero into their hand from outside the game as a sorcery. 
 
-* 906.9 If a Hero would be exiled from anywhere or put into its owner's hand, graveyard, or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event.
+* 906.9 If a hero would be exiled from anywhere or put into its owner's hand, graveyard, or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event.
 
-* 903.11. The Coalition variant includes the following specification for winning and losing the game.
+* 906.10 If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
+
+* 906.11 The Coalition variant includes the following specification for victory points.
+	* 906.11a A player receives victory points equal to any combat damage dealt to opponents by creatures they control
+	* 906.11b A player receives victory points equal to any noncombat damage dealt to opponents by that player's hero
+	* 906.11c A player may not receive more than 21 victory points in a match
+	* 906.11d A player who wins the game receives all remaining victory points they can receive, to the maxmimum of 21
+	* 906.11e Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
+	* 906.11f A player who concededs the game at any time loses all victory points and may not participate in further games
+	* 906.11g As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11f does not apply to any of them
+
+* 906.12 The Coalition variant includes the following specification for winning and losing the game.
 All other rules for ending the game also apply. (See rule 104.)
-	* 903.11b A player wins the game if creatures they own have dealt equal to or excess of 21 combat damage combined with any additional player damage dealt by their Hero creature.
+	* 906.12a A player wins the game if they have 21 victory points
+
+* 906.13 The Coalition variant is played in sets of three games. Each player adds the victory points they acquired during each game to determine standings. 
+	* 906.13a Players are ranked at the end of all three games by their victory point standing
