@@ -99,16 +99,20 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 This section contains cards considering bans based on playtesting
 * [Arcbond](https://scryfall.com/card/frf/91/arcbond)
 	* This card can do quite a lot towards the format's win condition, and could potentially become too powerful to allow. But right now, it seems likelier to be a fun trick to turn tables on opponents, so it's staying in pending playtests.
-* [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
-	* Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch.
 * [Flash](https://scryfall.com/card/a25/57/flash)
 	* Because of deckbuilding restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge.
+* [Griselbrand](https://scryfall.com/card/mm3/72/griselbrand)
+	* A classic reanimate target, Griselbrand is an extremeley powerful deck even with the lower life totals. On watch.
 * [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
 	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
 * [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
 	* The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem* to keep this one from being overly powerful. Subject to change as play patterns are uncovered.
+* [Sneak Attack](https://scryfall.com/card/dmr/139/sneak-attack)
+	* This effect is wildly powerful with repeatable access to hero creatures. Consider this extremely likely to get banned, but playtests around it will happen.
 * [Themberchaud](https://scryfall.com/card/sld/728/themberchaud)
 	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the hero creature. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
+* [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
+	* Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch.
 
 
 ## Special note:
