@@ -3,10 +3,9 @@
 ![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
-
 Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary "hero" creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck must be "affiliated" with that type, forming your coalition.
 
-As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; reach 25 of victory points and you win the game. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. At the end of all three rounds, the overall winner is the player with the most combined victory points from all three matches.
+As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; you win the game if you reach 21. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. Win or lose, you'll add all victory points you get during the game to your standing, and the winner is the player with the most at the end of the third game.
 
 Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
@@ -22,7 +21,7 @@ This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboa
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last may choose the first player.
 
 ## Victory points
-As you play, you'll earn victory points for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 25, you win the match! But it's not over there; Coalition is intended to be played as best of three games. The winner is the player with the most combined victory points across all three games.
+Victory points are earned for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 21, you win the game-- and if you win through any other means, you'll receive the full 21 points. After each game, add all victory points you acquired to your standing, and the winner is the player with the most at the end of the third game.
 
 ## Affiliation
 A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. As an exception, a negation of a type does not count towards a card's affiliation (i.e. "non-Humans" does not give affiliation with Humans). 
@@ -65,29 +64,24 @@ Affiliation examples:
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a hero, but only has the option of choosing an Insect affiliation. 
 
 ## Hero mechanics:
-Your hero starts outside the game. Once on your turn, anytime you could cast your hero, you may put it into your hand from outside the game. This is a special action and does not use the stack.
+Your hero starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack.
 
 Heroes may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on casting it. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
 
 While there are differences from commanders, a hero does have similar state-based actions and replacement effects duing the game:
-* As a state-based action, a hero can be removed from the game after it has transitioned zones
-	* “If a hero is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704"
+* As a state-based action, a hero can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
-	* "If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5."
 
 ## Other rules modifications
-Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously.
-
-As an exception to this rule, if all opponents of a player wish to concede simultaneously, the winning player receives the full 25 victory points and there are no penalties to any player who conceded. 
+Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously. As an exception to this rule, if all opponents of a player wish to concede simultaneously, no penalties are given. 
 
 In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties are given and players simply use their existing victory points at the end of the game.
-
 
 ## Quick rules
 
 ### Coming from Commander:
 If you're familiar with Commander and just want a quick run down on what's different in this format, here's an itemized summary of what changes:
-* **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put them into hand**-- what you do from there is up to you
+* **Heroes aren't in the command zone**, they're outside the game. **Once per turn**, you can **put your hero into hand**
   * **No command tax**!
 * Players start at **25 life**
 * There is **no free mulligan**
@@ -96,7 +90,8 @@ If you're familiar with Commander and just want a quick run down on what's diffe
   * 4x lands, 4x creatures, 1x all other cards  
 * **No commander damage** lose condition, but instead a new **victory point win condition**
   * Victory points are **all combat damage from all creatures**, plus **any other damage to opponents from your hero**
-  * You win the game if you get to 25
+  * You win the game if you get to 21
+  * If you win via any other means, you receive 21 victory points
 * **Best of 3**
-  * **Sideboard** after matches, and add up the total victory points across all three games to determine rankings
+  * **Sideboard** after games, and sum victory points acquired from the game to determine rankings
   * For game 1, decide the first player randomly. For games 2 and 3, the player ranked last chooses the first player. In the case of a tie, decide randomly which player ranked last chooses.
