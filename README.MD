@@ -16,12 +16,12 @@ Coalition plays a little differently than most other formats. It's aggressive an
 * Hybridizes 60 card playstyles with multiplayer magic
 
 ## Play Rules/Modifiers
-This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and you'll sideboard after each game.
+This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and players sideboard after each game.
 
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last may choose the first player.
 
 ## Victory points
-Victory points are earned for all combat damage your creatures deal, as well as any additional damage to opponents dealt by your hero. If this total reaches 21, you win the game-- and if you win through any other means, you'll receive the full 21 points. After each game, add all victory points you acquired to your standing, and the winner is the player with the most at the end of the third game.
+Victory points are earned for all combat damage a player's creatures deal to opponents, as well as any additional non-combat damage to opponents dealt by the hero. If this total reaches 21, you win the game-- and if you win through any other means, you'll receive the full 21 points. After each game, add all victory points you acquired to your standing; players are ranked by their relative standing at the end of all three games.
 
 ## Affiliation
 A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. As an exception, a negation of a type does not count towards a card's affiliation (i.e. "non-Humans" does not give affiliation with Humans). 
