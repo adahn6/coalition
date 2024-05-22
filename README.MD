@@ -58,9 +58,6 @@ Affiliation examples:
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
 > [!NOTE] 
-> As of writing, the new batch term "outlaw" is explicity defined by 700.12 as the batching of "Assassin, Mercenary, Pirate, Rogue, and/or Warlock" creature types; it should be treated as though those types were explicitly printed on the card; this is subject to change. 
-
-> [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a hero, but only has the option of choosing an Insect affiliation. 
 
 ## Hero mechanics:
