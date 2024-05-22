@@ -69,7 +69,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.12 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
 
-	* 906.12a A player wins the game if they have 21 victory points
+	* 906.12a A player who has 21 victory points wins the game (This is a state-based action. See rule 704.)
 
 * 906.13 The Coalition variant is played in sets of three games. Each player adds the victory points they acquired during each game to determine standings. 
 
