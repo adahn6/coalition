@@ -16,6 +16,15 @@ This format can already be extremely fast; adding in fast mana or tutors would e
 ### Why not allow other legendary cards?
 The choice of legendary creature should really be something special, not just another card in the deck that you happen to have easy access to. To that end, removing other legendary cards helps increase its significance. Equally importantly, this format gives quite a lot of consistent power to decks by allowing once a turn unpenalized access to a legendary creature card; as a tradeoff for balance, access to other powerful cards must be restricted or the format would be unenjoyable.
 
+### Why does affiliation count more than just a creature's type?
+There are plenty of creatures that synergize with creatures outside of their type-- for example, many Artificers create Servos. Checking the entire text of a card allows for cards intended to synergize with each other to be run together. 
+
+### Why does affiliation apply to non-creature cards?
+From an aesthetic perspective, this restriction enforces that decks feel 100% committed to their affiliation. But from a format perspective it's extremely important to note that powerful deck archetypes that don't need to care about affiliation emerge if [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) and its equivalents can be run at 4x by any deck. These restrictions mean that the everyone, no matter what deck archetypes they're trying to build, has to pay close attention to the affiliation choice and what cards it enables. 
+
+### Why not have affiliation restrictions build similarly to color identity, where any card can be run as long as the type as mentioned on the hero? 
+This would make card pools when constructing decks and checking for viability very confusing, as well as leading to a problem with legendary creatures mentioning more types becoming *significantly* more powerful. The restriction of a single affiliation is much more straightfoward.
+
 ### Why can't I choose Human affiliation for my deck?
 There are a few reasons. Firstly, Humans have the most cards printed by quite a large margin, which creates a incentive to choose them for maximum deckbuilding options; this incentive goes against the spirit of the format's deckbuilding. Second, many creature types have intentional mechanical synergies, but Human comes closer to a default type-- there's no obvious connective gameplay mechanics between most Humans. 
 
