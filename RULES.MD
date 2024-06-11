@@ -41,7 +41,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6g The deck must not contain banned cards. A ban list is maintained in this repository.
 
-	* 906.6h The deck must no legendary cards excepted the legendary creature declared as the hero.
+	* 906.6h The deck must not contain any legendary cards excepted the legendary creature declared as the hero.
 
 * 906.7 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
