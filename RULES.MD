@@ -45,32 +45,34 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.7 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
-* 906.8 Once per turn, a player may put their hero into their hand from outside the game as a sorcery. 
+* 906.8 Once per turn, on their turn, a player may put their hero into their hand from outside the game as a sorcery. 
 
-* 906.9 If a hero would be exiled from anywhere or put into its owner's hand, graveyard, or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event.
+* 906.9. A hero may return to to outside the game during a Coalition game.
+	* 906.9a If a hero is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704.
+	* 906.9b If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
 
-* 906.10 If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
+* 906.10 The Coalition variant includes the following specification for victory points.
 
-* 906.11 The Coalition variant includes the following specification for victory points.
+	* 906.10a A player starts each game with 0 victory points
 
-	* 906.11a A player receives victory points equal to any combat damage dealt to opponents by creatures they control
+	* 906.10b A player receives victory points equal to any combat damage dealt to opponents by creatures they control
 
-	* 906.11b A player receives victory points equal to any noncombat damage dealt to opponents by that player's hero
+	* 906.10c A player receives victory points equal to any noncombat damage dealt to opponents by that player's hero
 
-	* 906.11c A player may not receive more than 21 victory points in a match
+	* 906.10d A player may not receive more than 21 victory points in a match
 
-	* 906.11d A player who wins the game receives all remaining victory points they can receive, to the maxmimum of 21
+	* 906.10e A player who wins the game receives all remaining victory points they can receive, to the maxmimum of 21
 
-	* 906.11e Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
+	* 906.10f Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
 
-	* 906.11f A player who concededs the game at any time loses all victory points from the current game and may not participate in further games
+	* 906.10g A player who concededs the game at any time loses all victory points from the current game and may not participate in further games
 
-	* 906.11g As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11f does not apply to any of them
+	* 906.10h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11f does not apply to any of them
 
-* 906.12 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
+* 906.11 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
 
-	* 906.12a A player who has 21 victory points wins the game (This is a state-based action. See rule 704.)
+	* 906.11a A player who has 21 victory points wins the game (This is a state-based action. See rule 704.)
 
-* 906.13 The Coalition variant is played in sets of three games. Each player adds the victory points they acquired during each game to determine standings. 
+* 906.12 The Coalition variant is played in sets of three games. Each player adds the victory points they acquired during each game to determine standings. 
 
-	* 906.13a Players are ranked at the end of all three games by their victory point standing
+	* 906.12a Players are ranked at the end of all three games by their victory point standing from highest to lowest
