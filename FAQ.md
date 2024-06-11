@@ -5,7 +5,7 @@
 The goal of this format is to provide a multiplayer format that's fun and fast. Ideally, all three matches can be played in around ninety minutes and everyone can have a chance to have some high-value interactions and plays. To that end, rules and bans will be tweaked to ensure that this vision of how the games should play can be relatively consistent from table to table. That being said: in any format of Magic, there will always be better decks and worse decks. Play to win, but also win in a way that's appropriate for the environment. If you're playing with friends and have a deck that consistently beats them, consider trying another deck or swapping out some cards. If you're at a tournament, be gracious both in victory and defeat. Above all, have fun.
 
 ## FAQ
-The following questions are based on questions that have emerged when explaining and discussing with players.
+The following questions are based on discussions when introducing the format to players
 
 ### Aren't there already too many formats for Magic?
 Magic is healthiest when there are many robust choices of how to play. Coalition is born from a desire to see more than just one multiplayer format, and moreover a format that can offer a bridge between 60 card playstyles and Commander. This format encourages players new to 60 card format to develop skills around smaller non-singleton deck construction with sideboarding skills, but in an environment that can still be played socially like many/most games of Commander are. And for 60-card players skeptical of Commander, Coalition provides a halfway point that keeps much of the gameplay they're familiar with but with the legendary creature access of Commander. 
