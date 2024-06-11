@@ -3,7 +3,7 @@
 ![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
-Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary **hero** creature. Choose a creature type printed anywhere on the hero creature; all other cards in the deck must be **affiliated** with that type, forming your coalition.
+Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary **hero** creature. Choose a creature type printed anywhere on your hero; all other cards in the deck must be **affiliated** with that type, forming your coalition.
 
 As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; you win the game if you reach 21. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. Win or lose, you'll add all victory points you get during the game to your standing, and the winner is the player with the most at the end of the third game.
 
@@ -21,7 +21,13 @@ This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboa
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last may choose the first player.
 
 ## Victory points
-Victory points are earned for all combat damage dealt to opponents, as well as any non-combat damage the hero deals to opponents. If this total reaches 21, you win the game-- and if you win through any other means, you'll receive the full 21 points. After each game, add all victory points you acquired to your standing; players are ranked by their relative standing at the end of all three games.
+Each player starts the game at zero victory points, and earns victory points for all combat damage dealt to opponents, as well as any non-combat damage the hero deals to opponents. Any player who reaches 21 victory points immediately wins the game; and if you win through any other means, you'll receive the full 21 points. 
+
+**At the end of each game, each player adds all victory points they acquired to their overall standing**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement.
+
+> [!NOTE] 
+> The ranking system here is very important, your victory points matter no matter what! A deck that loses all three games but gains nearly all possible victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
+
 
 ## Affiliation
 A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. As an exception, a negation of a type does not count towards a card's affiliation (i.e. "non-Humans" does not give affiliation with Humans). 
@@ -49,10 +55,10 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 
 Affiliation examples:
 * With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon affiliation from the Dragon type printed in her ability
-* You can run [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) only if you are choosing Phyrexian affiliation
-* You can run [Swan Song](https://scryfall.com/card/c16/98/swan-song) only if you are choosing Bird affiliation
-* You can run [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) if you are choosing any of Snake, Wolf, or Elephant affiliations
-* You can run [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo affiliations
+* [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is Phyrexian affiliated and can only be run in a Phyrexian affiliation deck
+* [Swan Song](https://scryfall.com/card/c16/98/swan-song) is Bird affiliated and can only be run in a Bird affiliation deck
+* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run in any deck with one of those affiliations
+* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo affiliations
 	
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
@@ -90,5 +96,6 @@ If you're familiar with Commander and just want a quick run down on what's diffe
   * You win the game if you get to 21
   * If you win via any other means, you receive 21 victory points
 * **Best of 3**
-  * **Sideboard** after games, and sum victory points acquired from the game to determine rankings
+  * After each game, players may *sideboard*
+  * Standings are updated after each game by adding the victory points every player had at the end of the game
   * For game 1, decide the first player randomly. For games 2 and 3, the player ranked last chooses the first player. In the case of a tie, decide randomly which player ranked last chooses.
