@@ -26,7 +26,7 @@ Each player starts the game at zero victory points, and earns victory points for
 **At the end of each game, each player adds all victory points they acquired to their overall standing**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement.
 
 > [!NOTE] 
-> The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but gains nearly all possible victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
+> The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
 
 
 ## Affiliation
