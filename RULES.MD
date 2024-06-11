@@ -27,7 +27,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
-	* 906.6a Each deck must contain exactly 60 cards and an 10 card sideboard. The hero creature starts the game in the sideboard and is not part of the 60 card main deck.
+	* 906.6a Each deck must contain exactly 60 cards and a 10 card sideboard. The hero creature starts the game in the sideboard and is not part of the 60 card main deck.
 
 	* 906.6b Each creature card may be included a maximum of four times.
 
