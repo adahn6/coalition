@@ -3,7 +3,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 906. Coalition
 
-* 906.1. In the Coalition variant, each deck is led by a legendary creature designated as that deck's Hero. The Coalition format was created by fans. The Coalition variant uses all the normal rules for a Magic game, with the following additions.
+* 906.1. In the Coalition variant, creatures affiliated with a chosen creature type from a coalition and are led into battle by a chosen "hero" legendary creature. The Coalition format was created by fans. The Coalition variant uses all the normal rules for a Magic game, with the following additions.
 
 * 906.2. A Coalition game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
 
