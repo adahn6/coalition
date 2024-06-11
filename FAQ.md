@@ -7,6 +7,12 @@ The goal of this format is to provide a multiplayer format that's fun and fast. 
 ## FAQ
 The following questions are based on questions that have emerged when explaining and discussing with players.
 
+## Aren't there already too many formats for Magic?
+Magic is healthiest when there are many robust choices of how to play. Coalition is born from a desire to see more than just one multiplayer format, and more than just that, a format that can offer a bridge between 60 card playstyles and Commander. This format encourages players new to 60 card format to develop skills around smaller non-singleton deck construction with sideboarding skills, but in an environment that can still be played socially like many/most games of Commander are. And for 60-card players skeptical of Commander, Coalition provides a halfway point that keeps much of the gameplay they're familiar with but with the legendary creature access of Commander. 
+
+Very little can be said to sway a jaded player disinterested in learning yet another variation of rules. To that end, if the above doesn't sound like your cup of tea, it's understandable to move along. But please know that *significant care* has been put into this format before debut. Many, many, many cards have been reviewed and inspected. Rules have been tweaked, tossed, rewritten, and rethought. Existing decks from many eras of many formats have been mined for potential ideas. If you give it a shot, this format may surprise you with what it can bring to the table. 
+
+
 ### Why isn't this just a Commander variant?
 The overall goal of this format is to provide a *different* multiplayer format from Commander and the mechanics and rules themselves should reflect that. Similar as a hero may seem to a commander, the inspiration for the mechanic actually lies closer to companion, with the generic companion restriction "Each card in your starting deck is affiliated with a chosen creature type, or is unaffiliated." These differences aren't just superficial, either. Being able to place the Hero creature in hand alone opens up a very different set of playstyles, and the differences don't stop there. With no concept of command tax, no color identity restrictions, 60 card non-singleton decks, and different win and lose conditions, there's as much different as there is similar. Try it out-- the differences become clear quickly when playing. 
 
@@ -34,5 +40,5 @@ Even at 60 cards, singleton automatically makes many affiliation choices impossi
 ### Why have a custom victory condition instead of just using normal rules?
 Firstly, it reinforces a focus on the creatures themselves, especially the nonlegendary ones that make up the backbone of a deck. Secondly, it provides an on-the-table clear indicator to all players of the standings- this element introduces an interesting dynamic that allows for quantifying the table's threats differently than other formats. And lastly, the best-of-three structure is essentially impossible for a multiplayer format under normal rules and victory points solve this.
 
-### Can't the victory point condition lead to ties?
+### Can't the victory point ranking lead to ties?
 Yep, that's a valid observation. But any game of Magic can end in a draw, and a draw doesn't have to invalidate the fun of playing. It's also not particularly likely to happen, from our playtesting, and if it were to happen at excessive rates then rules modifications would be considered. 
