@@ -78,7 +78,7 @@ While there are differences from commanders, a hero does have similar state-base
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
 
 ## Other rules modifications
-Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously. As an exception to this rule, if all opponents of a player wish to concede simultaneously, no penalties are given. 
+Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously. As an exception to this rule, if all opponents of a player wish to concede simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method. 
 
 In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties are given and players simply use their existing victory points at the end of the game.
 
