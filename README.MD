@@ -57,7 +57,7 @@ Affiliation examples:
 * [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a hero, and is Human, Cleric, Angel, Demon, and Dragon affiliated; any one of these may be chosen for the deck's coalition affiliation
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is Phyrexian affiliated and can only be run in a Phyrexian coalition deck
 * [Swan Song](https://scryfall.com/card/c16/98/swan-song) is Bird affiliated and can only be run in a Bird coalition deck
-* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run only in deck of those coalition
+* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run only in deck of those coalitions
 * [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is Artificer and Servo affiliated and can be run only in deck of those coalitions
 * [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is Elemental affiliated and can only be run in an Elemental coalition deck
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
