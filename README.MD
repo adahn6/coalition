@@ -49,7 +49,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 ## Deck Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards are either [unaffiliated or are affiliated](#Affiliation) with your chosen creature type
+* All cards are [unaffiliated or have the chosen affiliation](#Affiliation)
     * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
 
@@ -57,9 +57,11 @@ Affiliation examples:
 * With [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) as your hero, you can choose Dragon affiliation from the Dragon type printed in her ability
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is Phyrexian affiliated and can only be run in a Phyrexian affiliation deck
 * [Swan Song](https://scryfall.com/card/c16/98/swan-song) is Bird affiliated and can only be run in a Bird affiliation deck
-* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run in any deck with one of those affiliations
-* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) if you are choosing either Artificer or Servo affiliations
-	
+* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run only in deck of those affiliations
+* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is Artificer and Servo affiliated and can be run only in deck of those affiliations
+* [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is Elemental affiliated and can only be run in an Elemental affiliation deck
+* [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
+
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
