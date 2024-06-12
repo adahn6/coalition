@@ -45,6 +45,10 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.7 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
+	* 906.7a The starting player should be determined randomly for the first game
+
+	* 906.7b For the subsequent games, the starting player is chosen by the player with the lowest standing
+
 * 906.8 Once per turn, on their turn, a player may put their hero into their hand from outside the game as a sorcery. 
 
 * 906.9. A hero may return to to outside the game during a Coalition game.
