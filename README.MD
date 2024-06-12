@@ -54,7 +54,7 @@ For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.
 * No companion
 
 Affiliation examples:
-* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a hero, and is Human, Cleric, Dragon, Demon, and Angel affiliated; any one of these may be chosen for a affiliated of the deck 
+* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a hero, and is Human, Cleric, Angel, Demon, and Dragon affiliated; any one of these may be chosen for a affiliated of the deck 
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is Phyrexian affiliated and can only be run in a Phyrexian affiliation deck
 * [Swan Song](https://scryfall.com/card/c16/98/swan-song) is Bird affiliated and can only be run in a Bird affiliation deck
 * [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run only in deck of those affiliations
