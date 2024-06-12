@@ -51,7 +51,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.8 Once per turn, on their turn, a player may put their hero into their hand from outside the game as a sorcery. 
 
-* 906.9. A hero may return to to outside the game during a Coalition game.
+* 906.9. A hero may return to outside the game during a Coalition game.
 	* 906.9a If a hero is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704.
 	* 906.9b If a hero would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
 
