@@ -98,6 +98,6 @@ If you're familiar with Commander and just want a quick run down on what's diffe
   * You win the game if you get to 21
   * If you win via any other means, you receive 21 victory points
 * **Best of 3**
-  * After each game, players may *sideboard*
+  * After each game, players may **sideboard**
   * Standings are updated after each game by adding the victory points every player had at the end of the game
   * For game 1, decide the first player randomly. For games 2 and 3, the player ranked last chooses the first player. In the case of a tie, decide randomly which player ranked last chooses.
