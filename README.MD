@@ -73,7 +73,7 @@ While there are differences from commanders, a hero does have similar state-base
 
 
 > [!TIP] 
-> Heroes may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on casting it. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
+> Heroes may seem similar to commanders, but they act closer to a repeatable companion. After placing your hero into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
 
 
 ## Other rules modifications
