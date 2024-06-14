@@ -30,9 +30,9 @@ Each player starts the game at zero victory points, and earns victory points for
 
 
 ## Affiliation
-A card's affiliation come from any part of that card that references a creature type, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. As an exception, a negation of a type does not count towards a card's affiliation (i.e. "non-Humans" does not give affiliation with Humans). 
-
-A card that is not affiliated with any creature types is unaffiliated.
+A card's affiliation come from any part of that card that references a creature type, except for "non-[type]" negations, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. A card that is not affiliated with any creature types is unaffiliated.
+> [!NOTE] 
+> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
 ## Deck format:
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
@@ -61,9 +61,6 @@ Affiliation examples:
 * [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is Artificer and Servo affiliated and can be run only in deck of those coalitions
 * [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is Elemental affiliated and can only be run in an Elemental coalition deck
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
-
-> [!NOTE] 
-> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
 > [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a hero, but only has the option of choosing an Insect affiliation. 
