@@ -16,9 +16,9 @@ Coalition remixes a lot of elements from other formats into its own unique spin 
 * Hybridizes 60 card formats with multiplayer magic
 
 ## Play Rules/Modifiers
-This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and players sideboard after each game.
+This format primarily intended for 3-5 players per game. Deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and players sideboard after each game.
 
-There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last may choose the first player.
+There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
 
 ## Victory points
 Each player starts the game at zero victory points, and earns victory points for all combat damage dealt to opponents, as well as any non-combat damage the hero deals to opponents. Any player who reaches 21 victory points immediately wins the game; and if you win through any other means, you'll receive the full 21 points. 
