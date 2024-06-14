@@ -34,7 +34,8 @@ A card's affiliation come from any part of that card that references a creature 
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
 
-## Deck format:
+## Deckbuilding
+### Format
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
 ![maindeck-dark](images/maindeck_dark.png#gh-dark-mode-only "60 card main deck") ![sideboard-dark](images/sideboard_dark.png#gh-dark-mode-only "10 card sideboard")
 
@@ -44,16 +45,14 @@ A card's affiliation come from any part of that card that references a creature 
 * 1x non-creature, non-land cards
 * Unlimited basic lands
 
-For help with deckbuilding, see the [deckbuilding assistance page](DECKBUILDING.MD)
-
-## Deck Restrictions:
+### Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your hero in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
 * All cards are [unaffiliated or have the chosen affiliation](#Affiliation)
     * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
 
-Affiliation examples:
+### Affiliation restriction examples:
 * [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a hero, and is Human, Cleric, Angel, Demon, and Dragon affiliated; any one of these may be chosen for the deck's coalition affiliation
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is Phyrexian affiliated and can only be run in a Phyrexian coalition deck
 * [Swan Song](https://scryfall.com/card/c16/98/swan-song) is Bird affiliated and can only be run in a Bird coalition deck
