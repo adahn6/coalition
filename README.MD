@@ -3,17 +3,17 @@
 ![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
-Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. It's a fusion of many existing formats of Magic but with a few unique twists. You'll build a sixty-card deck plus sideboard around a legendary **hero** creature. Choose a creature type printed anywhere on your hero; all other cards in the deck must be **affiliated** with that type, forming your coalition.
+Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. You'll build a sixty-card deck plus sideboard around a legendary **hero** creature. Choose a creature type printed anywhere on your hero; all other cards in the deck must be **affiliated** with that type, forming your coalition.
 
 As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; you win the game if you reach 21. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. Win or lose, you'll add all victory points you get during the game to your standing, and the winner is the player with the most at the end of the third game.
 
 Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
-* Fast, aggressive multiplayer games
-* Creature type affiliation make decks flavorful and fun to build
-* Eternal format allows for a large deckbuilding pool
-* Hybridizes 60 card playstyles with multiplayer magic
+* Fast best-of-3 multiplayer games
+* Flavorful and fun decks built around creature affiliations
+* Eternal format
+* Hybridizes 60 card formats with multiplayer magic
 
 ## Play Rules/Modifiers
 This format is for 3-5 players per game and deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and players sideboard after each game.
@@ -65,10 +65,11 @@ A card's affiliation come from any part of that card that references a creature 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a hero, but only has the option of choosing an Insect affiliation. 
 
 ## Hero mechanics:
-Your hero starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A hero then has similar state-based actions and replacement effects to commanders duing the game:
+Your hero starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A hero also has similar state-based actions and replacement effects to commanders:
 * As a state-based action, a hero can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
 
+For formal defintions of these actions and effects, please check the [comprehensive rules modification](RULES.MD)
 > [!TIP] 
 > Heroes may seem similar to commanders, but they act closer to a repeatable companion. After placing your hero into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
 
