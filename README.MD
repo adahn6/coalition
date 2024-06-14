@@ -67,11 +67,14 @@ A card's affiliation come from any part of that card that references a creature 
 ## Hero mechanics:
 Your hero starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack.
 
-Heroes may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on casting it. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
-
 While there are differences from commanders, a hero does have similar state-based actions and replacement effects duing the game:
 * As a state-based action, a hero can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
+
+
+> [!TIP] 
+> Heroes may seem similar to commanders, but it's important to note they act closer to a companion. Once you place the hero into hand, there are many options from there. You can cast it normally, and there will never be a tax on casting it. You could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name). You could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will).
+
 
 ## Other rules modifications
 Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously. As an exception to this rule, if all opponents of a player wish to concede simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method. 
