@@ -7,7 +7,7 @@ Coalition is a fast and frenzied multiplayer format about leading creature coali
 
 As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your hero; you win the game if you reach 21. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. Win or lose, you'll add all victory points you get during the game to your standing, and the winner is the player with the most at the end of the third game.
 
-Coalition plays a little differently than most other formats. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
+Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Heroes seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
 * Fast, aggressive multiplayer games
