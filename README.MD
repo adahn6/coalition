@@ -65,12 +65,9 @@ A card's affiliation come from any part of that card that references a creature 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a hero, but only has the option of choosing an Insect affiliation. 
 
 ## Hero mechanics:
-Your hero starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack.
-
-While there are differences from commanders, a hero does have similar state-based actions and replacement effects duing the game:
+Your hero starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A hero then has similar state-based actions and replacement effects to commanders duing the game:
 * As a state-based action, a hero can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a hero would enter your library or hand, you may instead choose to remove it from the game
-
 
 > [!TIP] 
 > Heroes may seem similar to commanders, but they act closer to a repeatable companion. After placing your hero into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
