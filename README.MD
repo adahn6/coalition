@@ -44,15 +44,15 @@ Affiliation describes what creature types a card is associated with. A card is a
 * Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
 * Unlimited basic lands
+> [!NOTE] 
+> Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) or [Slime Against Humanity](https://scryfall.com/card/mkm/177/slime-against-humanity) may override these restricitons
 
 ### Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your coalition leader in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
-* All cards are [unaffiliated or have the chosen affiliation](#Affiliation)
+* All cards are [affiliated with the chosen coalition type or are unaffiliated](#Affiliation)
     * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
-> [!NOTE] 
-> Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) may override these restricitons
 
 ### Affiliation restriction examples:
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
