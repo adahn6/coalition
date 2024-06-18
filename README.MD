@@ -53,19 +53,19 @@ A card's affiliation come from any part of that card that references a creature 
 * No companion
 
 ### Affiliation restriction examples:
-* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition leader, and is Human, Cleric, Angel, Demon, and Dragon affiliated; any one of these may be chosen for the deck's coalition affiliation
-* [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is Phyrexian affiliated and can only be run in a Phyrexian coalition deck
-* [Swan Song](https://scryfall.com/card/c16/98/swan-song) is Bird affiliated and can only be run in a Bird coalition deck
-* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is Snake, Wolf, and Elephant affiliated and can be run only in deck of those coalitions
-* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is Artificer and Servo affiliated and can be run only in decks of those coalitions
-* [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is Elemental affiliated and can only be run in an Elemental coalition deck
+* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; with the exception of Human, any of these may be chosen for the deck's coalition affiliation
+* [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexian and can only be run in a Phyrexian coalition deck
+* [Swan Song](https://scryfall.com/card/c16/98/swan-song) is affiliated with Bird and can only be run in a Bird coalition deck
+* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snake, Wolf, and Elephant, and can be run only in deck of those coalitions
+* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Artificer and Servo, and can be run only in decks of those coalitions
+* [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elemental, and can only be run in an Elemental coalition deck
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
 
 > [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a coalition leader, but only has the option of choosing an Insect affiliation. 
 
 ## Coalition leader mechanics:
-Your coalition leader starts outside the game. Once on your turn, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A coalition leader also has similar state-based actions and replacement effects to commanders:
+Your coalition leader starts outside the game. Once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A coalition leader also has similar state-based actions and replacement effects to commanders:
 * As a state-based action, a coalition leader can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a coalition leader would enter your library or hand, you may instead choose to remove it from the game
 
@@ -82,7 +82,7 @@ In rare situations, games may be forcibly ended in a draw by the rules via certa
 ## Quick rules
 
 ### Coming from Commander:
-If you're familiar with Commander and just want a quick run down on what's different in this format, here's an itemized summary of what changes:
+While Coalition is very different from Commander, the following section has an itemized summary of differences: 
 * **Coalition leaders aren't in the command zone**, they're outside the game. **Once per turn**, you can **put your coalition leader into hand**
   * **No command tax**!
 * Players start at **25 life**
@@ -91,10 +91,13 @@ If you're familiar with Commander and just want a quick run down on what's diffe
 * Decks are **sixty cards** and are **not highlander**
   * 4x lands, 4x creatures, 1x all other cards  
 * **No commander damage** lose condition, but instead a new **victory point win condition**
-  * Victory points are **all combat damage from all creatures**, plus **any other damage to opponents from your coalition leader**
-  * You win the game if you get to 21
-  * If you win via any other means, you receive 21 victory points
+  * Victory points are gained from **combat damage from creatures you control**
+  * Victory points can also be gained from **any non-combat damage to your opponents dealt by your coalition leader**
+  * A player wins the game when they reach 21 victory points
+  * If a player win by any other means, they earn 21 victory points for that game regardless of how many they had before winning
+ * A player can never gain more than 21 victory points
 * **Best of 3**
+  * A match is played in a set of 3 games
   * After each game, players may **sideboard**
-  * Standings are updated after each game by adding the victory points every player had at the end of the game
+  * Standings are updated after each game by adding the victory points every player had at the end of the game to their match total
   * For game 1, decide the first player randomly. For games 2 and 3, the player ranked last chooses the first player. In the case of a tie, decide randomly which player ranked last chooses.
