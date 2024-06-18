@@ -2,7 +2,9 @@
 
 ## Philosophy
 
-The goal of this format is to provide a multiplayer format that's fun and fast. Ideally, all three matches can be played in around ninety minutes and everyone can have a chance to have some high-value interactions and plays. To that end, rules and bans will be tweaked to ensure that this vision of how the games should play can be relatively consistent from table to table. That being said: in any format of Magic, there will always be better decks and worse decks. Play to win, but also win in a way that's appropriate for the environment. If you're playing with friends and have a deck that consistently beats them, consider trying another deck or swapping out some cards. If you're at a tournament, be gracious both in victory and defeat. Above all, have fun.
+The goal of this format is to provide a multiplayer format that's fun and fast. Ideally, all three matches can be played in around ninety minutes and everyone can have a chance to have some high-value interactions and plays. To that end, rules and bans will be tweaked to ensure that this vision of how the games should play can be relatively consistent from table to table. 
+
+This format assumes that decks can and will be constructed competitively. Play to win, but also be respectful and gracious in both victory and defeat.
 
 ## FAQ
 The following questions are based on discussions when introducing the format to players
