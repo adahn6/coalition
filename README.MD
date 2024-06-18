@@ -3,27 +3,27 @@
 ![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
-Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. Choose a legendary creature **coalition leader**, then choose **any one creature type** printed anywhere on it-- this type is your coalition's affiliation. Build a 60-card deck plus sideboard where all cards are **affiliated** with your coalition type (or are unaffiliated with any creature types). 
+Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. Choose a legendary creature **coalition leader**, then choose **any one creature type** printed anywhere on it-- this type is your coalition's affiliation. Build a 60-card deck plus sideboard where all cards are **affiliated** with that type or are unaffiliated with any creature types.
 
-As you play, you'll get victory points for all combat damage your creatures deal, as well as any other damage to opponents dealt by your coalition leader; you win the game if you reach 21. But Coalition doesn't stop with game one-- it's intended to be played as best of 3. Win or lose, you'll add all victory points you get during the game to your standing, and the winner is the player with the most at the end of the third game.
+As you play, you'll get victory points for all combat damage dealt. You'll also get victory points for any non-combat damage your coalition leader deals to opponents. You win the game if you reach 21 victory points-- but Coalition doesn't stop with game one, it's played as a match of three games. Regardless of winning or losing a game, you'll add all victory points you had at the end of a game to your standing, and the winner of the match is the player with the most at the end of the third game.
 
-Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. Best of three matches add sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
+Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The best-of-three structure adds sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
-* Fast best-of-3 multiplayer games
+* Fast best-of-3 multiplayer matches
 * Flavorful and fun decks built around creature affiliations
 * Eternal format
 * Hybridizes 60 card formats with multiplayer magic
 
 ## Play Rules/Modifiers
-This format is primarily intended for 3-5 players per game. Deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Games are played in sets of three, and players sideboard after each game.
+This format is primarily intended for 3-5 players per match. Deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Matches are played in sets of three games, and players sideboard after each game.
 
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
 
 ## Victory points
-Each player starts the game at zero victory points, and earns victory points for all combat damage dealt to opponents, as well as any non-combat damage their coalition leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and wining through any other means grants the winner the full 21 points. 
+Each player starts the game at zero victory points, and earns victory points for all combat damage dealt to opponents. Players also earn victory points for all non-combat damage their coalition leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and wining through any other means grants the winner 21 victory points. 
 
-**At the end of each game, each player adds all victory points they acquired to their overall standing**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement.
+**At the end of each game, each player adds all victory points they acquired to their overall standing**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. In the rare cases of draws, or all players losing, players simply use their victory point totals when the game ended.
 
 > [!NOTE] 
 > The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
@@ -32,7 +32,7 @@ Each player starts the game at zero victory points, and earns victory points for
 ## Affiliation
 A card's affiliation come from any part of that card that references a creature type, except for "non-[type]" negations, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. A card that is not affiliated with any creature types is unaffiliated.
 > [!NOTE] 
-> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not contribute a Brushwagg affiliation and it references no other creature types.
+> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. Run it in any deck you want (probably not a Brushwagg deck though)
 
 ## Deckbuilding
 ### Format
@@ -51,15 +51,17 @@ A card's affiliation come from any part of that card that references a creature 
 * All cards are [unaffiliated or have the chosen affiliation](#Affiliation)
     * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
+> [!NOTE] 
+> Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) may override these restricitons
 
 ### Affiliation restriction examples:
-* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; with the exception of Human, any of these may be chosen for the deck's coalition affiliation
-* [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexian and can only be run in a Phyrexian coalition deck
-* [Swan Song](https://scryfall.com/card/c16/98/swan-song) is affiliated with Bird and can only be run in a Bird coalition deck
-* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snake, Wolf, and Elephant, and can be run only in deck of those coalitions
-* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Artificer and Servo, and can be run only in decks of those coalitions
-* [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elemental, and can only be run in an Elemental coalition deck
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
+* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition affiliation [**except Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
+* [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck
+* [Swan Song](https://scryfall.com/card/c16/98/swan-song) is affiliated with Birds and can only be run in a Bird coalition deck
+* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snakes, Wolves, and Elephants, and can be run only in deck of those coalitions
+* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Artificers and Servos, and can be run only in decks of those coalitions
+* [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elementals, and can only be run in an Elemental coalition deck
 
 > [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a coalition leader, but only has the option of choosing an Insect affiliation. 
@@ -91,13 +93,13 @@ While Coalition is very different from Commander, the following section has an i
 * Decks are **sixty cards** and are **not highlander**
   * 4x lands, 4x creatures, 1x all other cards  
 * **No commander damage** lose condition, but instead a new **victory point win condition**
-  * Victory points are gained from **combat damage from creatures you control**
-  * Victory points can also be gained from **any non-combat damage to your opponents dealt by your coalition leader**
+  * A player gains victory points for all **combat damage from creatures they control**
+  * A player gains victory points from **all non-combat damage their coalition leader deals to opponents**
   * A player wins the game when they reach 21 victory points
-  * If a player win by any other means, they earn 21 victory points for that game regardless of how many they had before winning
- * A player can never gain more than 21 victory points
+  * A player winning the game by any other means gains 21 victory points for that game, regardless of how many they had before winning
+  * A player can never gain more than 21 victory points per game
 * **Best of 3**
   * A match is played in a set of 3 games
   * After each game, players may **sideboard**
-  * Standings are updated after each game by adding the victory points every player had at the end of the game to their match total
-  * For game 1, decide the first player randomly. For games 2 and 3, the player ranked last chooses the first player. In the case of a tie, decide randomly which player ranked last chooses.
+  * After each game, each player adds the victory points they had at the end of the game to their match total
+  * For game 1, decide the first player randomly. For games 2 and 3, the player with the least points chooses the first player. In the case of a tie, decide randomly which of those players chooses.
