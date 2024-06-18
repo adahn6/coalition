@@ -3,11 +3,11 @@
 ![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
-Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. Choose a legendary creature **coalition leader**, then choose **any one creature type** printed anywhere on it-- this type is your coalition's affiliation. Build a 60-card deck plus sideboard where all cards are **affiliated** with that type or are unaffiliated with any creature types.
+Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. Choose a legendary creature as your **coalition leader**, then choose **any one creature type** printed anywhere on it-- this type is your coalition's affiliation. Build a 60-card deck plus sideboard where all cards are **affiliated** with that type or are unaffiliated with any creature types.
 
-As you play, you'll get victory points for all combat damage dealt. You'll also get victory points for any non-combat damage your coalition leader deals to opponents. You win the game if you reach 21 victory points-- but Coalition doesn't stop with game one, it's played as a match of three games. Regardless of winning or losing a game, you'll add all victory points you had at the end of a game to your standing, and the winner of the match is the player with the most at the end of the third game.
+As you play, you get victory points for all combat damage dealt. You also get victory points for any non-combat damage your coalition leader deals to opponents. You win a game if you reach 21 victory points-- but Coalition doesn't stop with game one, it's played as a match of three games. Regardless of winning or losing a game, add all victory points you had at the end of a game to your standing, and the winner of the match is the player with the most at the end of the third game.
 
-Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's aggressive and fast, like high power sixty card formats can be, but power limited by affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The best-of-three structure adds sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
+Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's fast and consistent, like high power sixty card formats can be, but power limited by affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The best-of-three structure adds sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
 * Fast best-of-3 multiplayer matches
@@ -30,9 +30,9 @@ Each player starts the game at zero victory points, and earns victory points for
 
 
 ## Affiliation
-A card's affiliation come from any part of that card that references a creature type, except for "non-[type]" negations, including its creature type or any creature type in its text; it is affiliated with all creature types referenced this way. A card that is not affiliated with any creature types is unaffiliated.
+Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
 > [!NOTE] 
-> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. Run it in any deck you want (probably not a Brushwagg deck though)
+> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. Run it in any deck you want (probably not a Brushwagg deck, even though you could)
 
 ## Deckbuilding
 ### Format
