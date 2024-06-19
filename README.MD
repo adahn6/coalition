@@ -3,7 +3,7 @@
 ![players-light](images/players_light.png#gh-light-mode-only "3-5 Players") ![deck-light](images/deck_light.png#gh-light-mode-only "60 Card Deck") ![life-light](images/life_light.png#gh-light-mode-only "25 Life") ![games-light](images/games_light.png#gh-light-mode-only "90 Minutes")
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
-Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. Choose a legendary creature as your **coalition leader**, then choose **any one creature type** printed anywhere on it-- this type is your coalition's affiliation. Build a 60-card deck plus sideboard where all cards are **affiliated** with that type or are unaffiliated with any creature types.
+Coalition is a fast and frenzied multiplayer format about leading creature coalitions into battle. Choose a legendary creature as your **coalition leader**, then choose **any one creature type** printed anywhere on it-- this creature type is your coalition type. Build a 60-card deck plus sideboard where all cards are **affiliated** with your coalition type or are unaffiliated with any creature types.
 
 As you play, you get victory points for all combat damage dealt. You also get victory points for any non-combat damage your coalition leader deals to opponents. You win a game if you reach 21 victory points-- but Coalition doesn't stop with game one, it's played as a match of three games. Regardless of winning or losing a game, add all victory points you had at the end of a game to your standing, and the winner of the match is the player with the most at the end of the third game.
 
@@ -56,7 +56,7 @@ Affiliation describes what creature types a card is associated with. A card is a
 
 ### Affiliation restriction examples:
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
-* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition affiliation [**except Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
+* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition type [**except Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck
 * [Swan Song](https://scryfall.com/card/c16/98/swan-song) is affiliated with Birds and can only be run in a Bird coalition deck
 * [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snakes, Wolves, and Elephants, and can be run only in deck of those coalitions
@@ -66,7 +66,7 @@ Affiliation describes what creature types a card is associated with. A card is a
 > [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. In these examples, changeling is an ability not a creature type, so a deck running Morophon must still declare a chosen affiliation with a single creature type, and all creatures without changeling must be affiliated with that type. Grist can be chosen as a coalition leader, but only has the option of choosing an Insect affiliation. 
 
-## Coalition leader mechanics:
+## Coalition leaders:
 Your coalition leader starts outside the game. Once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A coalition leader also has similar state-based actions and replacement effects to commanders:
 * As a state-based action, a coalition leader can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a coalition leader would enter your library or hand, you may instead choose to remove it from the game
@@ -79,7 +79,7 @@ For formal defintions of these actions and effects, please check the [comprehens
 ## Other rules modifications
 Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match, as if they had not played at all; they may then not play further matches. This rule is designed to prevent players from conceding advantageously. As an exception to this rule, if all opponents of a player wish to concede simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method. 
 
-In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, no penalties are given and players simply use their existing victory points at the end of the game.
+In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, or if the game is a draw for any other reason, no penalties are given and players simply use their existing victory points at the end of the game. 
 
 ## Quick rules
 
