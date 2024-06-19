@@ -49,7 +49,9 @@ Affiliation describes what creature types a card is associated with. A card is a
 
 ### Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
-* No legendary cards other than your coalition leader in your 70 total cards. The legendary creature must be a legendary creature on the front side of the card.
+* No legendary cards other than your coalition leader in your 70 total cards. 
+    * The legendary creature must be a legendary creature on the front side of the card.
+    * A single chosen creaturw type must be declared from the legendary creature's affiliations
 * All cards are [affiliated with the chosen coalition type or are unaffiliated](#Affiliation)
     * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
@@ -62,6 +64,7 @@ Affiliation describes what creature types a card is associated with. A card is a
 * [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snakes, Wolves, and Elephants, and can be run only in deck of those coalition types
 * [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Artificers and Servos, and can be run only in decks of those coalition types
 * [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elementals, and can only be run in an Elemental coalition deck
+* [Go-Shintai of Boundless Vigor](https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor) cannot be chosen as a coalition leader as it is not affiliated with any creature type (Shrine is not a creature type!)
 
 > [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. For the example of Morophon, changeling is an ability that grants it all creature types, thus it is affiliated with every type; a deck with Morophon as its leader must still choose a single type as the coalition type, and all cards must be affiliated with that type (or unaffiliated). Grist can be chosen as a coalition leader, but only has the option of leading an Insect coalition.
