@@ -31,6 +31,9 @@ Each player starts the game at zero victory points, and earns victory points for
 
 ## Affiliation
 Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
+
+A card's **affiliation** is shorthand for the creautre types it is affiliated with.
+
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. You can put it in decks of any coalition!
 
