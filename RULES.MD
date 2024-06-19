@@ -63,7 +63,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.10c A player receives victory points equal to any noncombat damage dealt to opponents by that player's coalition leader
 
-	* 906.10d A player may not receive more than 21 victory points in a match
+	* 906.10d A player may not receive more than 21 victory points in a game
 
 	* 906.10e A player who wins the game through any means receives all remaining victory points they can receive, to the maxmimum of 21
 
@@ -71,7 +71,9 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.10g A player who concededs the game at any time loses all victory points from the current game and may not participate in further games
 
-	* 906.10h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11f does not apply to any of them
+	* 906.10h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11g does not apply to any of them
+
+	* 906.10i At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
 
 * 906.11 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
 
@@ -83,6 +85,4 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.11d If the game has no winner for any other reason, 906.10e does not apply to any player
 
-* 906.12 The Coalition variant is played in sets of three games. Each player adds the victory points they acquired during each game to determine standings. 
-
-	* 906.12a Players are ranked at the end of all three games by their victory point standing from highest to lowest
+* 906.12 The winner of a match of Coalition is the player or players with the highest ranking. 
