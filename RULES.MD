@@ -5,7 +5,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.1. In the Coalition variant, each deck forms a coalition led by legendary creature and its allies. The Coalition format was created by fans. The Coalition variant uses all the normal rules for a Magic game, with the following additions.
 
-* 906.2. A Coalition game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
+* 906.2. A Coalition match is set of exactly three multiplayer games; this is a modification of 100.6a. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
 
 * 906.3. Each deck has a legendary creature card designated as its "coalition leader". This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
 
@@ -85,4 +85,4 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.11d If the game has no winner for any other reason, 906.10e does not apply to any player
 
-* 906.12 The winner of a match of Coalition is the player or players with the highest ranking. 
+* 906.12 The winner of a Coalition match is the player or players with the highest ranking (see 906.10i). 
