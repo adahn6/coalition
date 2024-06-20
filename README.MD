@@ -10,7 +10,7 @@ As you play, you get victory points for all combat damage dealt. You also get vi
 Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's fast and consistent, like high power sixty card formats can be, but power limited by affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The best-of-three structure adds sideboard opportunities like in 1v1 formats, but also add a fun layer of archenemy metagame strategy. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
-* Fast best-of-3 multiplayer matches
+* Fast 3-game multiplayer matches 
 * Flavorful and fun decks built around creature affiliations
 * Eternal format
 * Hybridizes 60 card formats with multiplayer magic
