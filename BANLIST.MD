@@ -33,7 +33,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Mana Vault](https://scryfall.com/card/2x2/308/mana-vault)
 	* Without other restrictions, this card isn't the broken fast mana access that it is in other formats, but it's still too relevant to combo lines to let in.
 * [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)
-	* Malcolm is just too strong, with extremely consistent access to a two-card comb with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
+	* Malcolm is just too strong, with extremely consistent access to a two-card combo with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
 * [Mystical Tutor](https://scryfall.com/card/ema/62/mystical-tutor)
 	* Decks should be consistent enough without tutors.
 * [Necropotence](https://scryfall.com/card/ima/98/necropotence)
@@ -43,7 +43,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Tinker](https://scryfall.com/card/ulg/45/tinker)
 	* This card is already banned in nearly all formats for very good reason.
 * [Thassa’s Oracle](https://scryfall.com/card/thb/73/thassas-oracle)
-	* Primarily banned as a signpost ban-- the win condition here goes against the overall spirit of the format. And while its win effect doesn't directly contribute to victory points and thus seems less effective here than in other formats, it's still extremely consistent at 4x.
+	* At 4x access, this card would warp the format heavily in favor of decks that can run this card.
 * [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach)
 	* On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful
 * [Vampiric Tutor](https://scryfall.com/card/cmr/156/vampiric-tutor)
@@ -108,9 +108,9 @@ This section contains cards considering bans based on playtesting
 * [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
 	* The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem* to keep this one from being overly powerful. Subject to change as play patterns are uncovered.
 * [Sneak Attack](https://scryfall.com/card/dmr/139/sneak-attack)
-	* This effect is wildly powerful with repeatable access to hero creatures. Consider this extremely likely to get banned, but playtests around it will happen.
+	* This effect is wildly powerful with repeatable access to coalition leaders. Consider this extremely likely to get banned, but playtests around it will happen.
 * [Themberchaud](https://scryfall.com/card/sld/728/themberchaud)
-	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the hero creature. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
+	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the coalition leader. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
 * [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
 	* Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch.
 
