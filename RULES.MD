@@ -27,62 +27,62 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
-	* 906.6a Each deck must contain exactly 60 cards and a 10 card sideboard. The coalition leader starts the game in the sideboard and is not part of the 60 card main deck.
+	* 906.5a Each deck must contain exactly 60 cards and a 10 card sideboard. The coalition leader starts the game in the sideboard and is not part of the 60 card main deck.
 
-	* 906.6b Each creature card may be included a maximum of four times.
+	* 906.5b Each creature card may be included a maximum of four times.
 
-	* 906.6c Each non-basic land card may be included a maximum of four times.
+	* 906.5c Each non-basic land card may be included a maximum of four times.
 
-	* 906.6d Each non-creature, non-land card must have a different English name.
+	* 906.5d Each non-creature, non-land card must have a different English name.
 
-	* 906.6e Every card in a Coalition deck and its sideboard must share a chosen affiliation. Unaffiliated cards are not subject to this restriction.
+	* 906.5e Every card in a Coalition deck and its sideboard must share a chosen affiliation. Unaffiliated cards are not subject to this restriction.
 
-	* 906.6f The deck must contain a legendary creature in its sideboard, designated its coalition leader.
+	* 906.5f The deck must contain a legendary creature in its sideboard, designated its coalition leader.
 
-	* 906.6g The deck must not contain banned cards. A ban list is maintained in this repository.
+	* 906.5g The deck must not contain banned cards. A ban list is maintained in this repository.
 
-	* 906.6h The deck must not contain any legendary cards except the legendary creature declared as the coalition leader.
+	* 906.5h The deck must not contain any legendary cards except the legendary creature declared as the coalition leader.
 
-* 906.7 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
+* 906.6 The Coalition variant includes the following specification for victory points.
 
-	* 906.7a The starting player should be determined randomly for the first game
+	* 906.6a A player starts each game with 0 victory points
 
-	* 906.7b For the subsequent games, the starting player is chosen by the player ranked last
+	* 906.6b A player receives victory points equal to any combat damage dealt to opponents by creatures they control
 
-* 906.8 Once on each of their turns, a player may put their coalition leader card from outside the game into their hand. This is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn, but only if they haven’t done so yet this turn.
+	* 906.6c A player receives victory points equal to any noncombat damage dealt to opponents by that player's coalition leader
 
-* 906.9. A coalition leader may return to outside the game during a Coalition game.
-	* 906.9a If a coalition leader is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704.
-	* 906.9b If a coalition leader would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
+	* 906.6d A player may not receive more than 21 victory points in a game
 
-* 906.10 The Coalition variant includes the following specification for victory points.
+	* 906.6e A player who wins the game through any means receives all remaining victory points they can receive, to the maximum of 21
 
-	* 906.10a A player starts each game with 0 victory points
+	* 906.6f Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
 
-	* 906.10b A player receives victory points equal to any combat damage dealt to opponents by creatures they control
+	* 906.6g A player who concedes the game at any time loses all victory points from the current game and may not participate in further games
 
-	* 906.10c A player receives victory points equal to any noncombat damage dealt to opponents by that player's coalition leader
+	* 906.6h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.6g does not apply to any of them
 
-	* 906.10d A player may not receive more than 21 victory points in a game
+	* 906.6i At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
 
-	* 906.10e A player who wins the game through any means receives all remaining victory points they can receive, to the maximum of 21
+* 906.7 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
 
-	* 906.10f Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
+	* 906.7a A player who has 21 victory points wins the game (This is a state-based action. See rule 704.)
 
-	* 906.10g A player who concedes the game at any time loses all victory points from the current game and may not participate in further games
+	* 906.7b If two or more players have 21 victory points simultaneously, the game is considered a draw
 
-	* 906.10h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11g does not apply to any of them
+	* 906.7c If the games ends in a draw for any reason, 906.6e does not apply to any player
 
-	* 906.10i At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
+	* 906.7d If the game has no winner for any other reason, 906.6e does not apply to any player
 
-* 906.11 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
+* 906.8 The winner of a Coalition match is the player or players with the highest ranking (see 906.6i). 
 
-	* 906.11a A player who has 21 victory points wins the game (This is a state-based action. See rule 704.)
+* 906.9 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
-	* 906.11b If two or more players have 21 victory points simultaneously, the game is considered a draw
+	* 906.9a The starting player should be determined randomly for the first game
 
-	* 906.11c If the games ends in a draw for any reason, 906.10e does not apply to any player
+	* 906.9b For the subsequent games, the starting player is chosen by the player ranked last
 
-	* 906.11d If the game has no winner for any other reason, 906.10e does not apply to any player
+* 906.10 Once on each of their turns, a player may put their coalition leader card from outside the game into their hand. This is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn, but only if they haven’t done so yet this turn.
 
-* 906.12 The winner of a Coalition match is the player or players with the highest ranking (see 906.10i). 
+* 906.11. A coalition leader may return to outside the game during a Coalition game.
+	* 906.11a If a coalition leader is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704.
+	* 906.11b If a coalition leader would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
