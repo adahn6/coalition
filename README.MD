@@ -49,7 +49,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 > [!NOTE] 
 > Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) or [Slime Against Humanity](https://scryfall.com/card/mkm/177/slime-against-humanity) may override these restrictions
 
-### Restrictions:
+### Restrictions
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your coalition's leader in your 70 total cards. 
     * The legendary creature must be a legendary creature on the front side of the card.
@@ -59,7 +59,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
     * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
 
-### Affiliation restriction examples:
+### Affiliation restriction examples
 * [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
 * [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition's leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition type [**except Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck
@@ -72,12 +72,12 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 > [!NOTE] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. For the example of Morophon, changeling is an ability that grants it all creature types, thus it is affiliated with every type; a coalition with Morophon as its leader must still choose a single type as the coalition type, and all cards must be affiliated with that type (or unaffiliated). Grist can be chosen as a coalition's leader, but only has the option of leading an Insect coalition.
 
-## Coalition leaders:
+## Coalition leaders
 Your coalition's leader starts outside the game. Once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A coalition's leader also has similar state-based actions and replacement effects to commanders:
 * As a state-based action, a coalition's leader can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a coalition's leader would enter your library or hand, you may instead choose to remove it from the game
 
-Coalition leaders may be referred to shorthand as just "leader".
+Coalition leaders may be referred to shorthand as "leaders".
 
 For formal definitions of these actions and effects, please check the [comprehensive rules modification](RULES.MD)
 > [!TIP] 
