@@ -110,4 +110,4 @@ While Coalition is very different from Commander, the following section has an i
   		* After game 1, player in last chooses first player
 	* **Coalition leaders aren't in the command zone**, they're outside the game. 
 		* Once each turn, can place into hand. **No tax**!
-  		* Can be returned to **outside the game** as replacement effets or SBAs
+  		* Can be returned to **outside the game** as replacement effect/SBA
