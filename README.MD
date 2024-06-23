@@ -77,9 +77,7 @@ Your coalition's leader starts outside the game. Once on each of your turns, you
 * As a state-based action, a coalition's leader can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a coalition's leader would enter your library or hand, you may instead choose to remove it from the game
 
-Coalition leaders may be referred to shorthand as "leaders".
-
-For formal definitions of these actions and effects, please check the [comprehensive rules modification](RULES.MD)
+Coalition leaders may be referred to shorthand as "leaders". For formal definitions of actions and effects for leaders, please check the [comprehensive rules modification](RULES.MD)
 > [!TIP] 
 > Coalition leaders may seem similar to commanders, but they act closer to a repeatable companion. After placing your coalition's leader into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
 
