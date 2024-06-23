@@ -92,21 +92,23 @@ In rare situations, games may be forcibly ended in a draw by the rules via certa
 
 ### Coming from Commander:
 While Coalition is very different from Commander, the following section has an itemized summary of differences: 
-* **Coalition leaders aren't in the command zone**, they're outside the game. **Once per turn**, you can **put your coalition leader into hand**
-  * **No command tax**!
-* Players start at **25 life**
-* There is **no free mulligan**
-* **No color identity** restrictions; but instead, there is the new **affiliation** restrictions
-* Decks are **sixty cards** and are **not highlander**
-  * 4x lands, 4x creatures, 1x all other cards  
-* **No commander damage** lose condition, but instead a new **victory point win condition**
-  * A player gains victory points for all **combat damage from creatures they control**
-  * A player gains victory points from **all non-combat damage their coalition leader deals to opponents**
-  * A player wins the game when they reach 21 victory points
-  * A player winning the game by any other means gains 21 victory points for that game, regardless of how many they had before winning
-  * A player can never gain more than 21 victory points per game
-* **Best of 3**
-  * A match is played in a set of 3 games
-  * After each game, players may **sideboard**
-  * After each game, each player adds the victory points they had at the end of the game to their match total
-  * For game 1, decide the first player randomly. For games 2 and 3, the player with the least points chooses the first player. In the case of a tie, decide randomly which of those players chooses.
+* Decks:
+	* **No color identity** restrictions; but instead, there is the new **affiliation** restrictions
+	* Decks are **sixty cards** and are **not highlander**
+  		* 4x lands, 4x creatures, 1x all other cards  
+* General Play:
+	* Players start at **25 life**
+	* There is **no free mulligan**
+	* New **victory point win condition**
+  		* Gain victory points for all **combat damage**
+  		* Gain victory points from **all non-combat damage dealt by leader**
+  		* Win at 21 victory points
+  		* Get 21 victory points if game is won through any other means
+  		* Can never gain more than 21 victory points per game
+	* **Match of 3 games**
+  		* After each game, players may **sideboard**
+  		* After each game, each player adds the victory points they had at the end of the game to their ranking
+  		* After game 1, player in last chooses first player
+	* **Coalition leaders aren't in the command zone**, they're outside the game. 
+		* Once each turn, can place into hand. **No tax**!
+  		* Can be returned to **outside the game** as replacement effets or SBAs
