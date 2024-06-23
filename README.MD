@@ -92,7 +92,7 @@ In rare situations, games may be forcibly ended in a draw by the rules via certa
 ### Coming from Commander:
 While Coalition is very different from Commander, the following section has an itemized summary of differences: 
 * Decks:
-	* **No color identity** restrictions; but instead, there is the new **affiliation** restrictions
+	* **No color identity** restrictions; instead, **affiliation** restrictions
 	* Decks are **sixty cards** and are **not highlander**
   		* 4x lands, 4x creatures, 1x all other cards  
 * General Play:
