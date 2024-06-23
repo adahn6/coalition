@@ -65,11 +65,11 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.10d A player may not receive more than 21 victory points in a game
 
-	* 906.10e A player who wins the game through any means receives all remaining victory points they can receive, to the maxmimum of 21
+	* 906.10e A player who wins the game through any means receives all remaining victory points they can receive, to the maximum of 21
 
 	* 906.10f Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
 
-	* 906.10g A player who concededs the game at any time loses all victory points from the current game and may not participate in further games
+	* 906.10g A player who concedes the game at any time loses all victory points from the current game and may not participate in further games
 
 	* 906.10h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.11g does not apply to any of them
 
