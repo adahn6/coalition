@@ -25,7 +25,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * [Gush](https://scryfall.com/card/jvc/27/gush)
 	* Gush is extremely powerful, but combo player should have tools-- remains banned provisionally, but playtests around it are scheduled.
 * [Heartless Hidetsugu](https://scryfall.com/card/cns/144/heartless-hidetsugu)
-	* While relatively high manag cost and not strictly impossible to deal with, Heartless Hidetsugu is in essence a one-card combo to win at potentially maximum victory points.
+	* While relatively high mana cost and not strictly impossible to deal with, Heartless Hidetsugu is in essence a one-card combo to win at potentially maximum victory points.
 * [Imperial Seal](https://scryfall.com/card/2x2/354/imperial-seal)
 	* Decks should be consistent enough without tutors.
 * [Mana Crypt](https://scryfall.com/card/2xm/270/mana-crypt)
@@ -102,7 +102,7 @@ This section contains cards considering bans based on playtesting
 * [Flash](https://scryfall.com/card/a25/57/flash)
 	* Because of deckbuilding restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge.
 * [Griselbrand](https://scryfall.com/card/mm3/72/griselbrand)
-	* A classic reanimate target, Griselbrand is an extremeley powerful deck even with the lower life totals. On watch.
+	* A classic reanimate target, Griselbrand is an extremely powerful deck even with the lower life totals. On watch.
 * [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
 	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
 * [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
