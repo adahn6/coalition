@@ -32,7 +32,7 @@ Each player starts the game at zero victory points, and earns victory points for
 ## Affiliation
 Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
 
-A card's **affiliations** is shorthand for the set of creautre types it is affiliated with.
+A card's **affiliations** is shorthand for the set of creature types it is affiliated with.
 
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. You can put it in decks of any coalition!
@@ -48,7 +48,7 @@ A card's **affiliations** is shorthand for the set of creautre types it is affil
 * 1x non-creature, non-land cards
 * Unlimited basic lands
 > [!NOTE] 
-> Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) or [Slime Against Humanity](https://scryfall.com/card/mkm/177/slime-against-humanity) may override these restricitons
+> Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) or [Slime Against Humanity](https://scryfall.com/card/mkm/177/slime-against-humanity) may override these restrictions
 
 ### Restrictions:
 * No cards from the [banned cards list](BANLIST.MD)
@@ -78,7 +78,7 @@ Your coalition leader starts outside the game. Once on each of your turns, you m
 * As a state-based action, a coalition leader can be removed from the game after it has transitioned to graveyard or exile
 * As a replacement effect, if a coalition leader would enter your library or hand, you may instead choose to remove it from the game
 
-For formal defintions of these actions and effects, please check the [comprehensive rules modification](RULES.MD)
+For formal definitions of these actions and effects, please check the [comprehensive rules modification](RULES.MD)
 > [!TIP] 
 > Coalition leaders may seem similar to commanders, but they act closer to a repeatable companion. After placing your coalition leader into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
 
