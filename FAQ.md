@@ -30,8 +30,8 @@ There are plenty of creatures that synergize with creatures outside of their typ
 ### Why does affiliation apply to non-creature cards?
 From an aesthetic perspective, this restriction enforces that decks feel 100% committed to their affiliation. But from a format perspective it's extremely important to note that powerful deck archetypes that don't need to care about affiliation emerge if [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) and its equivalents can be run at 4x by any deck. These restrictions mean that the everyone, no matter what deck archetypes they're trying to build, has to pay close attention to the affiliation choice and what cards it enables. 
 
-### Why not have affiliation restrictions build similarly to color identity, where any card can be run as long as the type as mentioned on the coalititon leader? 
-This would make card pools when constructing decks and checking for viability very confusing, as well as leading to a problem with legendary creatures mentioning more types becoming *significantly* more powerful. The restriction of a single affiliation is much more straightfoward.
+### Why not have affiliation restrictions build similarly to color identity, where any card can be run as long as the type as mentioned on the coalition leader? 
+This would make card pools when constructing decks and checking for viability very confusing, as well as leading to a problem with legendary creatures mentioning more types becoming *significantly* more powerful. The restriction of a single affiliation is much more straightforward.
 
 ### Why can't I choose Human affiliation for my deck?
 There are a few reasons. Firstly, Humans have the most cards printed by quite a large margin, which creates a incentive to choose them for maximum deckbuilding options; this incentive goes against the spirit of the format's deckbuilding. Second, many creature types have intentional mechanical synergies, but Human comes closer to a default type-- there's no obvious connective gameplay mechanics between most Humans. 
