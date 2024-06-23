@@ -106,7 +106,7 @@ While Coalition is very different from Commander, the following section has an i
   		* Can never gain more than 21 victory points per game
 	* **Match of 3 games**
   		* After each game, players may **sideboard**
-  		* After each game, all victory points **from all players** added to ranking
+  		* After each game, **all players** add their final victory point total to ranking
   		* After game 1, player in last chooses first player
 		* Winner after game 3 is player with highest ranking
 	* **Coalition leaders aren't in the command zone**, they're outside the game. 
