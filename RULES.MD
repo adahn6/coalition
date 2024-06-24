@@ -35,7 +35,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.5d Each non-creature, non-land card must have a different English name.
 
-	* 906.5e Every card in a Coalition deck and its sideboard must share a chosen affiliation. Unaffiliated cards are not subject to this restriction.
+	* 906.5e Every card in a Coalition deck and its sideboard must share a chosen affiliation, referred to as its coalition type. Unaffiliated cards are not subject to this restriction. This type may not be Human.
 
 	* 906.5f The deck must contain a legendary creature in its sideboard, designated its coalition leader.
 
