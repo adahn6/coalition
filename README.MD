@@ -45,7 +45,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 	* Sideboard must include one legendary creature
 * Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
-	* The front side of double-faced cards should be used when determining restrictions
+	* The front side of double-faced cards is used for determining 4x or 1x
 * Unlimited basic lands
 > [!NOTE] 
 > Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) or [Slime Against Humanity](https://scryfall.com/card/mkm/177/slime-against-humanity) may override these restrictions
