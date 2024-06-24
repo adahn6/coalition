@@ -1,6 +1,6 @@
 # Deckbuilding
 
-## Example Decks:
+## Example Decks
 * [Ranar, Warrior affiliation](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
   * Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!
 * [Sarkhan, Dragon affiliation](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
