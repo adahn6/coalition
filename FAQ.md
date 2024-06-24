@@ -42,5 +42,5 @@ Firstly, it reinforces a focus on the creatures themselves, especially the nonle
 ### Can't the victory point ranking lead to ties?
 Yep, that's a valid observation. But Magic can already end in a draw, and a draw doesn't have to invalidate the fun of playing. It's also not particularly likely to happen, from our playtesting, and if it were to happen at excessive rates then rules modifications would be considered. 
 
-### Why is there no tax for leaders, doesn't that make decks uncontrollable?
+### Why is there no tax for leaders? How can this possibly be balanced?
 Since Coalition is played in sets of three games, letting decks be relatively consistent enables faster games... no one wants to be playing the same match for four hours. Control and stalling tactics will only go so far because of this, and a single combat trick or hasted creature could end the game abruptly just as easily as a complex combo. But if fast scrambles to win the game sound too chaotic, keep in mind that losing a game here doesn't mean as much as other formats; **all players** add their victory points at the end of the game to their ranking. The goal is to individual games moving quickly, still allow for some high-value interactions, and limit frustrations over a single game's results.
