@@ -23,7 +23,7 @@ There is no free mulligan, however like other multiplayer Magic formats the firs
 ## Victory points
 Every player starts each game at zero victory points and can earn 21 per game in two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [wining through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points. No player may ever earn more than 21 victory points during the course of a game.
 
-**At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. In the rare cases of draws, or all players losing, players simply use their victory point totals when the game ended.
+**At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. 
 
 > [!NOTE] 
 > The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
