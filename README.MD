@@ -95,6 +95,7 @@ While Coalition is very different from Commander, the following section has an i
 	* **No color identity** restrictions; instead, **affiliation** restrictions
 	* Decks are **sixty cards** and are **not highlander**
   		* 4x lands, 4x creatures, 1x all other cards  
+	* Only one legendary allowed, a legendary creature known as the coalition's **leader**. Starts in sideboard
 * General Play:
 	* Players start at **25 life**
 	* There is **no free mulligan**
