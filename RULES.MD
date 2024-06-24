@@ -41,7 +41,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.5g The deck must not contain banned cards. A ban list is maintained in this repository.
 
-	* 906.5h The deck must not contain any legendary cards except the legendary creature declared as the coalition leader.
+	* 906.5h The deck must not contain any legendary cards except the legendary creature declared as the coalition leader. This restriction includes double-faced cards with only a legendary back-face; this is an exception to 712.8a.
 
 * 906.6 The Coalition variant includes the following specification for victory points.
 
