@@ -13,7 +13,7 @@ Coalition remixes a lot of elements from other formats into its own unique spin 
 * Fast three-game multiplayer matches 
 * Flavorful decks built around creature affiliations
 * Eternal format with large card pool
-* Hybridizes 60 card formats with multiplayer
+* Hybrid of 60 card formats and multiplayer
 
 ## Play Rules/Modifiers
 This format is primarily intended for 3-5 players per match. Deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Matches are played in sets of three games, and players sideboard after each game.
