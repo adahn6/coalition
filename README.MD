@@ -54,6 +54,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your coalition's leader in your 70 total cards
     * The legendary creature must be a legendary creature on the front side of the card
+    * **This restriction applies to both sides of any double-faced cards, e.g. [Westvale Abbey](https://scryfall.com/card/soi/281/westvale-abbey-ormendahl-profane-prince) may not be run in any deck**
 * A single creature type must be chosen as the coalition type
     * This type must be chosen from the legendary creature's affiliations
     * All cards in the deck must be [affiliated with the chosen coalition type or be unaffiliated](#Affiliation)
