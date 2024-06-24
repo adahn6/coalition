@@ -87,7 +87,8 @@ Coalition leaders may be referred to shorthand as "leaders". For formal definiti
 ## Other rules modifications
 Because Coalition has multiple players with multiple games played, there are special rules around conceding. While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match; they will not add victory points from that game to their ranking. Conceding within a game also removes a player from any other games in the match; in essence, they're conceding the entire match not just one game. This rule is designed to prevent players from conceding advantageously. As an exception to this rule, if all opponents of a player wish to concede a game simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method. 
 
-In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, or if the game is a draw for any other reason, or if a game has no winner for any reason, players simply add their existing victory points at the end of the game to their ranking. 
+> [!IMPORTANT]
+> In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, or if the game is a draw for any other reason, or if a game has no winner for any reason, players simply add their existing victory points at the end of the game to their ranking. 
 
 ## Quick rules
 
