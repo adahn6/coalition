@@ -65,7 +65,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 * [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck
 * [Swan Song](https://scryfall.com/card/c16/98/swan-song) is affiliated with Birds and can only be run in a Bird coalition deck
 * [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snakes, Wolves, and Elephants, and can be run only in deck of those coalition types
-* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Artificers and Servos, and can be run only in decks of those coalition types
+* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Humans, Artificers, and Servos, and can be run only in decks of Artificers and Servo coalition types. ([**Human cannot be a coalition type.**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elementals, and can only be run in an Elemental coalition deck
 * [Go-Shintai of Boundless Vigor](https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor) cannot be chosen as a coalition's leader as it is not affiliated with any creature type (Shrine is not a creature type!)
 
