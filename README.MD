@@ -21,7 +21,7 @@ This format is primarily intended for 3-5 players per match. Deck sizes are 60 c
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
 
 ## Victory points
-Every player starts each game at zero victory points and can earn 21 victory points per game two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [wining through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points. No player may ever earn more than 21 victory points during the course of a game.
+Every player starts each game at zero victory points and can earn 21 per game in two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [wining through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points. No player may ever earn more than 21 victory points during the course of a game.
 
 **At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. In the rare cases of draws, or all players losing, players simply use their victory point totals when the game ended.
 
