@@ -53,10 +53,10 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 * No cards from the [banned cards list](BANLIST.MD)
 * No legendary cards other than your coalition's leader in your 70 total cards
     * The legendary creature must be a legendary creature on the front side of the card
-* A single affiliation must be chosen as the coalition type
+* A single creature type must be chosen as the coalition type
     * This type must be chosen from the legendary creature's affiliations
-    * All cards are [affiliated with the chosen coalition type or are unaffiliated](#Affiliation)
-    * The chosen affiliation [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
+    * All cards in the deck must be [affiliated with the chosen coalition type or be unaffiliated](#Affiliation)
+    * The chosen type [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
 
 ### Affiliation restriction examples
