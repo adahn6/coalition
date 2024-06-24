@@ -7,7 +7,7 @@ Coalition is a fast and frenzied multiplayer format about leading creature coali
 
 Coalition is a played as a three-game match. The winner of all three games is decided using **victory points**. You'll start each game with 0 victory points and win the game if you get 21. There are two ways during a game to get victory points: combat damage to opponents, and non-combat damage your coalition's leader deals to opponents. Regardless of winning or losing a game, every player adds all victory points they had at the end of the game to their ranking, and the winner of the match is the player with the highest ranking at the end of the third game. 
 
-Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's fast and consistent, like high power sixty card formats, but balance is kept with deckbuilding and affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The three-game structure adds sideboard opportunities, and also adds a fun archenemy dynamic. Give it a try-- we think you'll have a blast. 
+Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's fast and consistent, like high power sixty card formats, but balanced by deckbuilding and affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The three-game structure adds sideboard opportunities, and also adds a fun archenemy dynamic. Give it a try-- we think you'll have a blast. 
 
 ## Why Play This Format?
 * Fast three-game multiplayer matches 
