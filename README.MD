@@ -111,5 +111,5 @@ While Coalition is very different from Commander, the following section has an i
   		* After game 1, player in last chooses first player
 		* Winner after game 3 is player with highest ranking
 	* **Coalition leaders aren't in the command zone**, they're outside the game. 
-		* Once each turn, can place into hand. **No tax**!
+		* Once each turn as sorcery, can place into hand. **No tax**!
   		* Can be returned to **outside the game** as replacement effect/SBA
