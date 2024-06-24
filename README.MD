@@ -71,7 +71,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 * [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elementals, and can only be run in an Elemental coalition deck
 * [Go-Shintai of Boundless Vigor](https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor) cannot be chosen as a coalition's leader as it is not affiliated with any creature types (Shrine is not a creature type!)
 
-> [!NOTE] 
+> [!IMPORTANT] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. For the example of Morophon, changeling is an ability that grants it all creature types, thus it is affiliated with every type; a coalition with Morophon as its leader must still choose a single type as the coalition type, and all cards must be affiliated with that type (or unaffiliated). Grist can be chosen as a coalition's leader, but only has the option of leading an Insect coalition.
 
 ## Coalition leaders
