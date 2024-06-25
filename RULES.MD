@@ -75,7 +75,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.8 The winner of a Coalition match is the player or players with the highest ranking (see 906.6i). 
 
-* 906.9 Once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
+* 906.9 For each game, once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
 	* 906.9a The starting player should be determined randomly for the first game
 
