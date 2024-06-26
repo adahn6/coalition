@@ -88,30 +88,3 @@ While a player may still concede at any time for any reason, conceding automatic
 
 > [!IMPORTANT]
 > In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, or if the game is a draw for any other reason, or if a game has no winner for any reason, players simply add their existing victory points at the end of the game to their ranking. 
-
-## Quick rules
-
-### Coming from Commander:
-While Coalition is very different from Commander, the following section has an itemized summary of differences: 
-* Decks:
-	* **No color identity** restrictions; instead, **affiliation** restrictions
-	* Decks are **sixty cards** and are **not highlander**
-  		* 4x lands, 4x creatures, 1x all other cards  
-	* Only one legendary allowed, a legendary creature known as the coalition's **leader**. Starts in sideboard
-* General Play:
-	* Players start at **25 life**
-	* There is **no free mulligan**
-	* New **victory point win condition**
-  		* Gain victory points for all **combat damage**
-  		* Gain victory points from **all non-combat damage dealt by leader**
-  		* Win at 21 victory points
-  		* Get 21 victory points if game is won through any other means
-  		* Can never gain more than 21 victory points per game
-	* **Match of 3 games**
-  		* After each game, players may **sideboard**
-  		* After each game, **all players** add their final victory point total to ranking
-  		* After game 1, player in last chooses first player
-		* Winner after game 3 is player with highest ranking
-	* **Coalition leaders aren't in the command zone**, they're outside the game. 
-		* Once each turn as sorcery, can place into hand. **No tax**!
-  		* Can be returned to **outside the game** as replacement effect/SBA
