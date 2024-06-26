@@ -36,6 +36,15 @@ Every player starts each game at zero victory points and can earn up to 21 per g
 > [!TIP] 
 > The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
 
+## Coalition leaders
+Your coalition's leader starts outside the game. Once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A coalition's leader also has similar state-based actions and replacement effects to commanders:
+* As a state-based action, a coalition's leader can be removed from the game after it has transitioned to graveyard or exile
+* As a replacement effect, if a coalition's leader would enter your library or hand, you may instead choose to remove it from the game
+
+Coalition leaders may be referred to shorthand as "leaders". For formal definitions of actions and effects for leaders, please check the [comprehensive rules modification](RULES.MD)
+> [!TIP] 
+> Coalition leaders may seem similar to commanders, but they act closer to a repeatable companion. After placing your coalition's leader into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
+
 ## Deckbuilding
 ### Format
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
@@ -73,16 +82,6 @@ Every player starts each game at zero victory points and can earn up to 21 per g
 
 > [!IMPORTANT] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. For Morophon, changeling is an ability that grants it all creature types, thus it is affiliated with every creature type; the rules for a single coalition type still apply, one of these must be chosen and all cards in the deck must be affiliated with it. Grist can be chosen as a coalition's leader, but is only affilated with Insect.
-
-## Coalition leaders
-Your coalition's leader starts outside the game. Once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. A coalition's leader also has similar state-based actions and replacement effects to commanders:
-* As a state-based action, a coalition's leader can be removed from the game after it has transitioned to graveyard or exile
-* As a replacement effect, if a coalition's leader would enter your library or hand, you may instead choose to remove it from the game
-
-Coalition leaders may be referred to shorthand as "leaders". For formal definitions of actions and effects for leaders, please check the [comprehensive rules modification](RULES.MD)
-> [!TIP] 
-> Coalition leaders may seem similar to commanders, but they act closer to a repeatable companion. After placing your coalition's leader into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
-
 
 ## Conceding
 While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match-- they will not add victory points from that game to their ranking. Conceding within a game also removes a player from any remaining games in the match. This rule is designed to prevent players from conceding advantageously. **As an exception to this rule**, if all opponents of a player wish to concede a game simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method. 
