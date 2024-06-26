@@ -20,14 +20,6 @@ This format is primarily intended for 3-5 players per match. Deck sizes are 60 c
 
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
 
-## Victory points
-Every player starts each game at zero victory points and can earn up to 21 per game in two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [winning through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points.
-
-**At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. 
-
-> [!TIP] 
-> The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
-
 ## Affiliation
 Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
 
@@ -35,6 +27,14 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 
 > [!NOTE] 
 > “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. You can put it in decks of any coalition!
+
+## Victory points
+Every player starts each game at zero victory points and can earn up to 21 per game in two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [winning through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points.
+
+**At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. 
+
+> [!TIP] 
+> The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
 
 ## Deckbuilding
 ### Format
