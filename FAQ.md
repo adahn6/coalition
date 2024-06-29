@@ -2,9 +2,9 @@
 
 ## Philosophy
 
-The goal of this format is to provide a multiplayer format that's fun, fast, and **high-power**. Ideally, all three matches can be played in around ninety minutes and everyone can have a chance to have some high-value interactions and plays. To that end, rules and bans will be tweaked to ensure that this vision of how the games should play can be relatively consistent from table to table.
+The goal of this format is to provide a multiplayer format that's fun, fast, and **high-power**. Rules and bans will be tweaked to ensure that the format achieves that goal. 
 
-This format assumes that decks can and will be constructed competitively and have high overall power levels. Play to win, but also be respectful and gracious in both victory and defeat.
+This format assumes that decks can and will be constructed competitively and have high overall power levels. While less competitive social environments may still enjoy this format, there is no guarantee about this-- the format allows consistent high power levels decks to thrive. With that in mind, play to win, but also be respectful and gracious in both victory and defeat.
 
 ## FAQ
 The following questions are based on discussions when introducing the format to players
