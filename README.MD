@@ -11,7 +11,7 @@ Coalition remixes a lot of elements from other formats into its own unique spin 
 
 <dl>
 <dt>Affiliation</dt>
-<dd>describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. See [Affiliation](#Affiliation)</dd>
+<dd>describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. See [Affiliation](README.MD#Affiliation)</dd>
 </dl>
 
 ## Why Play This Format?
