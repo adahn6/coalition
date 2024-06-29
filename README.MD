@@ -4,7 +4,7 @@
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
 
-Coalition is a fast, high-power multiplayer format about leading creature coalitions into battle. Choose a legendary creature as the coalition's **leader**, then build a 60-card deck plus sideboard around one of its creature type **[affiliations](README.MD#affiliation].**
+Coalition is a fast, high-power multiplayer format about leading creature coalitions into battle. Choose a legendary creature as the coalition's **leader**, then build a 60-card deck plus sideboard around one of its creature type **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#affiliation">affiliations</a>.**
 
 Coalition is a played as a three-game match where players compete for the most **victory points**, which they can earn from combat damage to opponents and from non-combat damage their coalition's leader deals to opponents. When any player reaches 21, they win the game. Regardless of winning or losing a game, every player adds all victory points they earned to their ranking, and the winner of the match is the player with the highest ranking at the end of the third game. 
 
