@@ -27,7 +27,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
-	* 906.5a Each deck must contain exactly 60 cards and a 10 card sideboard. The coalition leader starts the game in the sideboard and is not part of the 60 card main deck.
+	* 906.5a Each deck must contain exactly 60 cards and a 15 card sideboard. The coalition leader starts the game in the sideboard and is not part of the 60 card main deck.
 
 	* 906.5b Each creature card may be included a maximum of four times.
 
@@ -63,7 +63,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6i At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
 
-* 906.7 The Coalition variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
+* 906.7 The Coalition variant includes the following specification for winning and losing a game. All other rules for ending a game also apply. (See rule 104.)
 
 	* 906.7a A player who has 21 victory points wins the game (This is a state-based action. See rule 704.)
 
