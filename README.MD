@@ -48,11 +48,8 @@ Your coalition's leader starts outside the game. Once on each of your turns, you
 ![maindeck-dark](images/maindeck_dark.png#gh-dark-mode-only "60 card main deck") ![sideboard-dark](images/sideboard_dark.png#gh-dark-mode-only "15 card sideboard")
 
 ### Format
-* 60 card main deck, 15 card sideboard
-* Up to 4x of creatures and nonbasic lands
-* 1x non-creature, non-land cards
-	* The front side of double-faced cards is used for determining 4x or 1x
-* Unlimited basic lands
+The format for Coalition decks is decks of 60 cards with a 15 card sideboard. Creatures and non-basic lands may be included up to four times, counted by its English card title equivalent. There are no limits on basic lands. All other cards may be included only once, counted by its English card title equivalent.
+
 > [!NOTE] 
 > Cards that explicitly override deckbuilding restrictions, such as [Relentless Rats](https://scryfall.com/card/a25/105/relentless-rats) or [Slime Against Humanity](https://scryfall.com/card/mkm/177/slime-against-humanity) may override these restrictions
 
