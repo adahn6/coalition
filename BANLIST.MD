@@ -31,25 +31,27 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	<dd>Decks should be consistent enough without tutor</dd>
 <dt><a href="https://scryfall.com/card/2xm/270/mana-crypt">Mana Crypt</a></dt>
 	<dd>Access to fast mana is, overall, restricted</dd>
-<dt><a href="https://scryfall.com/card/2x2/308/mana-vault)">Mana Vault</a></dt>
+<dt><a href="https://scryfall.com/card/2x2/308/mana-vault">Mana Vault</a></dt>
 	<dd>Without other restrictions, this card isn't the broken fast mana access that it is in other formats, but it's still too relevant to combo lines to permit</dd>
 <dt><a href="https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)">Malcolm, Keen-Eyed Navigator</a></dt>
 	<dd>Malcolm is just too strong, with extremely consistent access to a two-card combo with <a href="https://scryfall.com/card/m20/141/glint-horn-buccaneer">Glint-Horn Buccaneer</a></dd>
 <dt><a href="https://scryfall.com/card/ema/62/mystical-tutor)">Mystical Tutor</a></dt>
 	<dd>Decks should be consistent enough without tutors</dd>
-<dt><a href="https://scryfall.com/card/ima/98/necropotence)">Necropotence]</a></dt>
+<dt><a href="https://scryfall.com/card/ima/98/necropotence)">Necropotence</a></dt>
 	<dd>Even as a singleton, Necropotence is a format warping card in any format and could cause unfortunate play patterns</dd>
 <dt><a href="https://scryfall.com/card/cmm/410/sol-ring)">Sol Ring</a></dt>
 	<dd>Access to fast mana is, overall, restricted</dd>
-<dt><a href="https://scryfall.com/card/ulg/45/tinker)">Tinker]</a></dt>
+<dt><a href="https://scryfall.com/card/ulg/45/tinker">Tinker</a></dt>
 	<dd>This card is already banned in nearly all formats for very good reason</dd>
-<dt><a href="https://scryfall.com/card/thb/73/thassas-oracle)">Thassa’s Oracle</a></dt>
+<dt><a href="https://scryfall.com/card/thb/73/thassas-oracle">Thassa’s Oracle</a></dt>
 	<dd>At 4x access, this card would warp the format heavily in favor of decks that can run this card</dd>
-<dt><a href="https://scryfall.com/card/thb/161/underworld-breach)">Underworld Breach</a></dt>
+<dt><a href="https://scryfall.com/card/thb/161/underworld-breach">Underworld Breach</a></dt>
 	<dd>On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful</dd>
-<dt><a href="https://scryfall.com/card/cmr/156/vampiric-tutor)">Vampiric Tutor</a></dt>
+<dt><a href="https://scryfall.com/card/cmr/156/vampiric-tutor">Vampiric Tutor</a></dt>
 	<dd>Decks should be consistent enough without tutors</dd>
 </dl>
+
+
 ## Cards banned in Legacy but not Coalition
 * [Arcum's Astrolabe](https://scryfall.com/card/mh1/220/arcums-astrolabe)
 	* Singleton copies here just aren't as important as in legacy, and there should be some access to flexible mana.
