@@ -11,8 +11,8 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * Cards whose art, text, name, or combination thereof that are racially or culturally offensive are banned in all formats. This list is a work in progress. Click [here](https://magic.wizards.com/en/news/announcements/depictions-racism-magic-2020-06-10) for the list.
 * All cards that bring a sticker or an Attraction into the game are banned.
 <dl>
-<dt>Balance</dt>
-<dd>[Balance](https://scryfall.com/card/ema/2/balance) is already banned in nearly all formats for very good reason.</dd>
+<dt><a href="https://scryfall.com/card/ema/2/balance">Balance</a></dt>
+<dd>This card is already banned in nearly all formats for very good reason.</dd>
 </dl>
 * [Channel](https://scryfall.com/card/ima/157/channel)
 	* This card is already banned in nearly all formats for very good reason.
