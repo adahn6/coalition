@@ -16,7 +16,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 <dt><a href="https://scryfall.com/card/ima/157/channel">Channel</a></dt>
 	<dd>This card is already banned in nearly all formats for very good reason</dd>
 <dt><a href="https://scryfall.com/card/lcc/220/chandras-ignition">Chandra's Ignition</a></dt>
-	<dd>This card is extremely powerful given the format's win condition. A ban may not strictly be necessary, but seems appropriate. May be revisited in future</dd>
+	<dd>Due to the formats win condition, casting this card on a leader can give a massive and disproportionate amount of victory points for the cost and risk of running it. The ability for this card to swing games creates an unhealthy play pattern and is banned.</dd>
 <dt><a href="https://scryfall.com/card/cmm/150/demonic-tutor">Demonic Tutor</a></dt>
 	<dd>Decks should be consistent enough without tutors</dd>
 <dt><a href="https://scryfall.com/card/war/125/dreadhorde-arcanist">Dreadhorde Arcanist</a></td>
