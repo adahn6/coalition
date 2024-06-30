@@ -52,7 +52,6 @@ Coalition leaders may be referred to shorthand as "leaders". For formal definiti
 ![maindeck-dark](images/maindeck_dark.png#gh-dark-mode-only "60 card main deck") ![sideboard-dark](images/sideboard_dark.png#gh-dark-mode-only "15 card sideboard")
 
 * 60 card main deck, 15 card sideboard
-	* Sideboard must include one legendary creature
 * Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
 	* The front side of double-faced cards is used for determining 4x or 1x
@@ -62,24 +61,35 @@ Coalition leaders may be referred to shorthand as "leaders". For formal definiti
 
 ### Restrictions
 * No cards from the [banned cards list](BANLIST.MD)
-* No legendary cards other than your coalition's leader in your 70 total cards
+* One legendary creature is chosen as the deck's **coalition leader**
+    * No legendary cards other than your coalition's leader. **This restriction applies to both sides of any double-faced cards, e.g. [Westvale Abbey](https://scryfall.com/card/soi/281/westvale-abbey-ormendahl-profane-prince) may not be run in any deck**
     * The legendary creature must be a legendary creature on the front side of the card
-    * **This restriction applies to both sides of any double-faced cards, e.g. [Westvale Abbey](https://scryfall.com/card/soi/281/westvale-abbey-ormendahl-profane-prince) may not be run in any deck**
-* A single creature type must be chosen as the coalition type
+* A single creature type is chosen as the **coalition type**
     * This type must be chosen from the legendary creature's affiliations
     * All cards in the deck must be [affiliated with the chosen coalition type or be unaffiliated](#Affiliation)
-    * The chosen type [**may not be Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
+    * [**Human may not be chosen as the coalition type**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
 
 ### Affiliation restriction examples
-* [Dermotaxi](https://scryfall.com/card/mh2/224/dermotaxi) is unaffiliated and may be run in any deck
-* [Kaalia of the Vast](https://scryfall.com/card/2x2/235/kaalia-of-the-vast) can be chosen as a coalition's leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition type [**except Human**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
-* [Portal to Phyrexia](https://scryfall.com/card/bro/240/portal-to-phyrexia) is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck
-* [Swan Song](https://scryfall.com/card/c16/98/swan-song) is affiliated with Birds and can only be run in a Bird coalition deck
-* [Bestial Menace](https://scryfall.com/card/mic/134/bestial-menace) is affiliated with Snakes, Wolves, and Elephants, and can only be run in a deck of one of those coalition types
-* [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser) is affiliated with Humans, Artificers, and Servos, and can only be run in an Artificer or Servo coalition deck ([**Human cannot be a coalition type)**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
-* [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) is affiliated with Elementals, and can only be run in an Elemental coalition deck
-* [Go-Shintai of Boundless Vigor](https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor) cannot be chosen as a coalition's leader as it is not affiliated with any creature types (Shrine is not a creature type!)
+<dl>
+<dt><a href="https://scryfall.com/card/mh2/224/dermotaxi">Dermotaxi</a></dt>
+	<dd>Dermotaxi is unaffiliated and may be run in any deck</dd>
+<dt><a href="https://scryfall.com/card/2x2/235/kaalia-of-the-vast">Kaalia of the Vast</a></dt>
+	<dd>Kaalise of the Vast can be chosen as a coalition's leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition type <b><a href="https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-affiliation-for-my-deck">except Human</a></b></dd>
+<dt><a href="https://scryfall.com/card/bro/240/portal-to-phyrexia">Portal to Phyrexia</a><dt>
+	<dd> Portal to Phyrexia is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck</dd>
+<dt><a href="https://scryfall.com/card/c16/98/swan-song">Swan Song</a></dt>
+	<dd>Swan Song is affiliated with Birds and can only be run in a Bird coalition deck</dd>
+<dt><a href="https://scryfall.com/card/mic/134/bestial-menace">Bestial Menace</a></dt>
+	<dd>Bestial Menace is affiliated with Snakes, Wolves, and Elephants, and can only be run in a deck of one of those coalition types</dd>
+<dt><a href="https://scryfall.com/card/aer/76/aether-chaser">Aether Chaser</a></dt>
+	<dd>Aether Chaser is affiliated with Humans, Artificers, and Servos, and can only be run in an Artificer or Servo coalition deck (<b><a href="https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-affiliation-for-my-deck">Human cannot be chosen as a coalition type</a></b>)</dd>
+<dt><a href="https://scryfall.com/card/uma/238/celestial-colonnade">Celestial Colonnade</a></dt>
+	<dd>Celestial Colonnade is affiliated with Elementals, and can only be run in an Elemental coalition deck</dd>
+<dt><a href="https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor">Go-Shintai of Boundless Vigor</a></dt> 
+	<dd>Go-Shintai of Boundless Vigor cannot be chosen as a coalition's leader as it is not affiliated with any creature types (Shrine is not a creature type!)</dd>
+</dl>
+
 
 > [!IMPORTANT] 
 > Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. For Morophon, changeling is an ability that grants it all creature types, thus it is affiliated with every creature type; the rules for a single coalition type still apply, one of these must be chosen and all cards in the deck must be affiliated with it. Grist can be chosen as a coalition's leader, but is only affilated with Insect.
