@@ -12,16 +12,15 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * All cards that bring a sticker or an Attraction into the game are banned.
 <dl>
 <dt><a href="https://scryfall.com/card/ema/2/balance">Balance</a></dt>
-<dd>This card is already banned in nearly all formats for very good reason.</dd>
-</dl>
-* [Channel](https://scryfall.com/card/ima/157/channel)
-	* This card is already banned in nearly all formats for very good reason.
-* [Chandra's Ignition](https://scryfall.com/card/lcc/220/chandras-ignition)
-	* This card is extremely powerful given the format's win condition. A ban may not strictly be necessary, but seems appropriate. May be revisited in future.
-* [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor)
-	* Decks should be consistent enough without tutors.
-* [Dreadhorde Arcanist](https://scryfall.com/card/war/125/dreadhorde-arcanist)
-	* Banned in Legacy for good reason, Dreadhorde Arcanist exponentionally boosts two types that already have strong support (wizards and zombies) and creates decks that are just too consistently powerful. There has been discussion around the power level of its effects given the singleton restriction on instants and sorceries; playtests around unbanning it may occur.
+<dd>This card is already banned in nearly all formats for very good reason</dd>
+<dt><a href="https://scryfall.com/card/ima/157/channel">Channel</a></dt>
+<dd>This card is already banned in nearly all formats for very good reason</dd>
+<dt><a href="https://scryfall.com/card/lcc/220/chandras-ignition">Chandra's Ignition</a></dt>
+<dd>This card is extremely powerful given the format's win condition. A ban may not strictly be necessary, but seems appropriate. May be revisited in future</dd>
+<dt><a href="https://scryfall.com/card/cmm/150/demonic-tutor">Demonic Tutor</a></dt>
+<dd>Decks should be consistent enough without tutors</dd>
+<dt><a href="https://scryfall.com/card/war/125/dreadhorde-arcanist">Dreadhorde Arcanist</a></td>
+<dd>Banned in Legacy for good reason, Dreadhorde Arcanist exponentionally boosts two types that already have strong support (wizards and zombies) and creates decks that are just too consistently powerful. There has been discussion around the power level of its effects given the singleton restriction on instants and sorceries; playtests around unbanning it may occur</dd>
 * [Goblin Recruiter](https://scryfall.com/card/6ed/186/goblin-recruiter)
 	* It's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting while a player orders their entire libary.
 * [Gush](https://scryfall.com/card/jvc/27/gush)
@@ -50,7 +49,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	* On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful
 * [Vampiric Tutor](https://scryfall.com/card/cmr/156/vampiric-tutor)
 	* Decks should be consistent enough without tutors. 
-
+</dl>
 ## Cards banned in Legacy but not Coalition
 * [Arcum's Astrolabe](https://scryfall.com/card/mh1/220/arcums-astrolabe)
 	* Singleton copies here just aren't as important as in legacy, and there should be some access to flexible mana.
