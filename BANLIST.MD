@@ -60,7 +60,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 <dt><a href="https://scryfall.com/card/ema/215/deathrite-shaman">Deathrite Shaman</a></dt>
 	<dd>Possibly concerning, but worth considering unbanned until proven otherwise</dd>
 <dt><a href="https://scryfall.com/card/ncc/219/dig-through-time">Dig Through Time</a></dt>
-	<dd>On the one hand, delve is an extremely concerning mechanic-- this is banned/restricted in Legacy/Vintage for good reason. On the other hand, singleton copies without tutor make</dd>it much less consistent, and combo players should have some tools in this format. This is *extremely<dd>subject to playtesting and may well change</dd>
+	<dd>On the one hand, delve is an extremely concerning mechanic-- this is banned/restricted in Legacy/Vintage for good reason. On the other hand, singleton copies without tutor make it much less consistent, and combo players should have some tools in this format. This is *extremely<dd>subject to playtesting and may well change</dd>
 <dt><a href="https://scryfall.com/card/me2/85/demonic-consultation">Demonic Consultation</a></dt>
 	<dd>Not as consistent or strong as in Legacy and Vintage and a good combo piece, could get banned if too strong</dd>
 <dt><a href="https://scryfall.com/card/stx/186/expressive-iteration">Expressive Iteration</a></dt>
@@ -81,7 +81,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	<dd>Counter spells are fine</dd>
 <dt><a href="https://scryfall.com/card/me3/72/mind-twist">Mind Twist</a></dt>
 	<dd>Without access to reserve list cards like <a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>, and with a multiplayer game, this card is not nearly as good as in other formats</dd>
-<dt><a href="https://scryfall.com/card/c16/159/oath-of-druids">Oath of Druids]</a></dt>
+<dt><a href="https://scryfall.com/card/c16/159/oath-of-druids">Oath of Druids</a></dt>
 	<dd>As the format is multiplayer, Oath of Druids is not a safe bet for any player. Legal for now unless consistent harmful play patterns emerge</dd>
 <dt><a href="https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer">Ragavan, Nimble Pilferer</a></dt>
 	<dd>Unclear what Ragavan's power potential is, may get banned subject to testing</dd>
