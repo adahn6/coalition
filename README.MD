@@ -47,10 +47,11 @@ Coalition leaders may be referred to shorthand as "leaders". For formal definiti
 > Coalition leaders may seem similar to commanders, but they act closer to a repeatable companion. After placing your coalition's leader into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or you could exile it to pay for [Force of Will](https://scryfall.com/card/dmr/50/force-of-will). It's up to you! 
 
 ## Deckbuilding
-### Format
+
 ![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "15 card sideboard")
 ![maindeck-dark](images/maindeck_dark.png#gh-dark-mode-only "60 card main deck") ![sideboard-dark](images/sideboard_dark.png#gh-dark-mode-only "15 card sideboard")
 
+### Format
 * 60 card main deck, 15 card sideboard
 * Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
