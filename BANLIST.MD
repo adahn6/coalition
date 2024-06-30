@@ -103,23 +103,24 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 
 ## Current watchlist:
 This section contains cards considering bans based on playtesting
-* [Arcbond](https://scryfall.com/card/frf/91/arcbond)
-	* This card can do quite a lot towards the format's win condition, and could potentially become too powerful to allow. But right now, it seems likelier to be a fun trick to turn tables on opponents, so it's staying in pending playtests.
-* [Flash](https://scryfall.com/card/a25/57/flash)
-	* Because of deckbuilding restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge.
-* [Griselbrand](https://scryfall.com/card/mm3/72/griselbrand)
-	* A classic reanimate target, Griselbrand is an extremely powerful deck even with the lower life totals. On watch.
-* [Muxus, Goblin Grandee](https://scryfall.com/card/jmp/24/muxus-goblin-grandee)
-	* Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice.
-* [Prophet of Kruphix](https://scryfall.com/card/ths/199/prophet-of-kruphix)
-	* The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem* to keep this one from being overly powerful. Subject to change as play patterns are uncovered.
-* [Sneak Attack](https://scryfall.com/card/dmr/139/sneak-attack)
-	* This effect is wildly powerful with repeatable access to coalition leaders. Consider this extremely likely to get banned, but playtests around it will happen.
-* [Themberchaud](https://scryfall.com/card/sld/728/themberchaud)
-	* Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the coalition leader. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens.
-* [Treasure Cruise](https://scryfall.com/card/ncc/237/treasure-cruise) and [Dig Through Time](https://scryfall.com/card/ncc/219/dig-through-time)
-	* Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch.
-
+<dl>
+<dt><a href="https://scryfall.com/card/frf/91/arcbond">Arcbond</a></dt>
+	<dd>This card can do quite a lot towards the format's win condition, and could potentially become too powerful to allow. But right now, it seems likelier to be a fun trick to turn tables on opponents, so it's staying in pending playtests</dd>
+<dt><a href="https://scryfall.com/card/a25/57/flash">Flash</a></dt>
+	<dd>Because of deckbuilding restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge</dd>
+<dt><a href="https://scryfall.com/card/mm3/72/griselbrand">Griselbrand</a></dt>
+	<dd>A classic reanimate target, Griselbrand is an extremely powerful deck even with the lower life totals. On watch</dd>
+<dt><a href="https://scryfall.com/card/jmp/24/muxus-goblin-grandee">Muxus, Goblin Grandee</a></dt>
+	<dd>Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice</dd>
+<dt><a href="https://scryfall.com/card/ths/199/prophet-of-kruphix">Prophet of Kruphix</a></dt>
+	<dd>The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem<dd>to keep this one from being overly powerful. Subject to change as play patterns are uncovered</dd>
+<dt><a href="https://scryfall.com/card/dmr/139/sneak-attack">Sneak Attack</a></dt>
+	<dd>This effect is wildly powerful with repeatable access to coalition leaders. Consider this extremely likely to get banned, but playtests around it will happen</dd>
+<dt><a href="https://scryfall.com/card/sld/728/themberchaud">Themberchaud</a></dt>
+	<dd>Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the coalition leader. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens</dd>
+<dt><a href="https://scryfall.com/card/ncc/237/treasure-cruise">Treasure Cruise</a> and <a href="https://scryfall.com/card/ncc/219/dig-through-time">Dig Through Time</a></dt>
+	<dd>Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch</dd>
+</dl>
 
 ## Special note:
 [Frankie Peanuts](https://scryfall.com/card/und/5/frankie-peanuts), beloved Elephant Rogue, is considered legal for sentimental reasons
