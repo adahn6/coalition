@@ -17,7 +17,7 @@ Coalition remixes a lot of elements from other formats into its own unique spin 
 * Hybrid of 60 card formats and multiplayer
 
 ## Play Rules/Modifiers
-This format is primarily intended for 3-5 players per match. Deck sizes are 60 cards + 10 sideboard cards. Players start with 25 life. Matches are played in sets of three games, and players sideboard after each game.
+This format is primarily intended for 3-5 players per match. Deck sizes are 60 cards + 15 sideboard cards. Players start with 25 life. Matches are played in sets of three games, and players sideboard after each game.
 
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
 
@@ -48,10 +48,10 @@ Coalition leaders may be referred to shorthand as "leaders". For formal definiti
 
 ## Deckbuilding
 ### Format
-![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "10 card sideboard")
-![maindeck-dark](images/maindeck_dark.png#gh-dark-mode-only "60 card main deck") ![sideboard-dark](images/sideboard_dark.png#gh-dark-mode-only "10 card sideboard")
+![maindeck-light](images/maindeck_light.png#gh-light-mode-only "60 card main deck") ![sideboard-light](images/sideboard_light.png#gh-light-mode-only "15 card sideboard")
+![maindeck-dark](images/maindeck_dark.png#gh-dark-mode-only "60 card main deck") ![sideboard-dark](images/sideboard_dark.png#gh-dark-mode-only "15 card sideboard")
 
-* 60 card main deck, 10 card sideboard
+* 60 card main deck, 15 card sideboard
 	* Sideboard must include one legendary creature
 * Up to 4x of creatures and nonbasic lands
 * 1x non-creature, non-land cards
