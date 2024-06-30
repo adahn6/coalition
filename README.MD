@@ -67,7 +67,10 @@ Your coalition's leader starts outside the game. Once on each of your turns, you
     * [**Human may not be chosen as the coalition type**](FAQ.md#why-cant-i-choose-human-as-an-affiliation-for-my-deck)
 * No companion
 
-### Affiliation restriction examples
+### Examples
+
+The following section lists some example deckbuilding restrictions for cards
+
 <dl>
 <dt><a href="https://scryfall.com/card/mh2/224/dermotaxi">Dermotaxi</a></dt>
 	<dd>Dermotaxi is unaffiliated and may be run in any deck</dd>
