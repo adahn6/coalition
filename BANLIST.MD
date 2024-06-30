@@ -60,7 +60,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 <dt><a href="https://scryfall.com/card/ema/215/deathrite-shaman">Deathrite Shaman</a></dt>
 	<dd>Possibly concerning, but worth considering unbanned until proven otherwise</dd>
 <dt><a href="https://scryfall.com/card/ncc/219/dig-through-time">Dig Through Time</a></dt>
-	<dd>On the one hand, delve is an extremely concerning mechanic-- this is banned/restricted in Legacy/Vintage for good reason. On the other hand, singleton copies without tutor make it much less consistent, and combo players should have some tools in this format. This is *extremely<dd>subject to playtesting and may well change</dd>
+	<dd>On the one hand, delve is an extremely concerning mechanic-- this is banned/restricted in Legacy/Vintage for good reason. On the other hand, singleton copies without tutor make it much less consistent, and combo players should have some tools in this format. This is *extremely** subject to playtesting and may well change</dd>
 <dt><a href="https://scryfall.com/card/me2/85/demonic-consultation">Demonic Consultation</a></dt>
 	<dd>Not as consistent or strong as in Legacy and Vintage and a good combo piece, could get banned if too strong</dd>
 <dt><a href="https://scryfall.com/card/stx/186/expressive-iteration">Expressive Iteration</a></dt>
