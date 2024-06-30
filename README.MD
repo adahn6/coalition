@@ -26,9 +26,6 @@ Affiliation describes what creature types a card is associated with. A card is a
 
 A card's **affiliations** is shorthand for the set of creature types it is affiliated with.
 
-> [!NOTE] 
-> “Non-[Creature Type]” clauses do not count as a creature type for affiliation, e.g. [Embiggen](https://scryfall.com/card/unf/137/embiggen) is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types. You can put it in decks of any coalition!
-
 ## Victory points
 Every player starts each game at zero victory points and can earn up to 21 per game in two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [winning through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points.
 
@@ -89,6 +86,8 @@ The following section lists some example deckbuilding restrictions for cards
 	<dd>Changeling is an characteristic defining ability that grants Morophon the Boundless all creature types, so it can be chosen as a coalion leader for any non-Human type. But a single creature type must still be chosen as that coalition type, and all cards in the deck must still be affiliated with that type, or unaffiliated.
 <dt><a href="https://scryfall.com/card/mh2/202/grist-the-hunger-tide">Grist, the Hunger Tide</a></dt>
 	<dd>Grist, the Hunger Tide has a characterstic defining ability that specifies it's an Insect creature card when not on the battlefield. Accordingly, it can be chosen as a coalition's leader, but is only affilated with Insect.</dd>
+<dt><a href="https://scryfall.com/card/unf/137/embiggen">Embiggen</a></dt>
+	<dd>“Non-[Creature Type]” clauses do not count as a creature type for affiliation,so Embiggen is considered unaffiliated, as its text “target non-Brushwagg creature” does not make it affiliated with Brushwagg and it references no other creature types</dd>
 </dl>
 
 ## Conceding
