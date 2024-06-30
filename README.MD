@@ -85,11 +85,11 @@ The following section lists some example deckbuilding restrictions for cards
 	<dd>Celestial Colonnade is affiliated with Elementals, and can only be run in an Elemental coalition deck</dd>
 <dt><a href="https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor">Go-Shintai of Boundless Vigor</a></dt> 
 	<dd>Go-Shintai of Boundless Vigor cannot be chosen as a coalition's leader as it is not affiliated with any creature types (Shrine is not a creature type!)</dd>
+<dt><a href="https://scryfall.com/card/cmm/3/morophon-the-boundless">Morophon the Boundless</a></dt>
+	<dd>Changeling is an characteristic defining ability that grants Morophon the Boundless all creature types, so it can be chosen as a coalion leader for any non-Human type. But a single creature type must still be chosen as that coalition type, and all cards in the deck must still be affiliated with that type, or unaffiliated.
+<dt><a href="https://scryfall.com/card/mh2/202/grist-the-hunger-tide">Grist, the Hunger Tide</a></dt>
+	<dd>Grist, the Hunger Tide has a characterstic defining ability that specifies it's an Insect creature card when not on the battlefield. Accordingly, it can be chosen as a coalition's leader, but is only affilated with Insect.</dd>
 </dl>
-
-
-> [!IMPORTANT] 
-> Creatures with changeling or other relevant characteristic defining abilities, e.g. [Morophon the Boundless](https://scryfall.com/card/cmm/3/morophon-the-boundless) or [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide), follow rules for their characteristic defining abilities. For Morophon, changeling is an ability that grants it all creature types, thus it is affiliated with every creature type; the rules for a single coalition type still apply, one of these must be chosen and all cards in the deck must be affiliated with it. Grist can be chosen as a coalition's leader, but is only affilated with Insect.
 
 ## Conceding
 While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match-- they will not add victory points from that game to their ranking. Conceding within a game also removes a player from any remaining games in the match. This rule is designed to prevent players from conceding advantageously. **As an exception to this rule**, if all opponents of a player wish to concede a game simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method. 
