@@ -4,7 +4,7 @@
 
 The goal of this format is to provide a multiplayer format that's fun, fast, and **high-power**. Rules and bans will be tweaked to ensure that the format achieves that goal. 
 
-This format assumes that decks can and will be constructed competitively and have high overall power levels. While less competitive social environments may still enjoy this format, there is no guarantee about this-- the format allows consistent high power levels decks to thrive. With that in mind, play to win, but also be respectful and gracious in both victory and defeat.
+This format assumes that decks can and will be constructed competitively and have high overall power levels; overall balance of rules and bans will target these decks. Less competitive social environments may still enjoy playing Coalition, though-- just make sure your playgroup is on the same page about what kind of play environment you're aiming for. With that in mind, play to win, but also be respectful and gracious in both victory and defeat.
 
 ## FAQ
 The following questions are based on discussions when introducing the format to players
@@ -19,13 +19,13 @@ The overall goal of this format is to provide a *different* multiplayer format f
 This format can already be extremely fast; adding in fast mana or tutors would enable plays that other players would never have chances to respond to. Additionally, the split 4x/1x deck construction is a considered decision: Your creatures are reliable and consistent, anything else is not. The more powerful tutors undermine this philosophy and thus are banned.
 
 ### Why not allow other legendary cards?
-The choice of legendary creature should really be something special, not just another card in the deck that you happen to have easy access to. To that end, removing other legendary cards helps increase its significance. Equally importantly, this format gives quite a lot of consistent power to decks by allowing once a turn unpenalized access to a legendary creature card; as a tradeoff for balance, access to other powerful cards must be restricted or the format would be unenjoyable.
+The choice of legendary creature should really be something special, not just another card in the deck that you happen to have easy access to. To that end, removing other legendary cards helps increase its significance. Equally importantly, this format gives quite a lot of consistent power to decks by allowing once a turn unpenalized access to a legendary creature card; as a tradeoff for balance, access to other powerful cards must be restricted or the format would be much less enjoyable.
 
 ### Why does affiliation count more than just a creature's type?
 There are plenty of creatures that synergize with creatures outside of their type-- for example, many Artificers create Servos. Checking the entire text of a card allows for cards intended to synergize with each other to be played together. 
 
 ### Why does affiliation apply to non-creature cards?
-From an aesthetic perspective, this restriction enforces that decks feel 100% committed to their affiliation. But from a format perspective it's extremely important to note that powerful deck archetypes that don't need to care about affiliation emerge if, **as just one example**, [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) and its equivalents can be run at 4x by any deck. These restrictions mean that the everyone, no matter what deck archetypes they're trying to build, has to pay close attention to the affiliation choice and what cards it enables. 
+There are plenty of deck archetypes that would run, as one example, [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) or its equivalents to get around the affiliation restrictions. Keeping those restrictions as wide as possible mean that the everyone, no matter what deck archetypes they're trying to build, has to pay close attention to the affiliation choice and what cards it enables or disables. 
 
 ### Why not have affiliation restrictions build similarly to color identity, where any card can be run as long as the type as mentioned on the coalition leader? 
 The restriction of a single affiliation is much more straightforward to understand and parse.
@@ -43,4 +43,5 @@ Firstly, it reinforces a focus on the creatures themselves, especially the nonle
 Any game of Magic can already end in a draw, and it doesn't happen particularly often in this format. 
 
 ### How can this possibly be balanced / why is [rule or restriction] in place / isn't [some combo] overpowered / why isn't [card] banned?
-It's a primary goal of Coalition to allow big plays and powerful cards while making combat damage a first class win condition-- this keeps games moving fast so all three games can be played. Every format will always have better and worse decks; so far, this format has enabled a significant amount of variety across deckbuilding and games while still playing fast and powerful. Rule changes or bans will be updated to ensure this remains the case, but only after significant evidence has shown it to be necessary. Please understand that significant care has gone into playtesting and cross-examining the current format definition, they were not thrown together without thought.
+It's a primary goal of Coalition to allow big plays and powerful cards while making combat damage a first class win condition-- this keeps games moving fast so all three games can be played. To that end, the overpowered combo or powerful card is a feature, not a bug. With three other players at the table, sideboarding allowed, and victory points from all players carried into rankings at the end of games, it's kept more in check than you may realize. 
+That being said, rule changes or bans may be necessary in future, but only after significant evidence has shown it to be necessary. Please understand that significant care has gone into playtesting and cross-examining the current format definition, they were not thrown together without thought.
