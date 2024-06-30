@@ -113,7 +113,7 @@ This section contains cards considering bans based on playtesting
 <dt><a href="https://scryfall.com/card/jmp/24/muxus-goblin-grandee">Muxus, Goblin Grandee</a></dt>
 	<dd>Goblins are important for any meta to be healthy, but Muxus may be a bit much. Leaving for watch until further notice</dd>
 <dt><a href="https://scryfall.com/card/ths/199/prophet-of-kruphix">Prophet of Kruphix</a></dt>
-	<dd>The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions *seem** to keep this one from being overly powerful. Subject to change as play patterns are uncovered</dd>
+	<dd>The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions **seem** to keep this one from being overly powerful. Subject to change as play patterns are uncovered</dd>
 <dt><a href="https://scryfall.com/card/dmr/139/sneak-attack">Sneak Attack</a></dt>
 	<dd>This effect is wildly powerful with repeatable access to coalition leaders. Consider this extremely likely to get banned, but playtests around it will happen</dd>
 <dt><a href="https://scryfall.com/card/sld/728/themberchaud">Themberchaud</a></dt>
