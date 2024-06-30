@@ -12,43 +12,43 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * All cards that bring a sticker or an Attraction into the game are banned.
 <dl>
 <dt><a href="https://scryfall.com/card/ema/2/balance">Balance</a></dt>
-<dd>This card is already banned in nearly all formats for very good reason</dd>
+	<dd>This card is already banned in nearly all formats for very good reason</dd>
 <dt><a href="https://scryfall.com/card/ima/157/channel">Channel</a></dt>
-<dd>This card is already banned in nearly all formats for very good reason</dd>
+	<dd>This card is already banned in nearly all formats for very good reason</dd>
 <dt><a href="https://scryfall.com/card/lcc/220/chandras-ignition">Chandra's Ignition</a></dt>
-<dd>This card is extremely powerful given the format's win condition. A ban may not strictly be necessary, but seems appropriate. May be revisited in future</dd>
+	<dd>This card is extremely powerful given the format's win condition. A ban may not strictly be necessary, but seems appropriate. May be revisited in future</dd>
 <dt><a href="https://scryfall.com/card/cmm/150/demonic-tutor">Demonic Tutor</a></dt>
-<dd>Decks should be consistent enough without tutors</dd>
+	<dd>Decks should be consistent enough without tutors</dd>
 <dt><a href="https://scryfall.com/card/war/125/dreadhorde-arcanist">Dreadhorde Arcanist</a></td>
-<dd>Banned in Legacy for good reason, Dreadhorde Arcanist exponentionally boosts two types that already have strong support (wizards and zombies) and creates decks that are just too consistently powerful. There has been discussion around the power level of its effects given the singleton restriction on instants and sorceries; playtests around unbanning it may occur</dd>
-* [Goblin Recruiter](https://scryfall.com/card/6ed/186/goblin-recruiter)
-	* It's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting while a player orders their entire libary.
-* [Gush](https://scryfall.com/card/jvc/27/gush)
-	* Gush is extremely powerful, but combo player should have tools-- remains banned provisionally, but playtests around it are scheduled.
-* [Heartless Hidetsugu](https://scryfall.com/card/cns/144/heartless-hidetsugu)
-	* While relatively high mana cost and not strictly impossible to deal with, Heartless Hidetsugu is in essence a one-card combo to win at potentially maximum victory points.
-* [Imperial Seal](https://scryfall.com/card/2x2/354/imperial-seal)
-	* Decks should be consistent enough without tutors.
-* [Mana Crypt](https://scryfall.com/card/2xm/270/mana-crypt)
-	* Access to fast mana is, overall, restricted
-* [Mana Vault](https://scryfall.com/card/2x2/308/mana-vault)
-	* Without other restrictions, this card isn't the broken fast mana access that it is in other formats, but it's still too relevant to combo lines to let in.
-* [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)
-	* Malcolm is just too strong, with extremely consistent access to a two-card combo with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer)
-* [Mystical Tutor](https://scryfall.com/card/ema/62/mystical-tutor)
-	* Decks should be consistent enough without tutors.
-* [Necropotence](https://scryfall.com/card/ima/98/necropotence)
-	* Even as a singleton, Necropotence is a format warping card in any format and could cause unfortunate play patterns.
-* [Sol Ring](https://scryfall.com/card/cmm/410/sol-ring)
-	* Access to fast mana is, overall, restricted
-* [Tinker](https://scryfall.com/card/ulg/45/tinker)
-	* This card is already banned in nearly all formats for very good reason.
-* [Thassa’s Oracle](https://scryfall.com/card/thb/73/thassas-oracle)
-	* At 4x access, this card would warp the format heavily in favor of decks that can run this card.
-* [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach)
-	* On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful
-* [Vampiric Tutor](https://scryfall.com/card/cmr/156/vampiric-tutor)
-	* Decks should be consistent enough without tutors. 
+	<dd>Banned in Legacy for good reason, Dreadhorde Arcanist exponentionally boosts two types that already have strong support (wizards and zombies) and creates decks that are just too consistently powerful. There has been discussion around the power level of its effects given the singleton restriction on instants and sorceries; playtests around unbanning it may occur</dd>
+<dt><a href="https://scryfall.com/card/6ed/186/goblin-recruiter">Goblin Recruiter</a></dt>
+	<dd>It's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting while a player orders their entire libary</dd>
+<dt><a href="https://scryfall.com/card/jvc/27/gush">Gush</a></dt>
+	<dd>Gush is extremely powerful, but combo player should have tools-- remains banned provisionally, but playtests around it will occur</dd>
+<dt><a href="https://scryfall.com/card/cns/144/heartless-hidetsugu">Heartless Hidetsugu</a></dt>
+	<dd>While relatively high mana cost and not strictly impossible to deal with, Heartless Hidetsugu is in essence a one-card combo to win</dd>
+<dt><a href="https://scryfall.com/card/2x2/354/imperial-seal">Imperial Seal</a></dt>
+	<dd>Decks should be consistent enough without tutor</dd>
+<dt><a href="https://scryfall.com/card/2xm/270/mana-crypt">Mana Crypt</a></dt>
+	<dd>Access to fast mana is, overall, restricted</dd>
+<dt><a href="https://scryfall.com/card/2x2/308/mana-vault)">Mana Vault</a></dt>
+	<dd>Without other restrictions, this card isn't the broken fast mana access that it is in other formats, but it's still too relevant to combo lines to permit</dd>
+<dt><a href="https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)">Malcolm, Keen-Eyed Navigator</a></dt>
+	<dd>Malcolm is just too strong, with extremely consistent access to a two-card combo with <a href="https://scryfall.com/card/m20/141/glint-horn-buccaneer">Glint-Horn Buccaneer</a></dd>
+<dt><a href="https://scryfall.com/card/ema/62/mystical-tutor)">Mystical Tutor</a></dt>
+	<dd>Decks should be consistent enough without tutors</dd>
+<dt><a href="https://scryfall.com/card/ima/98/necropotence)">Necropotence]</a></dt>
+	<dd>Even as a singleton, Necropotence is a format warping card in any format and could cause unfortunate play patterns</dd>
+<dt><a href="https://scryfall.com/card/cmm/410/sol-ring)">Sol Ring</a></dt>
+	<dd>Access to fast mana is, overall, restricted</dd>
+<dt><a href="https://scryfall.com/card/ulg/45/tinker)">Tinker]</a></dt>
+	<dd>This card is already banned in nearly all formats for very good reason</dd>
+<dt><a href="https://scryfall.com/card/thb/73/thassas-oracle)">Thassa’s Oracle</a></dt>
+	<dd>At 4x access, this card would warp the format heavily in favor of decks that can run this card</dd>
+<dt><a href="https://scryfall.com/card/thb/161/underworld-breach)">Underworld Breach</a></dt>
+	<dd>On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful</dd>
+<dt><a href="https://scryfall.com/card/cmr/156/vampiric-tutor)">Vampiric Tutor</a></dt>
+	<dd>Decks should be consistent enough without tutors</dd>
 </dl>
 ## Cards banned in Legacy but not Coalition
 * [Arcum's Astrolabe](https://scryfall.com/card/mh1/220/arcums-astrolabe)
