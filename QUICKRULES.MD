@@ -1,9 +1,9 @@
 # Quick rules
-* 3-5 Players, 25 Life, 3-game match
+* 4 Players, 25 Life, 3-game match
 * Starting player draws, no free mulligan
 * 60 card deck
   * 4x creatures 4x nonbasic lands, 1x all other spells
-* 10 card sideboard
+* 15 card sideboard
   * Contains legendary creature "leader"
   * No other legendary cards
 * One creature type declared as "coalition type"
