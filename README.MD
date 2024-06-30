@@ -17,7 +17,7 @@ Coalition remixes a lot of elements from other formats into its own unique spin 
 * Hybrid of 60 card formats and multiplayer
 
 ## Play Rules/Modifiers
-This format is primarily intended for 3-5 players per match. Deck sizes are 60 cards + 15 sideboard cards. Players start with 25 life. Matches are played in sets of three games, and players sideboard after each game.
+This format is intended for 4 players playing a match of three games. Deck sizes are 60 cards + 15 sideboard cards. Players start with 25 life, and sideboard after each game.
 
 There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
 
