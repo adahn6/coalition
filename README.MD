@@ -77,7 +77,7 @@ Coalition leaders may be referred to shorthand as "leaders". For formal definiti
 <dt><a href="https://scryfall.com/card/2x2/235/kaalia-of-the-vast">Kaalia of the Vast</a></dt>
 	<dd>Kaalise of the Vast can be chosen as a coalition's leader, and is affiliated with Human, Cleric, Angel, Demon, and Dragon; any of these may be chosen for the deck's coalition type <b><a href="https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-affiliation-for-my-deck">except Human</a></b></dd>
 <dt><a href="https://scryfall.com/card/bro/240/portal-to-phyrexia">Portal to Phyrexia</a><dt>
-	<dd> Portal to Phyrexia is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck</dd>
+	<dd>Portal to Phyrexia is affiliated with Phyrexians and can only be run in a Phyrexian coalition deck</dd>
 <dt><a href="https://scryfall.com/card/c16/98/swan-song">Swan Song</a></dt>
 	<dd>Swan Song is affiliated with Birds and can only be run in a Bird coalition deck</dd>
 <dt><a href="https://scryfall.com/card/mic/134/bestial-menace">Bestial Menace</a></dt>
