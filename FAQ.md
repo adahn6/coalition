@@ -15,6 +15,9 @@ We get it: many players are jaded and uninterested in learning yet another varia
 ### Why isn't this just a Commander variant?
 The overall goal of this format is to provide a *different* multiplayer format from Commander. Coalition's leaders may superficially resemble commanders, but they play much closer to a companion... and there's plenty different beyond just that. Try it out-- the differences become clear quickly when playing. 
 
+### Does it have to be 4 players?
+No, Coalition's rules make the playgroup count somewhat flexible. It's been playtested as 3-5 with reasonable success. However, your playgroup may want to adjust the victory point count for different players, as keeping the games dynamic but also within about 30 minutes is an important to the match structure. The four person pod with 21 victory points is just the recommended defaults, and balance is tuned for it.
+
 ### Why ban fast mana and tutors?
 This format can already be extremely fast; adding in fast mana or tutors would enable plays that other players would never have chances to respond to. Additionally, the split 4x/1x deck construction is a considered decision: Your creatures are reliable and consistent, anything else is not. The more powerful tutors undermine this philosophy and thus are banned.
 
