@@ -23,7 +23,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.4b Reminder text is ignored when determining affiliation.
 
-	* 906.5c The back face of a double-faced card is included when determining a card's affiliation. This is an exception to rule 712.8a.
+	* 906.4c The back face of a double-faced card is included when determining a card's affiliation. This is an exception to rule 712.8a.
 
 * 906.5 Each Coalition deck is subject to the following deck construction rules.
 
