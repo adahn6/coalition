@@ -7,9 +7,10 @@
 <dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Light-Paws, Emperor's Voice, Fox affiliation</a></dt>
  <dd>Tutor powerful auras onto a solo Light-Fox, with a backup army of control foxes if more numbers are needed</dd>
 <dt><a href="https://www.moxfield.com/decks/5Y7JK5e-BkedOqYE-6Cd-Q">Magda, Brazen Outlaw, Dragon affiliation</a></dt>
- <dd>Use Magda and her changelings to bringout powerful Dragons, or end the fight with mass damage</dd>
+ <dd>Use Magda and her changelings to bring out powerful Dragons, or end the fight with mass damage</dd>
+<dt><a href="https://www.moxfield.com/decks/8uSgAEhgcU2W-MRsYJr_JA">Chatterfang, Squirrel General, Squirrel affiliation</a></dt>
+ <dd>Chatterfang leads an army of Squirrel tokens to victory</dd>
 </dl>
-
 
 
 * [Ranar, Warrior affiliation](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
