@@ -6,12 +6,15 @@
 <dl>
 <dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Light-Paws, Emperor's Voice, Fox affiliation</a></dt>
  <dd>Tutor powerful auras onto a solo Light-Fox, with a backup army of control foxes if more numbers are needed</dd>
+<dt><a href="https://www.moxfield.com/decks/5Y7JK5e-BkedOqYE-6Cd-Q">Magda, Brazen Outlaw, Dragon affiliation</a></dt>
+ <dd>Use Magda and her changelings to bringout powerful Dragons, or end the fight with mass damage</dd>
 </dl>
-<dt>
+
+
 
 * [Ranar, Warrior affiliation](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
   * Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!
-* [Sarkhan, Dragon affiliation](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
+* [Goro-Goro, Dragon affiliation](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
   * Use Sprite Dragons and Sarkhan to get +1+1 creatures on the field, while looting with Dragonborn Looter to help get out Murktide Regent!
 * [Emrakul, Eldrazi affiliation](https://www.moxfield.com/decks/gkTCyhX1VUijCaKwSelXRw)
   * Sneak the powerful Emrakul out on to the field to overpower your foes!
