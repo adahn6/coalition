@@ -1,6 +1,14 @@
 # Deckbuilding
 
-## Example Decks
+## Example Decks 
+
+### For starter decks around $50 budge:
+<dl>
+<dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Light-Paws, Emperor's Voice, Fox affiliation</a></dt>
+ <dd>Tutor powerful auras onto Light-Fox, with a backup army of control foxes if more numbers are needed</dd>
+</dl>
+
+
 * [Ranar, Warrior affiliation](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
   * Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!
 * [Sarkhan, Dragon affiliation](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
