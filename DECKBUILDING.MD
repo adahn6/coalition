@@ -2,7 +2,7 @@
 
 ## Example Decks 
 
-### For starter deck ideas around $50 budget **NOT FULLY TESTED**:
+### For starter deck ideas around $50 budget [NOT FULLY TESTED]:
 <dl>
 <dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Foxes</a></dt>
  <dd>Tutor powerful auras onto a solo Light-Paws, with a backup army of control foxes if more numbers are needed</dd>
@@ -13,7 +13,7 @@
 </dl>
 
 
-### For higher-power deck ideas **DECKS MAY BE INCOMPLETE**:
+### For higher-power deck ideas [MAY BE INCOMPLETE]:
 <dl>
 <dt><a href="https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg">Warriors</a></dt>
  <dd>Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!</dd>
