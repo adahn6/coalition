@@ -23,6 +23,7 @@
   <dd>Sneak the powerful Emrakul out on to the field to overpower your foes!</dd>
 <dt><a href="https://www.moxfield.com/decks/CFkIOWHfNUiO3dMrNYzDXQ">Kor</a></dt>
   <dd>Bring out the big guns with Stoneforge Mystic and equip them for free on Arden!</dd>
+</dl>
 
 
 ## Valid creature types
