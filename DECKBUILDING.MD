@@ -2,25 +2,25 @@
 
 ## Example Decks 
 
-### For starter decks around $50 budge:
+### For starter deck ideas around $50 budget **NOT FULLY TESTED**:
 <dl>
-<dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Light-Paws, Emperor's Voice, Fox affiliation</a></dt>
- <dd>Tutor powerful auras onto a solo Light-Fox, with a backup army of control foxes if more numbers are needed</dd>
-<dt><a href="https://www.moxfield.com/decks/5Y7JK5e-BkedOqYE-6Cd-Q">Magda, Brazen Outlaw, Dragon affiliation</a></dt>
+<dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Foxes</a></dt>
+ <dd>Tutor powerful auras onto a solo Light-Paws, with a backup army of control foxes if more numbers are needed</dd>
+<dt><a href="https://www.moxfield.com/decks/5Y7JK5e-BkedOqYE-6Cd-Q">Dragons</a></dt>
  <dd>Use Magda and her changelings to bring out powerful Dragons, or end the fight with mass damage</dd>
-<dt><a href="https://www.moxfield.com/decks/8uSgAEhgcU2W-MRsYJr_JA">Chatterfang, Squirrel General, Squirrel affiliation</a></dt>
+<dt><a href="https://www.moxfield.com/decks/8uSgAEhgcU2W-MRsYJr_JA">Squirrels</a></dt>
  <dd>Chatterfang leads an army of Squirrel tokens to victory</dd>
 </dl>
-
-
-* [Ranar, Warrior affiliation](https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg)
-  * Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!
-* [Goro-Goro, Dragon affiliation](https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA)
-  * Use Sprite Dragons and Sarkhan to get +1+1 creatures on the field, while looting with Dragonborn Looter to help get out Murktide Regent!
-* [Emrakul, Eldrazi affiliation](https://www.moxfield.com/decks/gkTCyhX1VUijCaKwSelXRw)
-  * Sneak the powerful Emrakul out on to the field to overpower your foes!
-* [Arden, Kor affiliation](https://www.moxfield.com/decks/CFkIOWHfNUiO3dMrNYzDXQ)
-  * Bring out the big guns with Stoneforge Mystic and equip them for free on Arden!
+### For higher-power deck ideas **DECKS MAY BE INCOMPLETE**:
+<dl>
+<dt><a href="https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg">Warriors</a></dt>
+ <dd>Use Ranar to generate lots of value from foretelling, all while accruing power on the board with Hero of Bretgard, and controlling your top deck to miracle Triumph of Saint Katherine!</dd>
+<dt><a href="https://www.moxfield.com/decks/IgZO0RQaSE6P_Y-13ZpBVA">Dragons</a></dt>
+  <dd>Goro-goro leads a dragon army, with Sprite Dragons paving the way for the powerful Murktide Regents!</dd>
+<dt><a href="https://www.moxfield.com/decks/gkTCyhX1VUijCaKwSelXRw">Eldrazi</a></dt>
+  <dd>Sneak the powerful Emrakul out on to the field to overpower your foes!</dd>
+<dt><a href="https://www.moxfield.com/decks/CFkIOWHfNUiO3dMrNYzDXQ">Kor</a></dt>
+  <dd>Bring out the big guns with Stoneforge Mystic and equip them for free on Arden!</dd>
 
 
 ## Valid creature types
