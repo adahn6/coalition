@@ -11,6 +11,8 @@
 <dt><a href="https://www.moxfield.com/decks/8uSgAEhgcU2W-MRsYJr_JA">Squirrels</a></dt>
  <dd>Chatterfang leads an army of Squirrel tokens to victory</dd>
 </dl>
+
+
 ### For higher-power deck ideas **DECKS MAY BE INCOMPLETE**:
 <dl>
 <dt><a href="https://www.moxfield.com/decks/QjFCq-UC_kWgDC2buD2wyg">Warriors</a></dt>
