@@ -11,9 +11,9 @@
   * Does not apply to cards that have no creature types printed on them (aka "unaffiliated" cards)
 * Play for Victory Points
     * Gain victory points for all **combat damage** to opponents
-  		* Can get up to 21 per game, win game at 21 victory points
-  		  * Get 21 victory points if game is won through any other means
-      * After each game, **all players** add their final victory point total to ranking
+      * Can get up to 21 per game, win game at 21 victory points
+      * Get 21 victory points if game is won through any other means
+    * After each game, **all players** add their final victory point total to ranking
 * **Match of 3 games**
     * After each game, players may **sideboard**
     * After game 1, player in last chooses first player
