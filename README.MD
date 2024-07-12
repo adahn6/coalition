@@ -6,7 +6,7 @@
 
 Coalition is a fast, high-power multiplayer format about leading creature coalitions into battle. Choose a legendary creature as a coalition **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#coalition-leaders">leader</a>**, then build a 60-card deck plus sideboard around one of its creature type **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#affiliation">affiliations</a>.**
 
-Coalition is a played as a three-game match where players compete for the most **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#victory-points">victory points</a>**, which they can earn from combat damage to opponents and from non-combat damage their coalition's leader deals to opponents. When a player reaches 21, they win the game. Regardless of winning or losing a game, every player adds all victory points they earned to their ranking, and the winner of the match is the player with the highest ranking at the end of the third game. 
+Coalition is a played as a three-game match where players compete for the most **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#victory-points">victory points</a>** which they can earn from combat damage to opponents. When a player reaches 21, they win the game. Regardless of winning or losing a game, every player adds all victory points they earned to their ranking, and the winner of the match is the player with the highest ranking at the end of the third game. 
 
 Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's fast and consistent, like high power sixty card formats, but balanced by deckbuilding and affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The three-game structure adds sideboard opportunities, and also adds a fun archenemy dynamic. Give it a try-- we think you'll have a blast. 
 
@@ -27,7 +27,7 @@ Affiliation describes what creature types a card is associated with. A card is a
 A card's **affiliations** is shorthand for the set of creature types it is affiliated with.
 
 ## Victory points
-Every player starts each game at zero victory points and can earn up to 21 per game in two ways: combat damage dealt to opponents, and non-combat damage their coalition's leader deals to opponents. Any player who reaches 21 victory points immediately wins the game; and [winning through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points.
+Every player starts each game at zero victory points and can earn up to 21 per game for combat damage dealt to opponents. Any player who reaches 21 victory points immediately wins the game; and [winning through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points.
 
 **At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. 
 
