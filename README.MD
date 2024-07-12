@@ -97,5 +97,5 @@ While a player may still concede at any time for any reason, conceding automatic
 > In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, or if the game is a draw for any other reason, or if a game has no winner for any reason, players simply add their existing victory points at the end of the game to their ranking. 
 
 
-## Unofficial content:
+Unofficial content
 Coalition format is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
