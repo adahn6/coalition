@@ -49,17 +49,17 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6b A player receives victory points equal to any combat damage dealt to opponents by creatures they control
 
-	* 906.6d A player may not receive more than 21 victory points in a game
+	* 906.6c A player may not receive more than 21 victory points in a game
 
-	* 906.6e A player who wins the game through any means receives all remaining victory points they can receive, to the maximum of 21
+	* 906.6d A player who wins the game through any means receives all remaining victory points they can receive, to the maximum of 21
 
-	* 906.6f Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
+	* 906.6e Victory points are not counters and they cannot be removed or interacted with by any effects that affect counters such as proliferate.
 
-	* 906.6g A player who concedes the game at any time loses all victory points from the current game and may not participate in further games
+	* 906.6f A player who concedes the game at any time loses all victory points from the current game and may not participate in further games
 
-	* 906.6h As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.6g does not apply to any of them
+	* 906.6g As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.6g does not apply to any of them
 
-	* 906.6i At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
+	* 906.6h At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
 
 * 906.7 The Coalition variant includes the following specification for winning and losing a game. All other rules for ending a game also apply. (See rule 104.)
 
@@ -67,11 +67,11 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.7b If two or more players have 21 victory points simultaneously, the game is considered a draw
 
-	* 906.7c If the games ends in a draw for any reason, 906.6e does not apply to any player
+	* 906.7c If the games ends in a draw for any reason, 906.6d does not apply to any player
 
-	* 906.7d If the game has no winner for any other reason, 906.6e does not apply to any player
+	* 906.7d If the game has no winner for any other reason, 906.6d does not apply to any player
 
-* 906.8 The winner of a Coalition match is the player or players with the highest ranking (see 906.6i). 
+* 906.8 The winner of a Coalition match is the player or players with the highest ranking (see 906.6h). 
 
 * 906.9 For each game, once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
