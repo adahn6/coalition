@@ -49,8 +49,6 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6b A player receives victory points equal to any combat damage dealt to opponents by creatures they control
 
-	* 906.6c A player receives victory points equal to any noncombat damage dealt to opponents by that player's coalition leader
-
 	* 906.6d A player may not receive more than 21 victory points in a game
 
 	* 906.6e A player who wins the game through any means receives all remaining victory points they can receive, to the maximum of 21
