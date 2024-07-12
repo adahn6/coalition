@@ -15,8 +15,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	<dd>This card is already banned in nearly all formats for very good reason</dd>
 <dt><a href="https://scryfall.com/card/ima/157/channel">Channel</a></dt>
 	<dd>This card is already banned in nearly all formats for very good reason</dd>
-<dt><a href="https://scryfall.com/card/lcc/220/chandras-ignition">Chandra's Ignition</a></dt>
-	<dd>Due to the formats win condition, casting this card on a leader can give a massive and disproportionate amount of victory points for the cost and risk of running it. The ability for this card to swing games creates an unhealthy play pattern and is banned.</dd>
 <dt><a href="https://scryfall.com/card/cmm/150/demonic-tutor">Demonic Tutor</a></dt>
 	<dd>Decks should be consistent enough without tutors</dd>
 <dt><a href="https://scryfall.com/card/war/125/dreadhorde-arcanist">Dreadhorde Arcanist</a></td>
@@ -25,8 +23,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	<dd>It's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting while a player orders their entire libary</dd>
 <dt><a href="https://scryfall.com/card/jvc/27/gush">Gush</a></dt>
 	<dd>Gush is extremely powerful, but combo player should have tools-- remains banned provisionally, but playtests around it will occur</dd>
-<dt><a href="https://scryfall.com/card/cns/144/heartless-hidetsugu">Heartless Hidetsugu</a></dt>
-	<dd>While relatively high mana cost and not strictly impossible to deal with, Heartless Hidetsugu is in essence a one-card combo to win</dd>
 <dt><a href="https://scryfall.com/card/2x2/354/imperial-seal">Imperial Seal</a></dt>
 	<dd>Decks should be consistent enough without tutor</dd>
 <dt><a href="https://scryfall.com/card/2xm/270/mana-crypt">Mana Crypt</a></dt>
@@ -104,8 +100,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 ## Current watchlist:
 This section contains cards considering bans based on playtesting
 <dl>
-<dt><a href="https://scryfall.com/card/frf/91/arcbond">Arcbond</a></dt>
-	<dd>This card can do quite a lot towards the format's win condition, and could potentially become too powerful to allow. But right now, it seems likelier to be a fun trick to turn tables on opponents, so it's staying in pending playtests</dd>
 <dt><a href="https://scryfall.com/card/a25/57/flash">Flash</a></dt>
 	<dd>Because of deckbuilding restrictions, this may mostly just end up allowing lesser supported types to be more playable. Subject to testing, may get banned or unbanned repeatedly as play patterns emerge</dd>
 <dt><a href="https://scryfall.com/card/mm3/72/griselbrand">Griselbrand</a></dt>
@@ -116,8 +110,6 @@ This section contains cards considering bans based on playtesting
 	<dd>The effect on Prophet of Kruphix is very powerful and potentially extremely annoying, hence its ban in Commander, but the affiliation restrictions **seem** to keep this one from being overly powerful. Subject to change as play patterns are uncovered</dd>
 <dt><a href="https://scryfall.com/card/dmr/139/sneak-attack">Sneak Attack</a></dt>
 	<dd>This effect is wildly powerful with repeatable access to coalition leaders. Consider this extremely likely to get banned, but playtests around it will happen</dd>
-<dt><a href="https://scryfall.com/card/sld/728/themberchaud">Themberchaud</a></dt>
-	<dd>Themberchaud, along with several other creatures, has the power for significant non-combat damage sourced from the coalition leader. Especially as Flash is provisionally being allowed in, this card could lead to bad games. As of writing, this note is more that these types of effects will have an eye kept on them as playtesting happens</dd>
 <dt><a href="https://scryfall.com/card/ncc/237/treasure-cruise">Treasure Cruise</a> and <a href="https://scryfall.com/card/ncc/219/dig-through-time">Dig Through Time</a></dt>
 	<dd>Unlikely to get banned given current playtests, but historically they are concerning cards in most formats. Still on watch</dd>
 </dl>
