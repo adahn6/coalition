@@ -96,7 +96,7 @@ While a player may still concede at any time for any reason, conceding automatic
 > [!IMPORTANT]
 > In rare situations, games may be forcibly ended in a draw by the rules via certain game states. If this happens, or if the game is a draw for any other reason, or if a game has no winner for any reason, players simply add their existing victory points at the end of the game to their ranking. 
 
-### Community:
+## Community:
 Join the [Discord](https://discord.gg/NwQm5m4eBT)!
 
 ### Disclaimer
