@@ -18,6 +18,9 @@ The overall goal of this format is to provide a *different* multiplayer format f
 ### Does it have to be 4 players?
 No, Coalition's rules make the playgroup count somewhat flexible. It's been playtested as 3-5 with reasonable success. However, your playgroup may want to adjust the victory point count for different players, as keeping the games dynamic but also within about 30 minutes is an important to the match structure. The four person pod with 21 victory points is just the recommended defaults, and balance is tuned for it.
 
+### Does this have to be played competitively?
+Nope! If your playgroup wants to play at lower power levels (for example, excluding pitch spells like Force of Will, or faster lands like Ancient Tomb) that's totally fine, and you'll be able to have fun. Just keep in mind the ban list and rules guidances are written based on high power competitive play patterns, so you'll want to make sure everyone in your play group is on the samge page about any assumptions beyond that.
+
 ### Why ban fast mana and tutors?
 This format can already be extremely fast; adding in fast mana or tutors would enable plays that other players would never have chances to respond to. Additionally, the split 4x/1x deck construction is a considered decision: Your creatures are reliable and consistent, anything else is not. The more powerful tutors undermine this philosophy and thus are banned.
 
