@@ -31,7 +31,7 @@ There are plenty of creatures that synergize with creatures outside of their typ
 There are plenty of deck archetypes that would run, as one example, [Celestial Colonnade](https://scryfall.com/card/uma/238/celestial-colonnade) or its equivalents to get around the affiliation restrictions. Keeping those restrictions as wide as possible mean that the everyone, no matter what deck archetypes they're trying to build, has to pay close attention to the affiliation choice and what cards it enables or disables. 
 
 ### Why not have affiliation restrictions build similarly to color identity, where any card can be run as long as the type as mentioned on the coalition leader? 
-The restriction of a single affiliation is much more straightforward to understand and parse.
+The restriction of a single affiliation is much more straightforward to understand.
 
 ### Why can't I choose Human affiliation for my deck?
 Primarily, because Humans have the most cards printed by quite a large margin. This gap (almost 4x the second most printed types, and 10x or more for many others) creates a incentive to choose them simply for maximum deckbuilding options. This incentive goes against the spirit of the format's deckbuilding and is thus banned. But additionally, many creature types have intentional mechanical synergies-- Humans lack this and are much closer to a default creature type. 
@@ -44,6 +44,9 @@ Firstly, it reinforces a focus on the creatures themselves, especially the nonle
 
 ### Can't the victory point ranking lead to ties?
 Any game of Magic can already end in a draw, and it doesn't happen particularly often in this format. 
+
+### Doesn't the victory point system exclude play styles?
+Winning guarantees 21 victory points, so you can try to win with any method you want. However, if you solely rely on an alternate win condition without accruing victory points during the match, you're taking on a lot of risk-- secure the win and you're fine, but you'll be much further behind if you lose. In general, this keeps the pressure on high-powered multi card combos: it's possible to run them and win a single game, but it'll take creativity, skill, and some luck to make that work often enough to win you the entire match. 
 
 ### How can this possibly be balanced / why is [rule or restriction] in place / isn't [some combo] overpowered / why isn't [card] banned?
 It's a primary goal of Coalition to allow big plays and powerful cards while making combat damage a first class win condition-- this keeps games moving fast so all three games can be played. To that end, the overpowered combo or powerful card is a feature, not a bug. With three other players at the table, sideboarding allowed, and victory points from all players carried into rankings at the end of games, it's kept more in check than you may realize. 
