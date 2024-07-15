@@ -4,7 +4,7 @@
 ![players-dark](images/players_dark.png#gh-dark-mode-only "3-5 Players") ![deck-dark](images/deck_dark.png#gh-dark-mode-only "60 Card Deck") ![life-dark](images/life_dark.png#gh-dark-mode-only "25 Life") ![games-dark](images/games_dark.png#gh-dark-mode-only "90 Minutes")
 
 
-Coalition is a fast, high-power multiplayer format about leading creature coalitions into battle. Choose a legendary creature as a coalition **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#coalition-leaders">leader</a>**, then build a 60-card deck plus sideboard around one of its creature type **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#affiliation">affiliations</a>.**
+Coalition is a fast, high-power multiplayer format about leading creature coalitions into battle. Choose a legendary creature as a coalition **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#leaders">leader</a>**, then build a 60-card deck plus sideboard around one of its creature type **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#affiliation">affiliations</a>.**
 
 Coalition is a played as a three-game match where players compete for the most **<a href="https://github.com/adahn6/coalition/blob/main/README.MD#victory-points">victory points</a>**. Players earn victory points up to 21 victory points from combat damage to opponents. Reaching 21 victory points wins the game (and winning the game through any means sets the winner to 21 victory points). Regardless of winning or losing a game, every player adds all victory points they earned to their ranking, and the winner of the match is the player with the highest ranking at the end of the third game. 
 
@@ -34,7 +34,7 @@ Every player starts each game at zero victory points and can earn up to 21 per g
 > [!TIP] 
 > The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
 
-## Coalition leaders
+## Leaders
 Your coalition's leader starts outside the game. Once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack. Leaders also have similar state-based actions and replacement effects to commanders. As a state-based action, a leader can be removed from the game after it has transitioned to graveyard or exile. As a replacement effect, if a leader would enter your library or hand, you may instead choose to remove it from the game. For formal definitions of actions and effects for leaders, please check the [comprehensive rules modification](RULES.MD)
 > [!TIP] 
 > Coalition leaders may seem similar to commanders, but they act closer to a repeatable companion. After placing your coalition's leader into hand, you could cast it (and you'll never pay a tax for it!), or you could discard it and use a [reanimate effect](https://scryfall.com/search?q=otag%3Areanimate+-is%3Areserved+game%3Apaper&unique=cards&as=grid&order=name), or use it to pay for [pitch spell](https://scryfall.com/search?q=otag%3Apitch-spell&unique=cards&utm_source=tagger). It's up to you! 
