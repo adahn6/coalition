@@ -24,7 +24,7 @@ function populateDatalist() {
   const datalist = $('#leaders');
 
   const cards = getState("cards");
-  const leaders = cards.filter(leader => leader["isLeader"]);
+  const leaders = cards.filter(leader => leader["legal"] === "leader");
 
   leaders.forEach((card) => {
     let option = document.createElement("option");
