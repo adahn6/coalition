@@ -1,0 +1,43 @@
+1 Magda, Brazen Outlaw (KHM) 142
+1 Abrade (VOW) 139
+4 Changeling Outcast (MH1) 82
+1 Clock of Omens (M13) 202
+1 Comet Storm (C17) 132
+1 Crackle with Power (OTP) 22
+3 Darkwater Catacombs (WHO) 269
+4 Fire-Belly Changeling (DDG) 51
+4 Holdout Settlement (SCD) 305
+1 Lightning Bolt (CLB) 401
+1 Liquimetal Coating (BRR) 28
+1 Liquimetal Torque (MH2) 428
+1 Mental Misstep (NPH) 38
+1 Molten Disaster (FUT) 102
+4 Mothdust Changeling (MMA) 53
+13 Mountain (LTR) 269
+2 Obsidian Charmaw (MH2) 353
+1 Scourge of Valkas (M14) 151
+1 Seize the Spotlight (OTC) 179
+1 Spiteful Banditry (LTR) 439
+1 Springleaf Drum (BRR) 55
+1 Steel Hellkite (BRC) 163
+4 Swamp (OTJ) 282
+2 Swashbuckler Extraordinaire (CLB) 198
+4 Universal Automaton (MH1) 235
+1 Unlicensed Hearse (OTP) 64
+1 Zoyowa's Justice (LCI) 173
+1 Snarlfang Vermin (XXX) 000
+1 Not a real card (XXX) 000
+
+SIDEBOARD:
+1 An Offer You Can't Refuse (SNC) 51
+1 Blast-Furnace Hellkite (BRC) 12
+2 Bojuka Bog (MOC) 391
+1 Bolt Bend (WAR) 115
+1 Chaos Warp (LCC) 221
+1 Dragon Mage (SCD) 132
+1 End the Festivities (VOW) 155
+1 Extract a Confession (MKM) 84
+2 Maze of Ith (DMR) 398
+1 Rakdos Charm (LCC) 284
+1 Tibalt's Trickery (KHM) 153
+1 Vandalblast (OTC) 183
