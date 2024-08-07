@@ -50,7 +50,8 @@ function setSelectableAffiliations() {
     return;
   }
 
-  const affiliations = getState("leader")["affiliations"].map(attr => getAttribute(attr));
+  const affiliations = getState("leader")["affiliations"].map(attr => getAttribute(attr))
+    .filter(affiliation => affiliation !== "Human");
   
   affiliations.forEach((attribute) => {
     let button = document.createElement('input');

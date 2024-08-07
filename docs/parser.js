@@ -82,16 +82,17 @@ const parseDecklist = (decklist) => {
       return;
     }
 
-    if (!cardData["legal"]) {
-      card["status"] = "illegal";
-      cards["illegal"].push(card);
-      
+
+    if (cardData["legal"] === "leader") {
+      handleLeader(cards, card, cardData);
+
       return;
     }
 
-    if (cardData["isLeader"]) {
-      handleLeader(cards, card, cardData);
-      
+    if (!cardData["legal"] === "") {
+      card["status"] = "illegal";
+      cards["illegal"].push(card);
+
       return;
     }
 
