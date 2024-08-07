@@ -37,5 +37,5 @@ document.addEventListener("DOMContentLoaded", async function() {
   document.state = {};
 
   await prepareData();
-  await setDebugDecklist();
+  // await setDebugDecklist();
 });
