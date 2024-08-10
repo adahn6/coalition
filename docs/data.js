@@ -18,7 +18,7 @@ function isCompatibleCard(cardData, selectedAffiliation) {
 
 function createDecklistFromAllCards() {
   const filteredCards = getState("cards").filter((card) => {
-    let isLegal = card["legal"] && !card["isLeader"];
+    let isLegal = card["legal"] === "";
     let matchesAttribute = isCompatibleCard(card, getState("selectedAffiliation"));
 
     return isLegal && matchesAttribute;
