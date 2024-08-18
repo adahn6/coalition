@@ -68,6 +68,7 @@ const parseDecklist = (decklist) => {
     let card = {
       "name": lineItem,
       "affiliations": cardData["affiliations"] || [],
+      "types": cardData["types"],
       "uri": cardData["uri"],
       "manaCost": cardData["manaCost"],
       "manaValue": cardData["manaValue"],

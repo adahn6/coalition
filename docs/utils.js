@@ -20,7 +20,7 @@ function formData(target) {
   return data;
 };
 
-function populateDatalist() {
+function populateLeaderDatalist() {
   const datalist = $('#leaders');
 
   const cards = getState("cards");
@@ -35,6 +35,19 @@ function populateDatalist() {
   });
 };
 
+function populateCardDatalist() {
+  const datalist = $('#cards');
+
+  const cards = getState("cards");
+  const limited = cards.slice(0,500);
+  datalist.innerHTML = '';
+  cards.forEach((card) => {
+    let option = document.createElement("option");
+    option.setAttribute('value', card["name"]);
+    datalist.appendChild(option);
+  });
+};
+
 async function prepareData() {
   const cards = await fetch('data.json').then(response => response.json());
   const creatureTypes = await fetch('creature_types.json').then(response => response.json());
@@ -42,7 +55,8 @@ async function prepareData() {
   setState("cards", cards);
   setState("types", creatureTypes);
 
-  populateDatalist();
+  //populateLeaderDatalist();
+  //populateCardDatalist();
 };
 
 function setHTML(selector, HTML = '') {

@@ -4,51 +4,24 @@ const cardTemplate = (card) => {
   let affiliations;
 
   if (card["affiliations"].length) {
-    affiliations = `(${mapAttributes(card["affiliations"]).join(', ')})`;
+    affiliations = `[${mapAttributes(card["affiliations"]).join(', ')}]`;
   } else {
-    affiliations = "(unaffiliated)";
+    affiliations = "[unaffiliated]";
   }
 
   if (card["affiliations"].length >= 200) {
-    affiliations = "(all)";
+    affiliations = "[all]";
   }
 
   return `
-    <details class='card ${card["status"]}'>
-      <summary>
+      <div class='card compatible'>
         <div class='card--name'>
-          <div>
-            <a href='https://scryfall.com/cards/${card["uri"]}' target='_blank'>
-              ${card["name"]}
-            </a>
-          </div>
+          <a href='https://scryfall.com/cards/${card["uri"]}' target='_blank'>${card["name"]}</a>${card["manaCost"]}
         </div>
-
         <div class='card--affiliations'>
-          ${affiliations}
-        </div>
-
-        <div class='card--status'>
-          ${card["status"]}
-        </div>
-      </summary>
-
-      <div class='details'>
-        <div class='image'>
-          <img src='https://cards.scryfall.io/normal/front/${card["image"]}' />
-        </div>
-
-        <div class='info'>
-          <div class='mana_cost'>
-            <strong>Mana Cost:</strong> ${card["manaCost"]}
-          </div>
-
-          <div class='oracleText'>
-            <strong>Oracle Text:</strong> ${card["oracleText"]}
-          </div>
+        ${affiliations}
         </div>
       </div>
-    </details>
   `
 };
 

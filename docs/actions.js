@@ -8,13 +8,36 @@ function setLeaderFromDecklist(leaderName) {
   setLeader(leaderName);
 }
 
+function setCard(cardName) {
+  const cardData = getCard(cardName);
+  if (!cardData) {
+    const datalist = $('#cards');
+
+    const cards = getState("cards").filter(card => 
+      card["name"].startsWith(cardName));
+    console.log(cards)
+    console.log("got to here")
+    const limited = cards.slice(0,500)
+    console.log(limited)
+    datalist.innerHTML = '';
+    limited.forEach((card) => {
+      let option = document.createElement("option");
+      option.setAttribute('value', card["name"]);
+      datalist.appendChild(option);
+    });
+    return;
+  }
+
+  setState("cardDetails", cardData);
+  setHTML($("#card_details"), cardTemplate(cardData));
+};
+
 function setLeader(leaderName) {
   const leaderCardData = getCard(leaderName);
 
   if (!leaderCardData) {
     setState("leader");
     setHTML($("#leader_card"));
-
     return;
   }
 
@@ -50,8 +73,7 @@ function setSelectableAffiliations() {
     return;
   }
 
-  const affiliations = getState("leader")["affiliations"].map(attr => getAttribute(attr))
-    .filter(affiliation => affiliation !== "Human");
+  const affiliations = getState("leader")["affiliations"].map(attr => getAttribute(attr));
   
   affiliations.forEach((attribute) => {
     let button = document.createElement('input');
@@ -79,7 +101,45 @@ function setDeckResults(parsedDecklist) {
     parsedDecklist["invalid"].map(card => cardTemplate(card)).join(''),
   ].join('');
 
-  setHTML($("#parsed_cards"), combinedCards);
+  //console.log(parsedDecklist)
+  //parsedDecklist["compatible"].foreach(card => console.log(card["types"]))
+
+  const filteredCreatures = parsedDecklist["compatible"].filter(card => card["types"].includes(1))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#creatures"), filteredCreatures); 
+  
+  const filteredArtifacts = parsedDecklist["compatible"].filter(card => card["types"].includes(2))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#artifacts"), filteredArtifacts); 
+
+  const filteredEnchantments = parsedDecklist["compatible"].filter(card => card["types"].includes(3))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#enchantments"), filteredEnchantments); 
+
+  const filteredInstants = parsedDecklist["compatible"].filter(card => card["types"].includes(6))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#instants"), filteredInstants); 
+
+  const filteredSorceries = parsedDecklist["compatible"].filter(card => card["types"].includes(7))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#sorceries"), filteredSorceries); 
+
+  const filteredLands = parsedDecklist["compatible"].filter(card => card["types"].includes(0))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#lands"), filteredLands); 
+
+  const filteredBattles = parsedDecklist["compatible"].filter(card => card["types"].includes(5))
+  .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+  .map(card => cardTemplate(card)).join('')
+  setHTML($("#battles"), filteredBattles); 
+
+  //setHTML($("#parsed_cards"), combinedCards);
 }
 
-export { setLeaderFromDecklist, setLeader, setSelectedAffiliation, setDeckResults };
+export { setLeaderFromDecklist, setLeader, setSelectedAffiliation, setDeckResults, setCard };
