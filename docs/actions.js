@@ -15,10 +15,7 @@ function setCard(cardName) {
 
     const cards = getState("cards").filter(card => 
       card["name"].startsWith(cardName));
-    console.log(cards)
-    console.log("got to here")
     const limited = cards.slice(0,500)
-    console.log(limited)
     datalist.innerHTML = '';
     limited.forEach((card) => {
       let option = document.createElement("option");
