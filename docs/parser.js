@@ -1,7 +1,6 @@
 import { getCard, isCompatibleCard } from './data.js';
 import { cardTemplate } from './templates.js';
 import { $, getState, setState } from './utils.js';
-import { setLeaderFromDecklist, setLeader, setDeckResults } from './actions.js';
 
 function parseLineItem(lineItem) {
   const match = lineItem.match(/(\d\s)(.*)(\(.*)/);
@@ -20,7 +19,6 @@ const handleLeader = (cards, card, cardData) => {
     card["status"] = "invalid (legendary)";
     cards["invalid"].push(card); 
   } else {
-    setLeaderFromDecklist(cardData["name"]);
     setState("leaderSetManually", false);
   }
 }
@@ -107,7 +105,7 @@ const parseDecklist = (decklist) => {
     }
   });
 
-  setDeckResults(cards);
+  //setDeckResults(cards);
 }
 
 export { parseDecklist };

@@ -1,41 +1,112 @@
-import { $, prepareData, setState, getState } from './utils.js';
+import { $, getState, setState } from './utils.js';
+import { prepareData } from './data.js'
+import { rules } from './templates.js';
 import { parseDecklist } from './parser.js';
-import { setLeader, setSelectedAffiliation } from './actions.js';
-
-async function setDebugDecklist() {
-  const response = await fetch('decklist.txt');
-  const debugDecklist = await response.text();
-
-  $("#decklist").value = debugDecklist;
-  handleDecklist(debugDecklist);
-}
-
-const handleDecklist = (rawData) => {
-  const decklist = rawData.split("\n");
-
-  setState("decklist", decklist);
-
-  parseDecklist(decklist); 
-}
-
-const handleLeader = () => {
-  setState("leaderSetManually", true);
-  setLeader($("#leader").value);
-
-  const decklist = getState("decklist");
-
-  if (decklist) {
-    parseDecklist(decklist);
-  }
-}
+import { setCard } from './actions.js';
+import { displayExplore } from './explore.js';
 
 document.addEventListener("DOMContentLoaded", async function() {
-  $("#unset_affiliation").addEventListener('click', () => (setSelectedAffiliation(undefined)));
-  $("#decklist").addEventListener('input', (event) => handleDecklist(event.target.value));
-  $("#leader").addEventListener("input", () => handleLeader());
+    document.state = {};
+    $("#home").addEventListener("click", () => displayHome());
+    $("#check").addEventListener("click", () => displayCheck());
+    $("#validate").addEventListener("click", () => displayValidate());
+    $("#explore").addEventListener("click", () => displayExplore());
+    await prepareData();
+    displayHome();
+  });
 
-  document.state = {};
+const displayHome = () => {
+    document.querySelectorAll('.choice').forEach(node => {
+        if(node["id"] === "home") {
+            node.classList.add("selected")
+        }
+        else {
+            node.classList.remove("selected")
+        }
+    })
+    let rules = getState("rules").split("\n")
+    // remove header and first images
+    rules.shift()
+    rules = rules.filter((rule) => !rule.includes("-light]"))
 
-  await prepareData();
-  // await setDebugDecklist();
-});
+    rules = "\n" + rules.join("\n")
+
+    //rules = rules.replaceAll("images/", "../images/")
+    $("#content").innerHTML = 
+    `
+        <zero-md no-shadow>
+            <template>
+                <style>
+                </style>
+                <link rel="stylesheet" media="(prefers-color-scheme:dark)" href="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets@11/styles/github-dark.min.css" />
+                 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css" />
+            </template>
+            <script type="text/markdown">
+                ${rules}
+            </script
+        </zero-md>
+    `
+}
+const displayCheck = () => {
+    document.querySelectorAll('.choice').forEach(node => {
+        if(node["id"] === "check") {
+            node.classList.add("selected")
+        }
+        else {
+            node.classList.remove("selected")
+        }
+    })
+    $("#content").innerHTML = `
+    <div id='card_input'>
+      <input
+        name="card"
+        type='text'
+        id="card"
+        placeholder="enter card name"
+        list="cards"
+      />
+
+      <datalist id="cards"></datalist>
+    </div>
+
+    <div id="card_details">
+    </div>
+    `;
+
+    $("#card").addEventListener("input", () => handleCard());
+}
+
+const handleCard = () => {
+    setCard($("#card").value);
+  }
+
+const displayValidate = () => {
+    document.querySelectorAll('.choice').forEach(node => {
+        if(node["id"] === "validate") {
+            node.classList.add("selected")
+        }
+        else {
+            node.classList.remove("selected")
+        }
+    })
+    $("#content").innerHTML = `
+        <textarea id="decklist" placeholder="paste your decklist"></textarea>
+    `
+    $("#decklist").addEventListener('input', (event) => handleDecklist(event.target.value));
+
+}
+
+function getAffiliatedCreatures() {
+    const selectedAffiliation = getState("selectedAffiliation");
+    const cards = getState("cards");
+   
+}
+  
+
+const handleDecklist = (rawData) => {
+    const decklist = rawData.split("\n");
+
+    setState("decklist", decklist);
+
+    parseDecklist(decklist); 
+}

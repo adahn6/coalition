@@ -51,12 +51,20 @@ input[type="text"], textarea {
   width: 100%;
 }
 
+#card_type_select input {
+  margin: 5px;
+}
+
+#affiliation_select input {
+  margin: 5px;
+}
+
 input[type="button"] {
   cursor: pointer;
 }
 
 input[type="button"]:active {
-  border-color: #e44;
+  border-color: #008080;
 }
 
 li {
@@ -147,4 +155,8 @@ details, summary {
 
 .card--name a:link, .card--name a:visited {
   text-decoration: underline;
+}
+
+.selected {
+  border-color: #4493f8;
 }
