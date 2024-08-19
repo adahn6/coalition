@@ -6,7 +6,6 @@
 html {
   --background: #333;
   --text: #ccc;
-
   --border-radius: 3px;
   --standard-spacing: 5px;
 }
@@ -19,7 +18,16 @@ header {
   font-size: 40pt;
 }
 
+.card.compatible img {
+  max-width: 100%;
+}
+
+#content {
+  padding: 11px;
+}
+
 body {
+  margin: 15px;
   padding: var(--standard-spacing);
   font-family: "Anonymous Pro", serif;
   background: var(--background);
@@ -76,6 +84,7 @@ details > summary::-webkit-details-marker {
 }
 
 .formgroup.inline {
+  width: 40%;
   display: flex;
 }
 
@@ -104,7 +113,10 @@ details, summary {
 }
 
 .card.compatible {
+  min-height: 420px;
   background: #444;
+  max-width: 250px;
+  text-align: center
 }
 
 .card.incompatible {
@@ -124,20 +136,15 @@ details, summary {
 }
 
 .card--name {
-  display: flex;
-  align-items: center;
+  margin-left: auto;
+}
+
+#leader_card {
+  max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .card--name a:link, .card--name a:visited {
   text-decoration: underline;
-}
-
-.card--affiliations {
-  margin-right: auto;
-  padding-left: var(--standard-spacing);
-}
-
-#unset_affiliation {
-  margin-left: auto;
-  display: none;
 }

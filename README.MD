@@ -58,7 +58,7 @@ The format for Coalition decks is decks of 60 cards with a 15 card sideboard. Cr
 * A single creature type is chosen as the **coalition type**
     * This type must be chosen from the legendary creature's affiliations
     * All cards in the deck must be [affiliated with the chosen coalition type or be unaffiliated](#affiliation)
-    * [**Human may not be chosen as the coalition type**](https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-affiliation-for-my-deck)
+    * [Human may not be chosen as the coalition type](https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-affiliation-for-my-deck)
 * No companion
 
 ### Examples

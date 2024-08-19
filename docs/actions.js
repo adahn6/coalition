@@ -4,8 +4,8 @@ import { cardTemplate } from './templates.js';
 import { parseDecklist } from './parser.js';
 
 function setLeaderFromDecklist(leaderName) {
-  $("input#leader").setAttribute('value', leaderName);
-  setLeader(leaderName);
+  //$("input#leader").setAttribute('value', leaderName);
+  //setLeader(leaderName);
 }
 
 function setCard(cardName) {
@@ -35,6 +35,19 @@ function setLeader(leaderName) {
   if (!leaderCardData) {
     setState("leader");
     setHTML($("#leader_card"));
+    const datalist = $('#leaders');
+
+    const cards = getState("cards")
+      .filter(leader => leader["legal"] === "leader")
+      .filter(card => card["name"].startsWith(leaderName));
+    const limited = cards.slice(0,500)
+    datalist.innerHTML = '';
+    limited.forEach((card) => {
+      let option = document.createElement("option");
+      option.setAttribute('value', card["name"]);
+      datalist.appendChild(option);
+    });
+
     return;
   }
 
@@ -64,7 +77,6 @@ function setSelectedAffiliation(attribute) {
 
 function setSelectableAffiliations() {
   setHTML($("#affiliation_select"));
-  hideHTML($("#unset_affiliation"));
 
   if (!getState("leader")) {
     return;
@@ -86,7 +98,6 @@ function setSelectableAffiliations() {
     });
   });
 
-  showHTML($("#unset_affiliation"));
 };
 
 function setDeckResults(parsedDecklist) {

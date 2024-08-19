@@ -55,8 +55,6 @@ async function prepareData() {
   setState("cards", cards);
   setState("types", creatureTypes);
   setState("rules", rules)
-  populateLeaderDatalist();
-  //populateCardDatalist();
 };
 
 function setHTML(selector, HTML = '') {

@@ -1,5 +1,6 @@
 import { $, getState, prepareData, setState } from './utils.js';
 import { rules } from './templates.js';
+import { parseDecklist } from './parser.js';
 import { setCard, setLeader } from './actions.js';
 
 document.addEventListener("DOMContentLoaded", async function() {
@@ -62,77 +63,43 @@ const handleCard = () => {
   }
 
 const displayExplore = () => {
-     $("#content").innerHTML = `
-    1. Choose a Coalition leader
-    <div id='leader_input'>
-      <input
-        name="leader"
-        type='text'
-        id="leader"
-        placeholder="enter leader's name"
-        list="leaders"
-      />
-
-      <datalist id="leaders"></datalist>
+    $("#content").innerHTML = `
+    <div id="deckbuilder">
+        <ul class="column__list">
+            <li class="column__item">
+            Choose a Coalition leader
+                <div id='leader_input'>
+                    <input
+                        name="leader"
+                        type='text'
+                        id="leader"
+                        placeholder="enter leader's name"
+                        list="leaders"
+                    />
+                    <datalist id="leaders"></datalist>
+                </div>
+                Choose a Coalition type
+                <div id='affiliation_select'></div>
+                Choose a card type
+                <div id='card_type_select'></div>
+            </li>
+            <li class="column__item">
+                <div id='leader_card'></div>
+            </li>
+        </ul>
     </div>
-
-    2. Choose a Coalition type
-    <div class='formgroup inline'>
-      <div id='affiliation_select'></div>
-      <input type='button' value='remove affiliation' id='unset_affiliation' />
-    </div>
-
     <hr>
-    <div id='leader_card'></div>
-    <ul class="column__list">
-      <li class="column__item">
-        <details open>
-          <summary>Creature</summary>
-          <div id='creatures'></div>
-        </details>
-      </li>
-      <li class="column__item">
-        <details open>
-          <summary>Artifacts</summary>
-          <div id='artifacts'></div>
-        </details>
-      </li>
-      <li class="column__item">
-        <details open>
-          <summary>Enchantments</summary>
-          <div id='enchantments'></div>
-        </details>
-      </li>
-      <li class="column__item">
-        <details open>
-          <summary>Instants</summary>
-          <div id='instants'></div>
-        </details>
-      </li>
-      <li class="column__item">
-        <details open>
-          <summary>Sorceries</summary>
-          <div id='sorceries'></div>
-        </details>
-      </li>
-      <li class="column__item">
-        <details open>
-          <summary>Lands</summary>
-          <div id='lands'></div>
-        </details>
-      </li>
-      <li class="column__item">
-        <details open>
-          <summary>Battles</summary>
-          <div id='battles'></div>
-        </details>
-      </li>
+    <ul class="column__list" id='creatures'>
     </ul>
     `
     $("#leader").addEventListener("input", () => handleLeader());
 }
 const displayValidate = () => {
-    console.log("eventually display validate")
+    $("#content").innerHTML = `
+        <textarea id="decklist" placeholder="paste your decklist"></textarea>
+    `
+    $("#decklist").addEventListener('input', (event) => handleDecklist(event.target.value));
+
 }
 
 function getAffiliatedCreatures() {
@@ -146,3 +113,11 @@ const handleLeader = () => {
     setLeader($("#leader").value);
   }
   
+
+  const handleDecklist = (rawData) => {
+    const decklist = rawData.split("\n");
+  
+    setState("decklist", decklist);
+  
+    parseDecklist(decklist); 
+  }
