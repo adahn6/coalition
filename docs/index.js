@@ -1,9 +1,9 @@
 import { $, getState, setState } from './utils.js';
 import { prepareData } from './data.js'
-import { rules } from './templates.js';
+import { displayCheck } from './check.js'
 import { parseDecklist } from './parser.js';
-import { setCard } from './actions.js';
 import { displayExplore } from './explore.js';
+import { displayValidate } from './validator.js';
 
 document.addEventListener("DOMContentLoaded", async function() {
     document.state = {};
@@ -31,7 +31,6 @@ const displayHome = () => {
 
     rules = "\n" + rules.join("\n")
 
-    //rules = rules.replaceAll("images/", "../images/")
     $("#content").innerHTML = 
     `
         <zero-md no-shadow>
@@ -47,54 +46,6 @@ const displayHome = () => {
         </zero-md>
     `
 }
-const displayCheck = () => {
-    document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "check") {
-            node.classList.add("selected")
-        }
-        else {
-            node.classList.remove("selected")
-        }
-    })
-    $("#content").innerHTML = `
-    <div id='card_input'>
-      <input
-        name="card"
-        type='text'
-        id="card"
-        placeholder="enter card name"
-        list="cards"
-      />
-
-      <datalist id="cards"></datalist>
-    </div>
-
-    <div id="card_details">
-    </div>
-    `;
-
-    $("#card").addEventListener("input", () => handleCard());
-}
-
-const handleCard = () => {
-    setCard($("#card").value);
-  }
-
-const displayValidate = () => {
-    document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "validate") {
-            node.classList.add("selected")
-        }
-        else {
-            node.classList.remove("selected")
-        }
-    })
-    $("#content").innerHTML = `
-        <textarea id="decklist" placeholder="paste your decklist"></textarea>
-    `
-    $("#decklist").addEventListener('input', (event) => handleDecklist(event.target.value));
-
-}
 
 function getAffiliatedCreatures() {
     const selectedAffiliation = getState("selectedAffiliation");
@@ -102,7 +53,6 @@ function getAffiliatedCreatures() {
    
 }
   
-
 const handleDecklist = (rawData) => {
     const decklist = rawData.split("\n");
 
