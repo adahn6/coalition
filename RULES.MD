@@ -15,7 +15,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.4 The Coalition variant uses affiliation to determine what cards can be in a deck with a certain coalition leader. A card is affiliated with all creature types that it is, as well as each creature type printed on the Oracle text of the card, including its creature types and any ability text of the card. 
 
-	* 906.4a Affiliation is established before the game begins, and is affected by characteristic defining abilities like Changeling.
+	* 906.4a Affiliation is established before the game begins, and is affected by characteristic defining abilities like Changeling and other relevant abilities that modify card values in specific zones.
 
 		* Example: Morphon the Boundless is affiliated with all creature types, as it has changeling.
 
