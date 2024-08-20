@@ -59,7 +59,7 @@ async function prepareData() {
   const cards = await fetch('data.json').then(response => response.json());
   const creatureTypes = await fetch('creature_types.json').then(response => response.json());
   const cardTypes = await fetch('card_types.json').then(response => response.json());
-  const rules = await fetch('README.MD').then(response => response.text());
+  const rules = await fetch('./README.MD').then(response => response.text());
   setState("cards", cards);
   setState("creature_types", creatureTypes);
   setState("rules", rules)
