@@ -1,4 +1,4 @@
-# Game Philosophy and FAQ
+# Format Philosophy and FAQ
 
 ## Philosophy
 
