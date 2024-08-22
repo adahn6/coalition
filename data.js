@@ -35,6 +35,13 @@ function createDecklistFromAllCards() {
   return filteredCards.map(card => card["name"]);
 }
 
+function isBasicLand(card) {
+  console.log("Checking " + card["name"])
+  return card["types"].includes(0) && (card["name"] === "Mountain" || card["name"] === "Swamp" 
+    || card["name"] === "Wastes" || card["name"] === "Island" || card["name"] === "Plains" 
+    || card["name"] === "Forest")
+}
+
 function isLegal(card) {
   return (card["legal"] === "" ||  card["legal"] == "leader")
 }
@@ -75,4 +82,4 @@ async function prepareData() {
   setState("card_types", cardTypes)
 };
 
-export { prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
