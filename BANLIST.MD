@@ -10,6 +10,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 * 9 cards that reference "playing for ante." Click [here](https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&text=+%5b%22%20ante.%22%5d) for the list.
 * Cards whose art, text, name, or combination thereof that are racially or culturally offensive are banned in all formats. This list is a work in progress. Click [here](https://magic.wizards.com/en/news/announcements/depictions-racism-magic-2020-06-10) for the list.
 * All cards that bring a sticker or an Attraction into the game are banned.
+
 <dl>
 <dt><a href="https://scryfall.com/card/ema/2/balance">Balance</a></dt>
 	<dd>This card is already banned in nearly all formats for very good reason</dd>

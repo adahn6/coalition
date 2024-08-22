@@ -55,9 +55,15 @@ function isAffiliated(card, creatureType) {
   return card["affiliations"].includes(getCreatureTypeId(creatureType))
 }
 
-async function prepareHome() {
+async function prepareDocs() {
   const welcome = await fetch('./README.MD').then(response => response.text());
+  const banlist = await fetch('./BANLIST.MD').then(response => response.text());
+  const faq = await fetch('./FAQ.MD').then(response => response.text());
+  const rules = await fetch('./RULES.MD').then(response => response.text());
   setState("welcome", welcome)
+  setState("banlist", banlist)
+  setState("faq", faq)
+  setState("rules", rules)
 }
 
 async function prepareData() {
@@ -69,4 +75,4 @@ async function prepareData() {
   setState("card_types", cardTypes)
 };
 
-export { prepareHome, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };

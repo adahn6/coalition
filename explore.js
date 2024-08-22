@@ -2,9 +2,9 @@ import { $, setHTML, getState, setState } from "./utils.js";
 import { getCard, getCreatureTypeFromId, isCardType, isAffiliated, isNonLeader} from "./data.js";
 import { cardTemplate } from './templates.js';
 
-const displayExplore = () => {
+const displayDeckbuilder = () => {
     document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "explore") {
+        if(node["id"] === "deckbuilder") {
             node.classList.add("selected")
         }
         else {
@@ -164,4 +164,4 @@ function setExploreResults() {
     setHTML($("#cards_display"), cards);   
   }
 
-export { displayExplore }
+export { displayDeckbuilder }
