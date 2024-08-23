@@ -127,6 +127,18 @@ details, summary {
   text-align: center
 }
 
+.card.valid {
+  background: #444;
+  text-align: center
+}
+
+.card.badaffiliation {
+  background: #444;
+  border: 2px solid #990000;
+  text-align: center
+}
+
+
 .card.incompatible {
   background: #222;
 }

@@ -59,7 +59,10 @@ function isCardType(card, cardType) {
 }
 
 function isAffiliated(card, creatureType) {
-  return card["affiliations"].includes(getCreatureTypeId(creatureType))
+  if(typeof(creatureType) === "string") {
+    return card["affiliations"].includes(getCreatureTypeId(creatureType))
+  }
+  return card["affiliations"].includes(creatureType)
 }
 
 async function prepareDocs() {
