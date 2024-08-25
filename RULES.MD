@@ -1,7 +1,7 @@
 A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 
-906. Coalition
+### 906. Coalition
 
 * 906.1. In the Coalition variant, each deck forms a coalition led by legendary creature and its allies. The Coalition format was created by fans. The Coalition variant uses all the normal rules for a Magic game, with the following additions.
 

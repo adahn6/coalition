@@ -11,7 +11,7 @@ html {
 }
 
 header {
-  text-align:center;
+  text-align: center;
   padding: var(--standard-spacing);
   font-family: "Anonymous Pro", serif;
   color: var(--text);
@@ -35,11 +35,12 @@ body {
   font-size: 14pt;
 }
 
-body > * {
+body>* {
   margin-bottom: var(--standard-spacing);
 }
 
-input, textarea {
+input,
+textarea {
   background: var(--background);
   color: var(--text);
   border-style: solid;
@@ -47,7 +48,8 @@ input, textarea {
   padding: var(--standard-spacing);
 }
 
-input[type="text"], textarea {
+input[type="text"],
+textarea {
   width: 100%;
 }
 
@@ -71,10 +73,11 @@ li {
   list-style: none;
 }
 
-details > summary {
+details>summary {
   list-style: none;
 }
-details > summary::-webkit-details-marker {
+
+details>summary::-webkit-details-marker {
   display: none;
 }
 
@@ -96,7 +99,7 @@ details > summary::-webkit-details-marker {
   display: flex;
 }
 
-.formgroup.inline  *:not(:last-child) {
+.formgroup.inline *:not(:last-child) {
   margin-right: var(--standard-spacing);
 }
 
@@ -107,7 +110,8 @@ details > summary::-webkit-details-marker {
   margin-bottom: var(--standard-spacing);
 }
 
-details, summary {
+details,
+summary {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -132,12 +136,16 @@ details, summary {
   text-align: center
 }
 
+.card.deckvalid {
+  background: #228B22;
+  text-align: center
+}
+
 .card.badaffiliation {
   background: #444;
   border: 2px solid #990000;
   text-align: center
 }
-
 
 .card.incompatible {
   background: #222;
@@ -165,7 +173,8 @@ details, summary {
   margin-right: auto;
 }
 
-.card--name a:link, .card--name a:visited {
+.card--name a:link,
+.card--name a:visited {
   text-decoration: underline;
 }
 

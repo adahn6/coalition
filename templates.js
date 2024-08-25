@@ -34,13 +34,13 @@ const attributeTemplate = (attribute) => (
   `
 );
 
-const rules = 
+const rules =
   `
     <div class='rules'>This is the Coalition rules explainer!
   `;
 
-const check = 
+const check =
   `
     <div class='check'>This is the check card affiliations tool!
-  `; 
+  `;
 export { cardTemplate, attributeTemplate, rules, check };

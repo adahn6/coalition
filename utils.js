@@ -1,4 +1,4 @@
-function $(selector) { 
+function $(selector) {
   return document.querySelector(selector);
 };
 
@@ -33,4 +33,4 @@ function showHTML(element) {
   element.style.display = 'block';
 }
 
-export {$, formData, getState, setState, setHTML, hideHTML, showHTML };
+export { $, formData, getState, setState, setHTML, hideHTML, showHTML };

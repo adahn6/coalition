@@ -37,13 +37,13 @@ function createDecklistFromAllCards() {
 
 function isBasicLand(card) {
   console.log("Checking " + card["name"])
-  return card["types"].includes(0) && (card["name"] === "Mountain" || card["name"] === "Swamp" 
-    || card["name"] === "Wastes" || card["name"] === "Island" || card["name"] === "Plains" 
+  return card["types"].includes(0) && (card["name"] === "Mountain" || card["name"] === "Swamp"
+    || card["name"] === "Wastes" || card["name"] === "Island" || card["name"] === "Plains"
     || card["name"] === "Forest")
 }
 
 function isLegal(card) {
-  return (card["legal"] === "" ||  card["legal"] == "leader")
+  return (card["legal"] === "" || card["legal"] == "leader")
 }
 
 function isNonLeader(card) {
@@ -59,10 +59,14 @@ function isCardType(card, cardType) {
 }
 
 function isAffiliated(card, creatureType) {
-  if(typeof(creatureType) === "string") {
+  if (typeof (creatureType) === "string") {
     return card["affiliations"].includes(getCreatureTypeId(creatureType))
   }
   return card["affiliations"].includes(creatureType)
+}
+
+function getCardHtmlLink(card) {
+  return "<a href='https://scryfall.com/cards/" + card["uri"] + "' target='_blank'>" + card["name"] + "</a>"
 }
 
 async function prepareDocs() {
@@ -85,4 +89,4 @@ async function prepareData() {
   setState("card_types", cardTypes)
 };
 
-export { isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { getCardHtmlLink, isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };

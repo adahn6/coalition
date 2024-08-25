@@ -1,10 +1,10 @@
 import { $, setHTML, getState, setState } from "./utils.js";
-import { getCard, getCreatureTypeFromId, isCardType, isAffiliated, isNonLeader} from "./data.js";
+import { getCard, getCreatureTypeFromId, isCardType, isAffiliated, isNonLeader } from "./data.js";
 import { cardTemplate } from './templates.js';
 
 const displayDeckbuilder = () => {
     document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "deckbuilder") {
+        if (node["id"] === "deckbuilder") {
             node.classList.add("selected")
         }
         else {
@@ -33,6 +33,14 @@ const displayDeckbuilder = () => {
                     <label>Card Type:</label>
                     <div id='card_type_select'></div>
                 </div>
+                <div class="choice">
+                    <label>Sort Type:</label>
+                    <div id='sort_type_select'></div>
+                </div>
+                <div class="choice">
+                    <label>Sort Direction:</label>
+                    <div id='sort_direction_select'></div>
+                </div>
             </li>
             <li class="column__item">
                 <div id='leader_card'></div>
@@ -47,86 +55,146 @@ const displayDeckbuilder = () => {
     const card_types = ["Creature", "Artifact", "Enchantment", "Instant", "Sorcery", "Battle", "Land"]
     card_types.forEach(card_type => {
         let button = document.createElement('input');
-  
+
         button.setAttribute('type', 'button');
         button.setAttribute('class', 'card_type_selection')
-        button.setAttribute('name', "selected_affiliation");
+        button.setAttribute('name', "selected_card_type");
         button.setAttribute('value', card_type);
-    
+
         $("#card_type_select").appendChild(button);
-    
+
         button.addEventListener('click', () => {
             setSelectedCardType(card_type);
         });
     })
+    const sort_types = ["Mana Value", "Name"]
+    sort_types.forEach(sortType => {
+        let button = document.createElement('input');
+
+        button.setAttribute('type', 'button');
+        button.setAttribute('class', 'sort_type_selection')
+        button.setAttribute('name', "selected_sort_type");
+        button.setAttribute('value', sortType);
+
+        $("#sort_type_select").appendChild(button);
+
+        button.addEventListener('click', () => {
+            setSelectedSortType(sortType);
+        });
+    })
+    setSelectedSortType("Mana Value")
+
+    const sort_directions = ["Ascending", "Descending"]
+    sort_directions.forEach(direction => {
+        let button = document.createElement('input');
+
+        button.setAttribute('type', 'button');
+        button.setAttribute('class', 'sort_direction_selection')
+        button.setAttribute('name', "selected_sort_direction");
+        button.setAttribute('value', direction);
+
+        $("#sort_direction_select").appendChild(button);
+
+        button.addEventListener('click', () => {
+            setSelectedSortDirection(direction);
+        });
+    })
+    setSelectedSortDirection("Ascending")
 }
 
 function setLeader() {
     const leaderName = $("#leader").value
     const leaderCardData = getCard(leaderName);
-  
+
     if (!leaderCardData) {
-      setState("leader");
-      setHTML($("#leader_card"));
-      const datalist = $('#leaders');
-  
-      const cards = getState("cards")
-        .filter(leader => leader["legal"] === "leader")
-        .filter(card => card["name"].startsWith(leaderName));
-      const limited = cards.slice(0,500)
-      datalist.innerHTML = '';
-      limited.forEach((card) => {
-        let option = document.createElement("option");
-        option.setAttribute('value', card["name"]);
-        datalist.appendChild(option);
-      });
-  
-      return;
+        setState("leader");
+        setHTML($("#leader_card"));
+        const datalist = $('#leaders');
+
+        const cards = getState("cards")
+            .filter(leader => leader["legal"] === "leader")
+            .filter(card => card["name"].toUpperCase().startsWith(leaderName.toUpperCase()));
+        const limited = cards.slice(0, 500)
+        datalist.innerHTML = '';
+        limited.forEach((card) => {
+            let option = document.createElement("option");
+            option.setAttribute('value', card["name"]);
+            datalist.appendChild(option);
+        });
+
+        return;
     }
-  
+
     if (getState("selectedAffiliation")) {
-      setSelectedAffiliation(undefined);
+        setSelectedAffiliation(undefined);
     }
-  
+
     setState("leader", leaderCardData);
-  
+
     leaderCardData["status"] = "leader";
     setHTML($("#leader_card"), cardTemplate(leaderCardData));
-  
+
     setSelectableAffiliations();
 };
-  
+
 function setSelectableAffiliations() {
     setHTML($("#affiliation_select"));
-  
+
     if (!getState("leader")) {
-      return;
+        return;
     }
-  
+
     const affiliations = getState("leader")["affiliations"]
         .map(attr => getCreatureTypeFromId(attr))
         .filter(affiliation => affiliation != "Human");
-    
+
     affiliations.forEach((attribute) => {
-      let button = document.createElement('input');
-  
-      button.setAttribute('type', 'button');
-      button.setAttribute('name', 'selected_affiliation');
-      button.setAttribute('class', 'affiliation_selection')
-      button.setAttribute('value', attribute);
-  
-      $("#affiliation_select").appendChild(button);
-  
-      button.addEventListener('click', () => {
-        setSelectedAffiliation(attribute);
-      });
+        let button = document.createElement('input');
+
+        button.setAttribute('type', 'button');
+        button.setAttribute('name', 'selected_affiliation');
+        button.setAttribute('class', 'affiliation_selection')
+        button.setAttribute('value', attribute);
+
+        $("#affiliation_select").appendChild(button);
+
+        button.addEventListener('click', () => {
+            setSelectedAffiliation(attribute);
+        });
     });
 };
 
 function setSelectedCardType(attribute) {
     setState("selectedCardType", attribute);
     document.querySelectorAll('.card_type_selection').forEach(node => {
-        if(node["value"] === attribute) {
+        if (node["value"] === attribute) {
+            node.classList.add("selected")
+        }
+        else {
+            node.classList.remove("selected")
+        }
+    })
+    setExploreResults();
+}
+
+function setSelectedSortType(sortType) {
+    setState("sortType", sortType);
+    document.querySelectorAll('.sort_type_selection').forEach(node => {
+        if (node["value"] === sortType) {
+            node.classList.add("selected")
+        }
+        else {
+            node.classList.remove("selected")
+        }
+    })
+    setExploreResults();
+}
+
+function setSelectedSortDirection(sortDirection) {
+    console.log(sortDirection)
+    setState("sortDirection", sortDirection);
+    document.querySelectorAll('.sort_direction_selection').forEach(node => {
+        if (node["value"] === sortDirection) {
             node.classList.add("selected")
         }
         else {
@@ -137,9 +205,9 @@ function setSelectedCardType(attribute) {
 }
 
 function setSelectedAffiliation(attribute) {
-    setState("selectedAffiliation", attribute);  
+    setState("selectedAffiliation", attribute);
     document.querySelectorAll('.affiliation_selection').forEach(node => {
-        if(node["value"] === attribute) {
+        if (node["value"] === attribute) {
             node.classList.add("selected")
         }
         else {
@@ -150,7 +218,7 @@ function setSelectedAffiliation(attribute) {
 }
 
 function setExploreResults() {
-    if(getState("selectedCardType") == null || getState("selectedAffiliation") == null) {
+    if (getState("selectedCardType") == null || getState("selectedAffiliation") == null) {
         return;
     }
     const card_type = getState("selectedCardType")
@@ -159,9 +227,26 @@ function setExploreResults() {
     const cards = getState("cards").filter(card => isNonLeader(card))
         .filter(card => isAffiliated(card, affiliation))
         .filter(card => isCardType(card, card_type))
-        .sort((card1, card2) => card1["manaValue"] > card2["manaValue"])
+        .sort((card1, card2) => {
+            if (getState("sortType") === "Mana Value") {
+                if (getState("sortDirection") === "Ascending") {
+                    return card1["manaValue"] > card2["manaValue"]
+                }
+                else {
+                    return card1["manaValue"] < card2["manaValue"]
+                }
+            }
+            else {
+                if (getState("sortDirection") === "Ascending") {
+                    return card1["name"] > card2["name"]
+                }
+                else {
+                    return card1["name"] < card2["name"]
+                }
+            }
+        })
         .map(card => cardTemplate(card)).join('')
-    setHTML($("#cards_display"), cards);   
-  }
+    setHTML($("#cards_display"), cards);
+}
 
 export { displayDeckbuilder }

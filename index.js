@@ -1,9 +1,9 @@
 import { $, getState } from './utils.js';
 import { prepareDocs, prepareData } from './data.js'
 import { displayDeckbuilder } from './explore.js';
-import { displayValidate } from './validator.js';
+import { displayValidator } from './validator.js';
 
-document.addEventListener("DOMContentLoaded", async function() {
+document.addEventListener("DOMContentLoaded", async function () {
     document.state = {};
     await prepareDocs();
     displayHome();
@@ -11,13 +11,13 @@ document.addEventListener("DOMContentLoaded", async function() {
     $("#banlist").addEventListener("click", () => displayBanlist());
     $("#rules").addEventListener("click", () => displayRules());
     $("#deckbuilder").addEventListener("click", () => displayDeckbuilder());
-    $("#validator").addEventListener("click", () => displayValidate());
+    $("#validator").addEventListener("click", () => displayValidator());
     await prepareData();
-  });
+});
 
 const displayHome = () => {
     document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "home") {
+        if (node["id"] === "home") {
             node.classList.add("selected")
         }
         else {
@@ -31,8 +31,8 @@ const displayHome = () => {
 
     rules = "\n" + rules.join("\n")
 
-    $("#content").innerHTML = 
-    `
+    $("#content").innerHTML =
+        `
         <zero-md no-shadow>
             <template>
                 <style>
@@ -49,7 +49,7 @@ const displayHome = () => {
 
 const displayBanlist = () => {
     document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "banlist") {
+        if (node["id"] === "banlist") {
             node.classList.add("selected")
         }
         else {
@@ -72,8 +72,8 @@ const displayBanlist = () => {
     const rules = banlist + " " + faq
 
 
-    $("#content").innerHTML = 
-    `
+    $("#content").innerHTML =
+        `
         <zero-md no-shadow>
             <template>
                 <style>
@@ -90,7 +90,7 @@ const displayBanlist = () => {
 
 const displayRules = () => {
     document.querySelectorAll('.choice').forEach(node => {
-        if(node["id"] === "rules") {
+        if (node["id"] === "rules") {
             node.classList.add("selected")
         }
         else {
@@ -101,8 +101,8 @@ const displayRules = () => {
     // remove header and first images
     rules = "\n" + rules.join("\n")
 
-    $("#content").innerHTML = 
-    `
+    $("#content").innerHTML =
+        `
         <zero-md no-shadow>
             <template>
                 <style>
