@@ -229,7 +229,6 @@ function setSelectedSortType(sortType) {
 }
 
 function setSelectedSortDirection(sortDirection) {
-    console.log(sortDirection)
     setState("sortDirection", sortDirection);
     document.querySelectorAll('.sort_direction_selection').forEach(node => {
         if (node["value"] === sortDirection) {
