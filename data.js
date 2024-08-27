@@ -26,7 +26,7 @@ function isCompatibleCard(cardData, selectedAffiliation) {
 
 function createDecklistFromAllCards() {
   const filteredCards = getState("cards").filter((card) => {
-    let isLegal = card["legal"] === "";
+    let isLegal = card["legal"] == 0;
     let matchesAttribute = isCompatibleCard(card, getState("selectedAffiliation"));
 
     return isLegal && matchesAttribute;
@@ -36,22 +36,33 @@ function createDecklistFromAllCards() {
 }
 
 function isBasicLand(card) {
-  console.log("Checking " + card["name"])
   return card["types"].includes(0) && (card["name"] === "Mountain" || card["name"] === "Swamp"
     || card["name"] === "Wastes" || card["name"] === "Island" || card["name"] === "Plains"
     || card["name"] === "Forest")
 }
 
 function isLegal(card) {
-  return (card["legal"] === "" || card["legal"] == "leader")
+  return (card["legal"] == 0 || card["legal"] == 2)
 }
 
 function isNonLeader(card) {
-  return card["legal"] === ""
+  return card["legal"] == 0
 }
 
 function isLeader(card) {
-  return card["legal"] == "leader"
+  return card["legal"] == 2
+}
+
+function isBanned(card) {
+  return card["legal"] == 4
+}
+
+function isReserved(card) {
+  return card["legal"] == 3
+}
+
+function isLegendary(card) {
+  return card["legal"] == 1
 }
 
 function isCardType(card, cardType) {
@@ -84,9 +95,11 @@ async function prepareData() {
   const cards = await fetch('data.json').then(response => response.json());
   const creatureTypes = await fetch('creature_types.json').then(response => response.json());
   const cardTypes = await fetch('card_types.json').then(response => response.json());
+  const legalities = await fetch('legalities.json').then(response => response.json());
   setState("cards", cards);
   setState("creature_types", creatureTypes);
   setState("card_types", cardTypes)
+  setState("legalities", legalities)
 };
 
-export { getCardHtmlLink, isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };

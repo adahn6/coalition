@@ -57,6 +57,18 @@ textarea {
   margin: 5px;
 }
 
+#sort_type_select input {
+  margin: 5px;
+}
+
+#sort_direction_select input {
+  margin: 5px;
+}
+
+#color_filter input {
+  margin: 5px;
+}
+
 #affiliation_select input {
   margin: 5px;
 }

@@ -1,5 +1,5 @@
 import { $, setHTML } from './utils.js';
-import { getCard, isAffiliated, getCreatureTypeFromId, isCardType, isBasicLand, isLeader, getCardHtmlLink } from './data.js';
+import { getCard, isAffiliated, getCreatureTypeFromId, isCardType, isBanned, isLegendary, isBasicLand, isLeader, getCardHtmlLink, isReserved } from './data.js';
 import { cardTemplate } from './templates.js';
 
 const displayValidator = () => {
@@ -312,11 +312,11 @@ function checkSideboardCounts(sideboard) {
 }
 
 function checkCardLegality(card) {
-    if (card["legal"] === "banned") {
+    if (isBanned(card)) {
         return errorDiv("The card " + getCardHtmlLink(card) + " is banned!");
-    } else if (card["legal"] === "reserved") {
+    } else if (isReserved(card)) {
         return errorDiv("The card " + getCardHtmlLink(card) + " is on the reserved list, which is banned!");
-    } if (card["legal"] === "legendary") {
+    } if (isLegendary(card)) {
         return errorDiv("The card " + getCardHtmlLink(card) + " is legendary-- the only legendary card in the deck allowed is the Coalition leader!");
     }
 }

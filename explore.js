@@ -1,5 +1,5 @@
 import { $, setHTML, getState, setState } from "./utils.js";
-import { getCard, getCreatureTypeFromId, isCardType, isAffiliated, isNonLeader } from "./data.js";
+import { getCard, getCreatureTypeFromId, isCardType, isAffiliated, isNonLeader, isLeader} from "./data.js";
 import { cardTemplate } from './templates.js';
 
 const displayDeckbuilder = () => {
@@ -41,6 +41,11 @@ const displayDeckbuilder = () => {
                     <label>Sort Direction:</label>
                     <div id='sort_direction_select'></div>
                 </div>
+                <div class="choice">
+                    <label>Filters:</label>
+                    <div id='color_filter'></div>
+                    <div id='show_changelings'></div>
+                </div>
             </li>
             <li class="column__item">
                 <div id='leader_card'></div>
@@ -67,6 +72,7 @@ const displayDeckbuilder = () => {
             setSelectedCardType(card_type);
         });
     })
+    setSelectedCardType("Creature")
     const sort_types = ["Mana Value", "Name"]
     sort_types.forEach(sortType => {
         let button = document.createElement('input');
@@ -100,6 +106,38 @@ const displayDeckbuilder = () => {
         });
     })
     setSelectedSortDirection("Ascending")
+
+    const colors = ["W", "U", "B", "R", "G"]
+    setState("colors", colors)
+    colors.forEach(color => {
+        let button = document.createElement('input');
+
+        button.setAttribute('type', 'button');
+        button.setAttribute('class', 'color_filter selected')
+        button.setAttribute('name', "select_color_filter");
+        button.setAttribute('value', color);
+
+        $("#color_filter").appendChild(button);
+
+        button.addEventListener('click', () => {
+            setColorFilter(color);
+        });
+    })
+}
+
+function setColorFilter(color) {
+    let newColorArray = Array()
+    document.querySelectorAll('.color_filter').forEach(node => {
+        if (node["value"] === color) {
+            node.classList.toggle("selected")
+        }
+
+        if(node.classList.contains("selected")) {
+            newColorArray.push(node["value"])
+        }
+    })
+    setState("colors", newColorArray);
+    setExploreResults();
 }
 
 function setLeader() {
@@ -112,7 +150,7 @@ function setLeader() {
         const datalist = $('#leaders');
 
         const cards = getState("cards")
-            .filter(leader => leader["legal"] === "leader")
+            .filter(card => isLeader(card))
             .filter(card => card["name"].toUpperCase().startsWith(leaderName.toUpperCase()));
         const limited = cards.slice(0, 500)
         datalist.innerHTML = '';
@@ -227,6 +265,12 @@ function setExploreResults() {
     const cards = getState("cards").filter(card => isNonLeader(card))
         .filter(card => isAffiliated(card, affiliation))
         .filter(card => isCardType(card, card_type))
+        .filter(card => {
+            if(getState("colors").length == 5) {
+                return true
+            }
+            return getState("colors").some(color => card["colors"].includes(color))
+        })
         .sort((card1, card2) => {
             if (getState("sortType") === "Mana Value") {
                 if (getState("sortDirection") === "Ascending") {
