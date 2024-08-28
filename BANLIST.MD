@@ -48,56 +48,6 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 	<dd>Decks should be consistent enough without tutors</dd>
 </dl>
 
-
-## Cards banned in Legacy but not Coalition
-
-<dl>
-<dt><a href="https://scryfall.com/card/mh1/220/arcums-astrolabe">Arcum's Astrolabe</a></dt>
-	<dd>Singleton copies here just aren't as important as in legacy, and there should be some access to flexible mana</dd>
-<dt><a href="https://scryfall.com/card/ema/215/deathrite-shaman">Deathrite Shaman</a></dt>
-	<dd>Possibly concerning, but worth considering unbanned until proven otherwise</dd>
-<dt><a href="https://scryfall.com/card/ncc/219/dig-through-time">Dig Through Time</a></dt>
-	<dd>On the one hand, delve is an extremely concerning mechanic-- this is banned/restricted in Legacy/Vintage for good reason. On the other hand, singleton copies without tutor make it much less consistent, and combo players should have some tools in this format. This is *extremely** subject to playtesting and may well change</dd>
-<dt><a href="https://scryfall.com/card/me2/85/demonic-consultation">Demonic Consultation</a></dt>
-	<dd>Not as consistent or strong as in Legacy and Vintage and a good combo piece, could get banned if too strong</dd>
-<dt><a href="https://scryfall.com/card/stx/186/expressive-iteration">Expressive Iteration</a></dt>
-	<dd>There's no reason for this to be banned in this format</dd>
-<dt><a href="https://scryfall.com/card/a25/57/flash">Flash</a></dt>
-	<dd>This is banned from nearly all formats for good reason, but deckbuilding restrictions make this one a bit more interesting. Provisionally allowed until playtesting shows its potential</dd>
-<dt><a href="https://scryfall.com/card/cmm/96/frantic-search">Frantic Search</a></dt>
-	<dd>There's no reason for this to be banned in this format</dd>
-<dt><a href="https://scryfall.com/card/nph/35/gitaxian-probe">Gitaxian Probe</a></dt>
-	<dd>Honestly this maybe should stay banned but the effect is less good in multiplayer, and storm / combo should have access to some tools. Possibly gets banned again</dd>
-<dt><a href="https://scryfall.com/card/tpr/175/hermit-druid">Hermit Druid</a></dt>
-	<dd>This card is definitely extremely powerful in Legacy, but deck restrictions keep it in check. Playtesting required but unbanned until further notice</dd>
-<dt><a href="https://scryfall.com/card/iko/226/lurrus-of-the-dream-den">Lurrus of the Dream-Den</a></dt>
-	<dd>Lurrus is an understandable ban in Legacy but the effect here simply isn't out of line with expected playstyles and other deck restrictions</dd>
-<dt><a href="https://scryfall.com/card/nph/38/mental-misstep">Mental Misstep</a></dt>
-	<dd>Singleton restriction makes this less of an issue than other formats, and starting life totals make making the Phyrexian cost relatively impactful</dd>
-<dt><a href="https://scryfall.com/card/2x2/57/mana-drain">Mana Drain</a></dt>
-	<dd>Counter spells are fine</dd>
-<dt><a href="https://scryfall.com/card/me3/72/mind-twist">Mind Twist</a></dt>
-	<dd>Without access to reserve list cards like <a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>, and with a multiplayer game, this card is not nearly as good as in other formats</dd>
-<dt><a href="https://scryfall.com/card/c16/159/oath-of-druids">Oath of Druids</a></dt>
-	<dd>As the format is multiplayer, Oath of Druids is not a safe bet for any player. Legal for now unless consistent harmful play patterns emerge</dd>
-<dt><a href="https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer">Ragavan, Nimble Pilferer</a></dt>
-	<dd>Unclear what Ragavan's power potential is, may get banned subject to testing</dd>
-<dt><a href="https://scryfall.com/card/2x2/314/senseis-divining-top">Sensei's Divining Top</a></dt>
-	<dd>Play pattern here could slow down play too much, but the format is aggressive enough that this card is unlikely to be too powerful to allow</dd>
-<dt><a href="https://scryfall.com/card/moc/379/skullclamp">Skullclamp</a></dt>
-	<dd>Overall, token creation is relatively restricted in this format. Skullclamp could be broken, but the burden of proof is on playtesting</dd>
-<dt><a href="https://scryfall.com/card/vma/316/strip-mine">Strip Mine</a></dt>
-	<dd>Far too difficult to make effective in a multiplayer format to be worth banning</dd>
-<dt><a href="https://scryfall.com/card/ncc/237/treasure-cruise">Treasure Cruise</a></dt>
-	<dd>Same justification for unbanning as <a href="https://scryfall.com/card/ncc/219/dig-through-time">Dig Through Time</a></dd>
-<dt><a href="https://scryfall.com/card/clb/49/white-plume-adventurer">White Plume Adventurer</a></dt>
-	<dd>The consistency of four of these may be too much, but that seems unlikely at the moment. A win condition is not inherently bad</dd>
-<dt><a href="https://scryfall.com/card/cmm/859/windfall">Windfall</a></dt>
-	<dd>It's frustrating and annoying but again, hard to justify a full ban. Multiplayer means this is just as likely to help an opponent significantly</dd>
-<dt><a href="https://scryfall.com/card/iko/233/zirda-the-dawnwaker">Zirda, the Dawnwaker</a></dt>
-	<dd>A very strong deck archetype but not clearly harmful, consider this unbanned until such harm is proven</dd>
-</dl>
-
 ## Current watchlist:
 This section contains cards considering bans based on playtesting
 <dl>
