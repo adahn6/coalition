@@ -84,12 +84,15 @@ function getCardHtmlLink(card) {
   return "<a href='https://scryfall.com/cards/" + card["uri"] + "' target='_blank'>" + card["name"] + "</a>"
 }
 
-async function prepareDocs() {
+async function prepareHome() {
   const welcome = await fetch('./README.MD').then(response => response.text());
+  setState("welcome", welcome)
+}
+
+async function prepareDocs() {
   const banlist = await fetch('./BANLIST.MD').then(response => response.text());
   const faq = await fetch('./FAQ.MD').then(response => response.text());
   const rules = await fetch('./RULES.MD').then(response => response.text());
-  setState("welcome", welcome)
   setState("banlist", banlist)
   setState("faq", faq)
   setState("rules", rules)
@@ -106,4 +109,4 @@ async function prepareData() {
   setState("legalities", legalities)
 };
 
-export { isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { prepareHome, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };

@@ -1,12 +1,13 @@
 import { $, getState } from './utils.js';
-import { prepareDocs, prepareData } from './data.js'
+import { prepareDocs, prepareData, prepareHome } from './data.js'
 import { displayDeckbuilder } from './explore.js';
 import { displayValidator } from './validator.js';
 
 document.addEventListener("DOMContentLoaded", async function () {
     document.state = {};
-    await prepareDocs();
+    await prepareHome();
     displayHome();
+    await prepareDocs();
     $("#home").addEventListener("click", () => displayHome());
     $("#banlist").addEventListener("click", () => displayBanlist());
     $("#rules").addEventListener("click", () => displayRules());
