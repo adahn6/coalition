@@ -36,9 +36,13 @@ function createDecklistFromAllCards() {
 }
 
 function isBasicLand(card) {
-  return card["types"].includes(0) && (card["name"] === "Mountain" || card["name"] === "Swamp"
-    || card["name"] === "Wastes" || card["name"] === "Island" || card["name"] === "Plains"
-    || card["name"] === "Forest")
+  return card["types"].includes(0) && (
+    card["name"] === "Mountain" || card["name"] === "Snow-Covered Mountain"
+    || card["name"] === "Swamp" || card["name"] === "Snow-Covered Swamp"
+    || card["name"] === "Wastes" || card["name"] === "Snow-Covered Wastes"
+    || card["name"] === "Island" || card["name"] === "Snow-Covered Island" 
+    || card["name"] === "Plains" || card["name"] === "Snow-Covered Plains"
+    || card["name"] === "Forest" || card["name"] === "Snow-Covered Forest")
 }
 
 function isLegal(card) {
