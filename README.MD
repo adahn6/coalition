@@ -61,7 +61,7 @@ The format for Coalition decks is decks of 60 cards with a 15 card sideboard. Cr
     * [Human may not be chosen as the coalition type](https://github.com/adahn6/coalition/blob/main/FAQ.md#why-cant-i-choose-human-affiliation-for-my-deck)
 * No companion
 
-### Examples
+### Example decks:
 
 The following are example decklists for starter level decks:
 <dl>
@@ -75,6 +75,7 @@ The following are example decklists for starter level decks:
 <dd>Kaseto grows an increasingly powerful band of Snakes using powerful battlefield tutors pieces like Birthing Pod!</dd>
 </dl>
 
+### Example card affiliations:
 The following section lists some example deckbuilding restrictions for cards
 
 <dl>
