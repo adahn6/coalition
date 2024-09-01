@@ -67,10 +67,13 @@ The following are example decklists for starter level decks:
 <dl>
 <dt><a href="https://www.moxfield.com/decks/honsOyMYiU62t-JhNI8mWg">Balmor, Battlemage Captain -- Wizards</a></dt>
 <dd>Use Balmor and cantrips to grow the power of your army of Wizards and overrun your opponents!</dd>
+
 <dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Light-Paws, Emperor's Voice -- Foxes</a></dt>
 <dd>Light-Paws uses her powerful Aura tutor ability to dominate the field alone-- or with the help of backup Foxes in the sideboard if needed!</dd>
+
 <dt><a href="https://www.moxfield.com/decks/IR8PKe7QkEmCovY9-pnysA>Neheb, the Worthy -- Minotaurs</a></dt>
 <dd>Neheb presses the advantage by making everyone discard cards!</dd>
+
 <dt><a href="https://www.moxfield.com/decks/IsqdnM7LwE-Ih1yFi2_Xrw">Kaseto, Orochi Archmage -- Snakes</a></dt>
 <dd>Kaseto grows an increasingly powerful band of Snakes using powerful battlefield tutors pieces like Birthing Pod!</dd>
 </dl>
