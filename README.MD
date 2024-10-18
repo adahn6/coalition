@@ -71,7 +71,7 @@ The following are example decklists for starter level decks:
 <dt><a href="https://www.moxfield.com/decks/OwI7a86YBUGikbSRoYDSVA">Light-Paws, Emperor's Voice -- Foxes</a></dt>
 <dd>Light-Paws uses her powerful Aura tutor ability to dominate the field alone-- or with the help of backup Foxes in the sideboard if needed!</dd>
 
-<dt><a href="https://www.moxfield.com/decks/IR8PKe7QkEmCovY9-pnysA>Neheb, the Worthy -- Minotaurs</a></dt>
+<dt><a href="https://www.moxfield.com/decks/IR8PKe7QkEmCovY9-pnysA">Neheb, the Worthy -- Minotaurs</a></dt>
 <dd>Neheb presses the advantage by making everyone discard cards!</dd>
 
 <dt><a href="https://www.moxfield.com/decks/IsqdnM7LwE-Ih1yFi2_Xrw">Kaseto, Orochi Archmage -- Snakes</a></dt>
