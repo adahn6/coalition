@@ -17,7 +17,7 @@ Coalition remixes a lot of elements from other formats into its own unique spin 
 
 This format is intended for four players playing a match of three games. Deck sizes are 60 cards + 15 sideboard cards. Players start with 25 life, and sideboard after each game.
 
-There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, the player in last place may choose the first player.
+There is no free mulligan, however like other multiplayer Magic formats the first player does draw a card. For the first game, decide the first player randomly; for games two and three, play order should be determined by the current rankings, starting with the player with the least points and and ending with the player with the most points.
 
 ## Affiliation
 Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
