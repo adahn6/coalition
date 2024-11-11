@@ -152,7 +152,7 @@ function setLeader() {
         const cards = getState("cards")
             .filter(card => isLeader(card))
             .filter(card => card["name"].toUpperCase().startsWith(leaderName.toUpperCase()));
-        const limited = cards.slice(0, 500)
+        const limited = cards.slice(0, 10)
         datalist.innerHTML = '';
         limited.forEach((card) => {
             let option = document.createElement("option");
