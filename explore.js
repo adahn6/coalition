@@ -123,6 +123,17 @@ const displayDeckbuilder = () => {
             setColorFilter(color);
         });
     })
+    setState("showChangelings", true)
+    let button = document.createElement('input');
+    button.setAttribute('type', 'button');
+    button.setAttribute('class', 'show_changeling selected')
+    button.setAttribute('name', "show_changeling_filter");
+    button.setAttribute('value', "Show Changelings");
+    $("#show_changelings").appendChild(button);
+    button.addEventListener('click', () => {
+        setChangelingFilter();
+    });
+
 }
 
 function setColorFilter(color) {
@@ -137,6 +148,14 @@ function setColorFilter(color) {
         }
     })
     setState("colors", newColorArray);
+    setExploreResults();
+}
+
+function setChangelingFilter() {
+    document.querySelectorAll('.show_changeling').forEach(node => {
+        node.classList.toggle("selected")
+        setState("showChangelings", node.classList.contains("selected"))
+    })
     setExploreResults();
 }
 
@@ -260,10 +279,13 @@ function setExploreResults() {
     }
     const card_type = getState("selectedCardType")
     const affiliation = getState("selectedAffiliation")
-
+    const filterChangelings = getState("showChangelings")
     const cards = getState("cards").filter(card => isNonLeader(card))
         .filter(card => isAffiliated(card, affiliation))
         .filter(card => isCardType(card, card_type))
+        .filter(card => filterChangelings
+             || card["affiliations"].length < 20
+        )
         .filter(card => {
             if(getState("colors").length == 5) {
                 return true
