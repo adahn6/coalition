@@ -192,6 +192,7 @@ function setLeader() {
     setHTML($("#leader_card"), cardTemplate(leaderCardData));
 
     setSelectableAffiliations();
+    setExploreResults();
 };
 
 function setSelectableAffiliations() {
@@ -210,7 +211,13 @@ function setSelectableAffiliations() {
 
         button.setAttribute('type', 'button');
         button.setAttribute('name', 'selected_affiliation');
-        button.setAttribute('class', 'affiliation_selection')
+        if(affiliations.length == 1) {
+            setState("selectedAffiliation", attribute);
+            button.setAttribute('class', 'affiliation_selection selected')
+        } else {
+            button.setAttribute('class', 'affiliation_selection')
+        }
+        
         button.setAttribute('value', attribute);
 
         $("#affiliation_select").appendChild(button);
@@ -275,6 +282,7 @@ function setSelectedAffiliation(attribute) {
 
 function setExploreResults() {
     if (getState("selectedCardType") == null || getState("selectedAffiliation") == null) {
+        setHTML($("#cards_display"), "");
         return;
     }
     const card_type = getState("selectedCardType")
