@@ -4,8 +4,11 @@
 }
 
 html {
-  --background: #333;
-  --text: #ccc;
+  --backgroundr: 23;
+  --backgroundg: 24;
+  --backgroundb: 28;
+  --background: rgba(var(--backgroundr), var(--backgroundg), var(--backgroundb), 0.95);
+  --text: #dbdbdb;
   --border-radius: 3px;
   --standard-spacing: 5px;
 }
@@ -94,7 +97,7 @@ details>summary::-webkit-details-marker {
 }
 
 .rules {
-  background: #444;
+  background: rgba(var(--backgroundr), var(--backgroundg), var(--backgroundb), 0.7);
   color: var(--text);
 }
 
@@ -103,7 +106,7 @@ details>summary::-webkit-details-marker {
   border-radius: var(--border-radius);
   padding: var(--standard-spacing);
   margin-bottom: var(--standard-spacing);
-  background: #444;
+  background: rgba(var(--backgroundr), var(--backgroundg), var(--backgroundb), 0.05);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 4px;
 }
@@ -162,13 +165,15 @@ summary {
 
 .card.compatible {
   min-height: 420px;
-  background: #444;
+  background: rgba(var(--backgroundr), var(--backgroundg), var(--backgroundb), 0.05);
   max-width: 250px;
-  text-align: center
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 4px;
 }
 
 .card.valid {
-  background: #444;
+  background: rgba(var(--backgroundr), var(--backgroundg), var(--backgroundb), 0.05);
   text-align: center
 }
 
@@ -178,7 +183,7 @@ summary {
 }
 
 .card.badaffiliation {
-  background: #444;
+  background: rgba(var(--backgroundr), var(--backgroundg), var(--backgroundb), 0.05);
   border: 2px solid #990000;
   text-align: center
 }
