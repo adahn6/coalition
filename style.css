@@ -104,6 +104,30 @@ details>summary::-webkit-details-marker {
   padding: var(--standard-spacing);
   margin-bottom: var(--standard-spacing);
   background: #444;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 4px;
+}
+
+.explainer {
+  border: 2px solid #666;
+  border-radius: var(--border-radius);
+  padding: var(--standard-spacing);
+  margin-bottom: var(--standard-spacing);
+  background: #444;
+  text-align: justify;
+  padding-left: 25px;
+  padding-right: 25px;
+  min-height: 550px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 4px;
+}
+
+.explainer label {
+  display: block;
+  font-weight: bold;
+  width: 50%;
+  margin: auto;
+  text-align: center;
 }
 
 .formgroup.inline {
