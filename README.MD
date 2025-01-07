@@ -1,7 +1,7 @@
 # Coalition Format
 Coalition is a fast, high-power multiplayer format about leading creature coalitions into battle. Choose a legendary creature as a coalition [leader](#leaders), then build a 60-card deck plus sideboard around one of its creature type [affiliations](#affiliation).
 
-Coalition is played as a match of three games in which players compete for the most [victory points](#victory-points). Players earn victory points up to 21 victory points from combat damage to opponents. Reaching 21 victory points wins the game (and winning the game through any means sets the winner to 21 victory points). Regardless of winning or losing a game, every player adds all victory points they earned to their ranking, and the winner of the match is the player with the highest ranking at the end of the third game. 
+Coalition is played as a match of three games in which players compete for the most [victory points](#victory-points). Players earn victory points equal to the combat damage they deal to opponents-- reaching 21 victory points immediately wins the game. At the end of each game, each player adds all victory points they earned during the game to their ranking; the winner of the match is the player with the highest ranking at the end of the third game. 
 
 Coalition remixes a lot of elements from other formats into its own unique spin on Magic. It's fast and consistent, like high power sixty card formats, but balanced by deckbuilding and affiliation restrictions. Coalition leaders seem similar to commanders, but the mechanical differences open up very different playstyles. The three-game structure adds sideboard opportunities, and also adds a fun archenemy dynamic. Give it a try-- we think you'll have a blast. 
 
@@ -27,7 +27,7 @@ A card's **affiliations** is shorthand for the set of creature types it is affil
 ## Victory points
 Every player starts each game at zero victory points and can earn up to 21 per game for combat damage dealt to opponents. Any player who reaches 21 victory points immediately wins the game; and [winning through any other means](https://scryfall.com/card/tsb/91/coalition-victory) grants the winner a final count of 21 victory points.
 
-**At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. 
+**At the end of each game, each player adds all victory points they acquired to their overall ranking**. Players are ranked from most to least in order, and the rankings at the end of game three are the final results used to determine placement. In the rare case of a tie, the player with the highest life total at the end of the third game wins. 
 
 > [!TIP] 
 > The ranking system here is very important, your victory points matter even if the game doesn't go your way! A deck that loses all three games but consistently racks up victory points may win the overall match, so don't get discouraged if you lose but still got a few good plays in.
