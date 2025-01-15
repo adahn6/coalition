@@ -1,0 +1,230 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
+
+.cubes {
+  display: flex;
+}
+
+.tooltip img {
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+
+@media screen and (max-width: 767px) {
+   .explainerimage img{
+        visibility: hidden;
+        width: 0;
+        height: 0;
+  }
+
+  .tooltip {
+    max-width: 250px;
+  }
+
+  .tooltip img {
+    visibility:visible; 
+    display:block;
+    width: 100%;
+    height: auto;
+    padding-bottom: 15px;
+  }
+
+  .cubes {
+    flex-direction: column;
+  }
+
+  .cube {
+    width: 100% !important;
+  }
+
+  .explainers {
+    flex-direction: column;
+  }
+
+  .explainer {
+    width: 100% !important;
+  }
+  .explainerimage {
+    width: 100% !important;
+  }
+}
+.cube {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+}
+
+.cube > .title {
+  text-align: center;
+}
+
+.cube > .description {
+  text-align: center;
+}
+
+.explainers {
+    display: flex;
+  }
+
+.explainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 77%;
+}
+
+.explainerimage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+}
+
+.explainer > .title {
+    text-align: center;
+}
+
+.explainer > .description {
+    text-align: center;
+}
+
+/* all CSS below this is purely for style */
+/* try deleting it */
+* { 
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background:#1f1f1f;
+  font-family:"Anonymous Pro";
+  color:#dddbd4;
+  font-size:14pt;
+  padding:0 8px
+}
+
+#main {
+  max-width: 1200px;
+}
+
+p {
+  margin: 16px 5%;
+}
+
+div {
+  padding: 8px;
+  border-radius: 4px; 
+}
+
+h1 {
+  color: #FFB347;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+}
+
+.container {
+  border: 2px solid #FFB347;
+  padding: 16px;
+}
+
+.cube {
+  background: #242323;
+  margin: 4px;
+}
+
+.cube > .title {
+  color: #FFB347;
+  font-weight: bold;
+}
+
+.explainers {
+    background: #242323;
+    margin-bottom: 15px;
+  }
+  
+  
+.explainer > .title {
+color: #FFB347;
+font-weight: bold;
+}
+
+.explainerimage img {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+}
+
+.explainerimage table {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+#hide {
+    background: #242323;
+}
+
+.explainerimage td {
+    border: 1px solid #FFB347;
+    background: #dddbd4;
+    color: #242323;
+}
+
+.explainerimage th {
+    color: #242323;
+    background: #FFB347;
+}
+
+#winner {
+    font-weight: bold;
+    color: black;
+}
+
+.selected {
+    color: #242323;
+    background: #FFB347;
+}
+a {
+    text-decoration: none;
+    color: #dddbd4;
+}
+
+hr {
+    color: #dddbd4;
+}
+
+.tooltip {
+    border: 1px solid #FFB347;
+    font-weight: bold;
+    font-size: 80%;
+    text-align: center;
+    background: rgba(221, 219, 212, .6);
+    color: #242323;
+    max-width: 400px;
+}
+
+.deckexplainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.deckexplainer div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+  }
+
