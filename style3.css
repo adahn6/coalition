@@ -11,7 +11,7 @@
 }
 
 
-@media screen and (max-width: 48em) {
+@media screen and (max-width: 767px) {
    .explainerimage img{
         visibility: hidden;
         width: 0;
