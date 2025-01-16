@@ -124,17 +124,24 @@
 }
 
 body {
-  display: flex;
-  justify-content: center;
   background:#1f1f1f;
   font-family:"Anonymous Pro";
   color:#dddbd4;
   font-size:14pt;
-  padding:0 8px
+  padding:0 8px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 #main {
+  display: flex;
   max-width: 1200px;
+}
+
+footer {
+  width: 725px;
+  margin: 32px 0;
 }
 
 p {
