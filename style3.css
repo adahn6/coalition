@@ -164,6 +164,14 @@ nav > a.selected {
     margin: var(--standard-size) auto;
   }
 
+  .menu > .column > a {
+    text-decoration: none;
+  }
+
+  .menu > .selected > a {
+    color: var(--standard-bg);
+  }
+
 
 /* explainer */
 .explainer {
@@ -327,4 +335,8 @@ a {
 
 .banlist dd{
     margin-bottom: 15px;
+}
+
+.banlist ul, li{
+    margin: 8px;
 }
