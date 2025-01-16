@@ -148,6 +148,22 @@ nav > a.selected {
   margin-bottom: var(--standard-size);
 }
 
+/* menu selector styling */
+.menu > .column {
+    background: var(--standard-bg);
+    padding: var(--standard-size);
+    margin: var(--standard-size) auto;
+    max-height: 10px;
+    border-radius: var(--border-radius);
+  }
+
+  .menu > .selected {
+    background: #FFB347;
+    color: var(--standard-bg);
+    padding: var(--standard-size);
+    margin: var(--standard-size) auto;
+  }
+
 
 /* explainer */
 .explainer {
@@ -302,4 +318,13 @@ dt {
 
 a {
     color: #dddbd4;
+}
+
+.banlist {
+    margin: 16px 5%;
+}
+
+
+.banlist dd{
+    margin-bottom: 15px;
 }
