@@ -185,7 +185,13 @@ nav > a.selected {
 
 .explainer > .card > img {
   max-width: 300px;
-  height: 100%;
+  aspect-ratio: auto;
+}
+
+.tooltip > img {
+    height: 0;
+    width: 0;
+    visibility:hidden;
 }
 
 @media screen and (max-width: 767px) {
@@ -205,6 +211,25 @@ nav > a.selected {
     margin-top: 0;
     padding-bottom: var(--standard-size);
   }
+
+  .tooltip {
+    width: 300px;
+  }
+
+  .tooltip > img {
+    visibility:visible; 
+    display:block;
+    width: 100%;
+    height: auto;
+    margin:auto;
+    padding-bottom: 15px;
+  }
+  .explainer > .card > img {
+    visibility: hidden;
+    width: 0;
+    height: 0;
+  }
+
 }
 
 .explainer > .card table {
@@ -215,6 +240,7 @@ nav > a.selected {
     border: 1px solid #FFB347;
     background: #dddbd4;
     color: var(--standard-bg);
+    text-align: center;
 }
 
 .explainer > .card td.winner {
@@ -225,10 +251,17 @@ nav > a.selected {
 .explainer > .card th {
   color: var(--standard-bg);
   background: #FFB347;
+  padding: 5px;
 }
 
 .explainer > .card thead th:first-child {
   background: var(--standard-bg);
+}
+
+.explainer > .card tr th:first-child {
+    background: var(--standard-bg);
+    color: #dddbd4;
+    font-weight: normal;
 }
 
 .explainer > .card > .deck-explainer {
@@ -259,9 +292,14 @@ dt {
 .tooltip {
     border: 1px solid #FFB347;
     font-weight: bold;
+    padding: 3px;
     font-size: 80%;
     text-align: center;
     background: rgba(221, 219, 212, .6);
     color: var(--standard-bg);
     max-width: 400px;
+}
+
+a {
+    color: #dddbd4;
 }
