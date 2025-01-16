@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Coalition Format</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='stylesheet' href='style3.css' />
+  </head>
+
+  <body>
+    <div id='main'>
+        <nav>
+        <a href="test.html">
+          Learn
+        </a>
+
+        <a href="build.html">
+          Build
+        </a>
+
+        <a href="play.html">
+          Play
+        </a>
+
+        <a href="banlist.html" class='selected'>
+          FAQ
+        </a>
+        </nav>
+        <div id='content'>
+            <div class='intro'>
+                <img width="350" src="/images/coalition_logo.png" />
+                <p>
+                    Banlists, frequently-asked questions, formal rules, and more.
+                </p>
+            </div>
+            <div class='columns menu'>
+                <div class='column'>
+                  <a href="banlist.html">
+                  <div>
+                    Banlist
+                  </div>
+                </a>
+                </div>
+                <div class='column selected'>
+                  <a href="faq.html">
+                  <div>
+                    Frequently Asked Questions
+                  </div>
+                </a>
+                </div>
+                <div class='column'>
+                  <a href="rules.html">
+                  <div>
+                    CR Rules
+                  </div>
+                </a>
+                </div>
+                <div class='column'>
+                  <a href="reference.html">
+                  <div>
+                   Reference
+                  </div>
+                </a>
+                </div>
+            </div>
+            <div class='explainer' id="banlist">
+                <div class='info box'>
+                    <h2>Frequently Asked Questions</h2>
+                    <p>This section addresses commonly asked questions about the format and are all based on real conversations had with players.
+                    <div class="banlist">
+                        <dl>
+                            <dt>Aren't there already too many formats for Magic?</dt>
+                            <dd>We get it: many players are jaded and uninterested in learning yet another variation of rules. No one will hold it against you for not being into this format. But please know that significant care has been put into this format before debut with the goal of designing a new and fun way to play. Playtesting has been ongoing for over a year. Many, many, many cards have been reviewed and inspected. Rules have been tweaked, tossed, rewritten, and rethought. Existing decks from many eras of many formats have been adapted and transformed. We think the end result is really something special. And if you give it a shot, Coalition may surprise you with what it brings to the table.</dd>  
+                            <dt>Why isn't this just a Commander variant?</dt>
+                            <dd>The overall goal of this format is to provide a different multiplayer format from Commander. Coalition's leaders may superficially resemble commanders, but they play much closer to a companion... and there's plenty different beyond just that. Try it out-- the differences become clear quickly when playing.</dd>
+                            <dt>Does it have to be 4 players?</dt>
+                            <dd>No, Coalition's rules make the playgroup count somewhat flexible. It's been playtested as 3-5 with reasonable success. However, your playgroup may want to adjust the victory point count for different players, as keeping the games dynamic but also within about 30 minutes is an important to the match structure. The four person pod with 21 victory points is just the recommended defaults, and balance is tuned for it.</dd>
+                            <dt>Does this have to be played competitively?</dt>
+                            <dd>Nope! If your playgroup wants to play at lower power levels (for example, excluding pitch spells like Force of Will, or faster lands like Ancient Tomb) that's totally fine, and you'll be able to have fun. Just keep in mind the ban list and rules guidances are written based on high power competitive play patterns, so you'll want to make sure everyone in your play group is on the same page about any assumptions beyond that.</dd>
+                            <dt>Why not allow other legendary cards?</dt>
+                            <dd>The choice of legendary creature should really be something special, not just another card in the deck that you happen to have easy access to. To that end, removing other legendary cards helps increase its significance. Equally importantly, this format gives quite a lot of consistent power to decks by allowing once a turn unpenalized access to a legendary creature card; as a tradeoff for balance, access to other powerful cards must be restricted or the format would be much less enjoyable.</dd>
+                            <dt>Why does affiliation count more than just a creature's type?</dt>
+                            <dd>There are plenty of creatures that synergize with creatures outside of their type-- for example, many Artificers create Servos. Checking the entire text of a card allows for cards intended to synergize with each other to be played together.</dd>
+                            <dt>Why does affiliation apply to non-creature cards?</dt>
+                            <dd>There are plenty of deck archetypes that would run, as one example, <a href="https://scryfall.com/card/uma/238/celestial-colonnade">Celestial Colonnade</a> or its equivalents to get around the affiliation restrictions. Keeping those restrictions as wide as possible mean that the everyone, no matter what deck archetypes they're trying to build, has to pay close attention to the affiliation choice and what cards it enables or disables.</dd>
+                            <dt>Why not have affiliation restrictions build similarly to color identity, where any card can be run as long as the type as mentioned on the coalition leader?</dt>
+                            <dd>The restriction of a single affiliation is much more straightforward to understand.</dd>
+                            <dt>Why can't I choose Human affiliation for my deck?</dt>
+                            <dd>Primarily, because Humans have the most cards printed by quite a large margin. This gap (almost 4x the second most printed types, and 10x or more for many others) creates a incentive to choose them simply for maximum deckbuilding options. This incentive goes against the spirit of the format's deckbuilding and is thus banned. But additionally, many creature types have intentional mechanical synergies-- Humans lack this and are much closer to a default creature type.</dd>
+                            <dt>Why do decks not just use highlander/singleton restrictions like Commander formats, or the same 4x restrictions for most 60 card formats?</dt>
+                            <dd>Even at 60 cards, singleton automatically makes many coalition type choices impossible as many creature types just don't have enough creatures worth putting into a deck. Furthermore, this format is born from a love of 60 card playstyles; while 60 card 4x decks are terrific for 1v1 formats, they're just too consistent and powerful for multiplayer. The split 4x/1x is designed to provide plenty of variation across multiple games, but still provide some of the consistency and power of 60 card formats.</dd>
+                            <dt>Why have a custom victory condition instead of just using normal rules?</dt>
+                            <dd>Firstly, it reinforces a focus on the creatures themselves, especially the nonlegendary ones that make up the backbone of a deck. Secondly, it provides an on-the-table clear indicator to all players of the standings- this element introduces an interesting dynamic that allows for quantifying the table's threats differently than other formats. And lastly, the three-game structure is essentially impossible for a multiplayer format under normal rules and victory points solve this.</dd>
+                            <dt>Can't the victory point ranking lead to ties?</dt>
+                            <dd>Any game of Magic can already end in a draw, and it doesn't happen particularly often in this format.</dd>
+                            <dt>Doesn't the victory point system exclude play styles?</dt>
+                            <dd>Winning guarantees 21 victory points, so you can try to win with any method you want. However, if you solely rely on an alternate win condition without accruing victory points during the match, you're taking on a lot of risk-- secure the win and you're fine, but you'll be much further behind if you lose. In general, this keeps the pressure on high-powered multi card combos: it's possible to run them and win a single game, but it'll take creativity, skill, and some luck to make that work often enough to win you the entire match.</dd>
+                            <dt>How can this possibly be balanced / why is [rule or restriction] in place / isn't [some combo] overpowered / why isn't [card] banned?</dt>
+                            <dd>It's a primary goal of Coalition to allow big plays and powerful cards while making combat damage a first class win condition-- this keeps games moving fast so all three games can be played. To that end, the overpowered combo or powerful card is a feature, not a bug. With three other players at the table, sideboarding allowed, and victory points from all players carried into rankings at the end of games, it's kept more in check than you may realize. That being said, rule changes or bans may be necessary in future, but only after significant evidence has shown it to be necessary. Please understand that significant care has gone into playtesting and cross-examining the current format definition, they were not thrown together without thought.</dd>
+                        </dl>
+                    </div>   
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Coalition format is <i>unaffiliated</i> with Wizards of the Coast.</p>
+        <p>Unofficial content: Coalition format is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>
+    </footer>
+  </body>
+</html>
