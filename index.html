@@ -1,46 +1,331 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
-<head>
+  <head>
     <title>Coalition Format</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel='stylesheet' href='style3.css' />
+  </head>
 
-    <link rel='stylesheet' href='reset.css' />
-    <link rel='stylesheet' href='style.css' />
-    <link rel='stylesheet' href='almostgithub.css' />
-    <link rel='stylesheet' href='lists.css' />
-</head>
+  <body>
+    <div id='main'>
+      <nav>
+        <a href="index.html" class='selected'>
+          Learn
+        </a>
 
-<header>
-    <div class="banner">Coalition Format</div>
-</header>
+        <a href="build.html">
+          Build
+        </a>
 
-<body>
-    <ul class="column__list">
-        <li class="column__item">
-            <div class="choice" id="home">Home</div>
-        </li>
-        <li class="column__item">
-            <div class="choice" id="deckbuilder">Deck Builder</div>
-        </li>
-        <li class="column__item">
-            <div class="choice" id="validator">Deck Validator</div>
-        </li>
-        <li class="column__item">
-            <div class="choice" id="banlist">Banlist and FAQ</div>
-        </li>
-        <li class="column__item">
-            <div class="choice" id="rules">Rules</div>
-        </li>
-    </ul>
+        <a href="play.html">
+          Play
+        </a>
 
-    <div id="content">
+        <a href="banlist.html">
+          FAQ
+        </a>
+      </nav>
+
+      <div id='content'>
+        <div class='intro'>
+          <img width="350" src="/images/coalition_logo.png" />
+
+          <p>
+            A fast, high-power multiplayer format about creatures, combat, cooperation, and competition
+          </p>
+        </div>
+        <div class='box' id="overview">
+          <h2>Overview</h2>
+          <p>
+            Coalition is an eternal multiplayer format for Magic: The Gathering. To play, you'll choose a legendary creature as a <a href="#leaders">coalition leader</a>, then build a 60-card deck plus sideboard around one of its creature type <a href="#affiliation">affiliations</a>.
+          </p>
+  
+          <p>
+            Coalition is played as a match of three games in which players compete for the most <a href="#victorypoints">victory points</a>. Players earn victory points equal to the combat damage they deal to opponents-- reaching 21 victory points immediately wins the game. At the end of each game, each player adds all victory points they earned during the game to their ranking. The player with the highest ranking at the end of the match wins.
+          </p>
+  
+          <p>
+            Coalition remixes a lot of elements from other formats into its own unique spin on Magic. Give it a try-- we think you'll have a blast.
+          </p>
+        </div>
+
+        <div class='columns'>
+          <div class='column box'>
+            <div class='title'>
+              <i class="nf nf-fa-user_large"></i>
+              <i class="nf nf-fa-user_large"></i>
+              <i class="nf nf-fa-user_large"></i>
+              <i class="nf nf-fa-user_large"></i>
+            </div>
+
+            <div>
+              Each match has four players.
+            </div>
+          </div>
+
+          <div class='column box'>
+            <div class='title'>
+              <i class="nf nf-md-heart_circle"></i>
+            </div>
+
+            <div>
+              Players start each game with 25 life.
+            </div>
+          </div>
+
+          <div class='column box'>
+            <div class='title'>
+              <i class="nf nf-md-cards_outline"></i>
+            </div>
+
+            <div>
+              Each deck has 60 cards with a 15 card sideboard.
+            </div>
+          </div>
+
+          <div class='column box'>
+            <div class='title'>
+              <i class="nf nf-oct-stopwatch"></i>
+              <i class="nf nf-oct-stopwatch"></i>
+              <i class="nf nf-oct-stopwatch"></i>
+            </div>
+
+            <div>
+              Each match is three games around 30 minutes each.
+            </div>
+          </div>
+        </div>
+
+        <div class='explainer' id="affiliation">
+          <div class='info box'>
+            <h2>Affiliation</h2>
+            <p>
+              Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text.
+            </p>
+
+            <p>
+              As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
+            </p>
+            
+            <div class='tooltip'>
+              <img src="https://cards.scryfall.io/large/front/6/3/6394a522-37bb-4cf3-b434-5121c8000ac6.jpg" />
+              <span>
+                <a href="https://scryfall.com/card/lcc/83/master-of-dark-rites">Master of Dark Arts</a> is afffiliated with Vampires, Clerics, and Demons.
+              </span>
+            </div>
+          </div>
+
+          <div class='card'>
+            <img src="https://cards.scryfall.io/large/front/6/3/6394a522-37bb-4cf3-b434-5121c8000ac6.jpg" />
+          </div>
+        </div>
+
+        <div class='explainer' id="leaders">
+          <div class='card'>
+            <img src="https://cards.scryfall.io/large/front/e/7/e71c8c39-3fbb-4a42-9cf6-b3224f5a56fc.jpg" />
+          </div>
+
+          <div class='info box'>
+            <h2>Leaders</h2>
+            <p>
+              Your coalition's leader is any legendary creature. It starts outside the game in your sideboard, and once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack.
+            </p>
+
+            <p>
+              Leaders also have similar state-based actions and replacement effects to commanders-- they can be removed from the game again if they would transition zones.
+            </p>
+
+            <div class="tooltip">
+                Leader cards have many uses when in hand: cast them, discard them for a reanimate effect, use them to pay for pitch spell... it's up to you!
+            </div>
+          </div>
+        </div>
+
+        <div class='explainer' id="victorypoints">
+          <div class='info box'>
+            <h2>Victory Points</h2>
+            <p>
+              Players start each game at zero victory points and earn victory points equal to the combat damage they deal to opponents. Any player who reaches 21 victory points immediately wins the game; and winning through any other means grants the winner a final count of 21 victory points.
+            </p>
+
+            <p>
+              At the end of each game, each player adds all victory points they earned during the game to their ranking. The player with the highest ranking at the end of the match wins.
+            </p>
+          </div>
+
+          <div class='card'>
+            <div>
+              <table>
+                <thead>
+                  <tr>
+                    <th></th>
+                    <th>Alice</th>
+                    <th>Nancy</th>
+                    <th>Timmy</th>
+                    <th>Spike</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                  <tr>
+                    <th>Game1</th>
+                    <td>12</td>
+                    <td>14</td>
+                    <td>21</td>
+                    <td>4</td>
+                  </tr>
+
+                  <tr>
+                      <th>Game2</th>
+                      <td>7</td>
+                      <td>16</td>
+                      <td>8</td>
+                      <td>21</td>
+                  </tr>
+
+                  <tr>
+                      <th>Game3</th>
+                      <td>21</td>
+                      <td>13</td>
+                      <td>10</td>
+                      <td>3</td>
+                  </tr>
+                </tbody>
+
+                <tfoot>
+                  <tr>
+                    <th>Total</th>
+                    <td>40</td>
+                    <td class='winner'>43</td>
+                    <td>39</td>
+                    <td>28</td>
+                  </tr>
+                </tfoot>
+              </table>
+            </div>
+
+            <div class='tooltip'>Never give up-- Nancy wins this match even though she never wins a single game!</div>
+          </div>
+        </div>
+
+        <div class='explainer'>
+          <div class='info box'>
+            <h2>Deck Format</h2>
+            <p>
+                The format for Coalition decks is decks of 60 cards with a 15 card sideboard. Creatures and non-basic land cards may be included up to four times, counted by their English card title equivalent. There are no limits on basic lands. All other cards may be included only once, counted by their English card title equivalent.
+            </p>
+
+            <h2>Restrictions</h2>
+            <ul>
+              <li>No cards from the <a href="banlist.html">banned cards list</a></li>
+
+              <li>One legendary creature is chosen as the deck's coalition leader
+                <ul>
+                  <li>
+                    No legendary cards other than your coalition's leader. This restriction applies to both sides of any double-faced cards, e.g. Westvale Abbey may not be run in any deck
+                  </li>
+
+                  <li>
+                    The legendary creature must be a legendary creature on the front side of the card
+                  </li>
+                </ul>
+              </li>
+
+              <li>A single creature type is chosen as the coalition type
+                <ul>
+                    <li>
+                      This type must be chosen from the legendary creature's affiliations
+                    </li>
+
+                    <li>
+                      All cards in the deck must be affiliated with the chosen coalition type or be unaffiliated
+                    </li>
+
+                    <li>
+                      Human may not be chosen as the coalition type
+                    </li>
+                </ul>
+              </li>
+
+              <li>No companion</li>
+            </ul> 
+          </div>
+
+          <div class='card'>
+            <div class='deck-explainer'>
+              <div class='icons'>
+                <i class='nf nf-fa-paw'></i>
+                <i class='nf nf-fa-paw'></i>
+                <i class='nf nf-fa-paw'></i>
+                <i class='nf nf-fa-paw'></i>
+              </div>
+
+              <div class='info'>
+                4x Creatures
+              </div>
+            </div>
+
+            <div class='deck-explainer'>
+              <div class='icons'>
+                <i class='nf nf-fae-mountains'></i>
+                <i class='nf nf-fae-mountains'></i>
+                <i class='nf nf-fae-mountains'></i>
+                <i class='nf nf-fae-mountains'></i>
+              </div>
+
+              <div class='info'>
+                4x Lands
+              </div>
+            </div>
+
+            <div class='deck-explainer'>
+              <div class='icons'>
+                <i class='nf nf-fa-asterisk'></i>
+              </div>
+
+              <div class='info'>
+                1x Others
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class='box'>
+          <h2>Other Game Mechanics</h2>
+          <dl>
+            <dt>Turn Order</dt>
+            <dd>
+              For game 1, randomly determine the turn order. For games 2 and 3, use the inverse of the players current rankings, e.g. the player with the least victory points goes first, the player with the next least goes second, etc. In the case of ties, the player had a lower turn ranking in the previous game should go before the other.
+            </dd>
+
+            <dt>Mulligans</dt>
+            <dd>
+              There is no free mulligan
+            </dd>
+
+            <dt>First player draw</dt>
+            <dd>
+              Like other multiplayer formats, the first player does draw a card.
+            </dd>
+
+            <dt>Conceding</dt>
+            <dd>
+              While a player may still concede at any time for any reason, conceding automatically invalidates their victory points for that match. The player's ranking is set to 0, and they are removed from any remaining games in the match. As an exception to this rule, if all opponents of a player wish to concede a game simultaneously, this rule does not apply and it is simply as if the player being conceded to had won through any other method.
+            </dd>
+          </dl>
+        </div>
+      </div>
     </div>
 
-    <script src="index.js" type='module'></script>
-    <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
-</body>
+    <footer>
+        <p>Coalition format is <i>unaffiliated</i> with Wizards of the Coast.</p>
 
+        <p>Unofficial content: Coalition format is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>
+    </footer>
+  </body>
 </html>
