@@ -4,6 +4,10 @@ function mapAttributes(attributes) {
   return attributes.map(attr => getState("creature_types")[attr]);
 }
 
+function getCreatureTypes() {
+  return Object.values(getState("creature_types"))
+}
+
 function getCard(cardName) {
   return getState("cards").find(el => (el["name"] === cardName));
 }
@@ -70,7 +74,14 @@ function isLegendary(card) {
 }
 
 function isCardType(card, cardType) {
-  return card["types"].includes(getCardTypeId(cardType))
+  if(cardType === "Leader") {
+    return isLeader(card)
+  } else {
+    if(isLeader(card)) {
+      return false;
+    }
+    return card["types"].includes(getCardTypeId(cardType))
+  }
 }
 
 function isAffiliated(card, creatureType) {
@@ -84,20 +95,6 @@ function getCardHtmlLink(card) {
   return "<a href='https://scryfall.com/cards/" + card["uri"] + "' target='_blank'>" + card["name"] + "</a>"
 }
 
-async function prepareHome() {
-  const welcome = await fetch('./README.MD').then(response => response.text());
-  setState("welcome", welcome)
-}
-
-async function prepareDocs() {
-  const banlist = await fetch('./BANLIST.MD').then(response => response.text());
-  const faq = await fetch('./FAQ.MD').then(response => response.text());
-  const rules = await fetch('./RULES.MD').then(response => response.text());
-  setState("banlist", banlist)
-  setState("faq", faq)
-  setState("rules", rules)
-}
-
 async function prepareData() {
   const cards = await fetch('data.json').then(response => response.json());
   const creatureTypes = await fetch('creature_types.json').then(response => response.json());
@@ -109,4 +106,4 @@ async function prepareData() {
   setState("legalities", legalities)
 };
 
-export { prepareHome, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, prepareDocs, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { getCreatureTypes, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };

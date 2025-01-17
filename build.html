@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Coalition Format</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel='stylesheet' href='style3.css' />
+  </head>
+
+  <body>
+    <div id='main'>
+      <nav>
+        <a href="test.html">
+          Learn
+        </a>
+
+        <a href="build.html" class='selected'>
+          Build
+        </a>
+
+        <a href="play.html">
+          Play
+        </a>
+
+        <a href="banlist.html">
+          FAQ
+        </a>
+      </nav>
+
+      <div id='content'>
+        <div class='intro'>
+        <img width="350" src="/images/coalition_logo.png" />
+        <p>
+            Tools for deckbuilding
+        </p>
+        </div>
+        <p>The following tool helps find affiliated cards -- it is provided as-is and may occasionally misinterpret card text. Please submit any issues to the Discord.</p>
+        <div class="columns" id="deckbuilder">
+            <div class='column'>
+                <div id="coalition_type_input" class="column">
+                    <input
+                        name="coalition type"
+                        type='text'
+                        id="coalitiontype"
+                        placeholder="enter a creature type"
+                        list="creature_types"
+                    />
+                    <datalist id="creature_types"></datalist>
+                </div>
+                <div class="column selections">
+                        <select class="card_type_selection" name="selected_card_type" list="card_types" value="Leader">
+                            <option value="Leader">Leaders</option>
+                            <option value="Creature">Creatures</option>
+                            <option value="Artifact">Artifacts</option>
+                            <option value="Enchantment">Enchantments</option>
+                            <option value="Instant">Instants</option>
+                            <option value="Sorcery">Sorceries</option>
+                            <option value="Battle">Battles</option>
+                            <option value="Land">Lands</option>
+                        </select>
+                        sorted by 
+                        <select class="sort_type_selection selected" name="selected_sort_type" value="Mana Value">
+                            <option value="mana_value">Mana Value</option>
+                            <option value="name">Name</option>
+                        </select>
+                        :
+                        <select class="sort_direction_selection" name="selected_sort_direction" value="Ascending" list="sort_order">
+                            <option value="ascending">Ascending</option>
+                            <option value="descending">Descending</option>
+                        </select>
+                </div>
+                <div class="column filters">
+                    <input type="button" class="color_filter selected" name="select_color_filter" value="W" />
+                    <input type="button" class="color_filter selected" name="select_color_filter" value="U" />
+                    <input type="button" class="color_filter selected" name="select_color_filter" value="B" />
+                    <input type="button" class="color_filter selected" name="select_color_filter" value="R" />
+                    <input type="button" class="color_filter selected" name="select_color_filter" value="G" />
+                    <input type="button" class="show_changeling" name="show_changeling_filter" value="Show Changelings" />
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="columns" id='cards_display'>
+        </div>
+    </div>
+    </div>
+    <script src="build.js" type='module'></script>
+    <footer>
+        <p>Coalition format is <i>unaffiliated</i> with Wizards of the Coast.</p>
+        <p>Unofficial content: Coalition format is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>
+    </footer>
+  </body>
+</html>

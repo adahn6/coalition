@@ -340,3 +340,71 @@ a {
 .banlist ul, li{
     margin: 8px;
 }
+
+.cardinfo img {
+  max-width: 200px;
+}
+#cards_display {
+  flex-wrap: wrap;
+}
+
+#deckbuilder > .column {
+  width: 100%;
+  min-width: 400px;
+}
+
+input,
+textarea, select {
+  background: var(--background);
+  color: var(--text);
+  border-style: solid;
+  border-radius: var(--border-radius);
+  padding: var(--standard-spacing);
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding:10px;
+}
+
+#coalition_type_input {
+  margin-bottom: 20px;
+}
+
+input, select {
+  background: url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0ye2ZpbGw6IzQ0NDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmFycm93czwvdGl0bGU+PHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjEuNDEgNC42NyAyLjQ4IDMuMTggMy41NCA0LjY3IDEuNDEgNC42NyIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIzLjU0IDUuMzMgMi40OCA2LjgyIDEuNDEgNS4zMyAzLjU0IDUuMzMiLz48L3N2Zz4=) no-repeat 95% 50%;
+  -moz-appearance: none; 
+  -webkit-appearance: none; 
+  appearance: none;
+  outline: none;
+  margin: 0;
+  font-family: inherit;
+  font-size: 90%;
+  cursor: inherit;
+  border: 1px solid #FFB347;
+  border-radius: 0.25em;
+  cursor: pointer;
+}
+
+.selections input, select {
+  min-width: 120px;
+  max-height: 30px;
+  line-height: 1;
+  padding: 0.25em 1em;
+}
+
+.filters input {
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.filters > .selected {
+  background: #FFB347;
+  color: var(--standard-bg)
+}
+
+.box > h2 {
+  text-align: center;
+}
+

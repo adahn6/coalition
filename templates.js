@@ -14,12 +14,12 @@ const cardTemplate = (card) => {
   }
 
   return `
-      <div class='card compatible'>
+      <div class='column cardinfo box'>
         <img src='https://cards.scryfall.io/large/front/${card['image']}' />
-        <div class='card--name'>
+        <div class='name'>
           <a href='https://scryfall.com/cards/${card["uri"]}' target='_blank'>${card["name"]}</a>
         </div>
-        <div class='card--affiliations'>
+        <div class='affiliations'>
         ${affiliations}
         </div>
       </div>
