@@ -408,3 +408,11 @@ input, select {
   text-align: center;
 }
 
+footer a {
+  padding: 8px;
+  margin: 8px;
+  text-decoration: none;
+  color: #FFB347;
+  background-color: var(--standard-bg);
+  border-radius: var(--border-radius);
+}
