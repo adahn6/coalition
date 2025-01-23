@@ -126,7 +126,6 @@ function setExploreResults() {
         setHTML($("#cards_display"), "");
         return;
     }
-    console.log(getState("colors"))
     const cardType = getState("selectedCardType")
     const affiliation = getState("affiliation")
     const filterChangelings = getState("showChangelings")
@@ -152,18 +151,42 @@ function setExploreResults() {
         .sort((card1, card2) => {
             if (getState("sortType") === "mana_value") {
                 if (getState("sortDirection") === "ascending") {
-                    return card1["manaValue"] > card2["manaValue"]
+                    if(card1["manaValue"] > card2["manaValue"]) {
+                        return 1
+                    } else if (card1["manaValue"] < card2["manaValue"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                 }
                 else {
-                    return card1["manaValue"] < card2["manaValue"]
+                    if(card1["manaValue"] < card2["manaValue"]) {
+                        return 1
+                    } else if (card1["manaValue"] > card2["manaValue"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                 }
             }
             else {
                 if (getState("sortDirection") === "ascending") {
-                    return card1["name"] > card2["name"]
+                    if(card1["name"] > card2["name"]) {
+                        return 1
+                    } else if (card1["name"] < card2["name"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                 }
                 else {
-                    return card1["name"] < card2["name"]
+                    if(card1["name"] < card2["name"]) {
+                        return 1
+                    } else if (card1["name"] > card2["name"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                 }
             }
         })
