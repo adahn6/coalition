@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Coalition Format</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel='stylesheet' href='style.css' />
+  </head>
+
+  <body>
+    <div id='main'>
+      <nav>
+        <a href="index.html">
+          Learn
+        </a>
+
+        <a href="build.html" class='selected'>
+          Build
+        </a>
+
+        <a href="play.html">
+          Play
+        </a>
+
+        <a href="banlist.html">
+          FAQ
+        </a>
+      </nav>
+
+      <div id='content'>
+        <div class='intro'>
+        <img width="350" src="/images/coalition_logo.png" />
+        <p>
+            Tools for deckbuilding
+        </p>
+        <div class='columns menu'>
+          <div class='column'>
+            <a href="build.html">
+            <div>
+              Find Cards
+            </div>
+          </a>
+          </div>
+          <div class='column selected'>
+            <a href="validate.html">
+            <div>
+              Validate Decklists
+            </div>
+          </a>
+          </div>
+        </div>
+        </div>
+        <div class='box'>
+        <p>The following tool validates decklists -- it is provided as-is and may occasionally misinterpret card text or rules. Please submit any issues to the Discord.</p>
+        <textarea id="decklist" placeholder="paste your decklist"></textarea>
+        </div>
+        <div id="deckinfo" class="box hidden">
+          <p><span class="deckinformation">Coalition Leader: </span><span id="coalitionleader"></span></p>
+          <p><span class="deckinformation">Coalition Type: </span><span id="coalitiontype"></span></p>
+          <div id="message" class="invaliddeck"></div>
+        </div>
+        <div class="box" id="maindeck">
+          <div class="cardlist" id="creatures"><span id="creatures">Creatures</span><ul class="decklist" id="creaturelist"></ul></div>
+          <div class="cardlist" id="instants"><span id="instants">Instants</span><ul class="decklist" id="instantlist"></ul></div>
+          <div class="cardlist" id="sorceries"><span id="sorceries">Sorceries</span><ul class="decklist" id="sorcerylist"></ul></div>
+          <div class="cardlist" id="artifacts"><span id="artifacts">Artifacts</span><ul class="decklist" id="artifactlist"></ul></div>
+          <div class="cardlist" id="enchantments"><span id="enchantments">Enchantments</span><ul class="decklist" id="enchantmentlist"></ul></div>
+          <div class="cardlist" id="battles"><span id="battles">Battles</span><ul class="decklist" id="battlelist"></ul></div>
+          <div class="cardlist" id="lands"><span id="lands">Lands</span><ul class="decklist" id="landlist"></ul></div>
+          <div class="cardlist largecolumn" id="sideboard"><span id="sideboard">Sideboard</span><ul class="decklist" id="sideboardlist"></ul></div>
+        </div>
+    </div>
+    </div>
+    <script src="validate.js" type='module'></script>
+    <footer>
+        <a class="nf nf-fa-discord" href="https://discord.gg/NwQm5m4eBT">  Join the Discord!</a>
+        <p>Coalition format is <i>unaffiliated</i> with Wizards of the Coast.</p>
+        <p>Unofficial content: Coalition format is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>
+    </footer>
+  </body>
+</html>

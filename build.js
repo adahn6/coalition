@@ -97,27 +97,11 @@ function setSelectedCardType(attribute) {
 
 function setSelectedSortType(sortType) {
     setState("sortType", sortType);
-    document.querySelectorAll('.sort_type_selection').forEach(node => {
-        if (node["value"] === sortType) {
-            node.classList.add("selected")
-        }
-        else {
-            node.classList.remove("selected")
-        }
-    })
     setExploreResults();
 }
 
 function setSelectedSortDirection(sortDirection) {
     setState("sortDirection", sortDirection);
-    document.querySelectorAll('.sort_direction_selection').forEach(node => {
-        if (node["value"] === sortDirection) {
-            node.classList.add("selected")
-        }
-        else {
-            node.classList.remove("selected")
-        }
-    })
     setExploreResults();
 }
 
@@ -158,8 +142,22 @@ function setExploreResults() {
                     } else {
                         return 0
                     }
+                    if(card1["manaValue"] > card2["manaValue"]) {
+                        return 1
+                    } else if (card1["manaValue"] < card2["manaValue"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                 }
                 else {
+                    if(card1["manaValue"] < card2["manaValue"]) {
+                        return 1
+                    } else if (card1["manaValue"] > card2["manaValue"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                     if(card1["manaValue"] < card2["manaValue"]) {
                         return 1
                     } else if (card1["manaValue"] > card2["manaValue"]) {
@@ -171,6 +169,13 @@ function setExploreResults() {
             }
             else {
                 if (getState("sortDirection") === "ascending") {
+                    if(card1["name"] > card2["name"]) {
+                        return 1
+                    } else if (card1["name"] < card2["name"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
                     if(card1["name"] > card2["name"]) {
                         return 1
                     } else if (card1["name"] < card2["name"]) {
@@ -190,6 +195,6 @@ function setExploreResults() {
                 }
             }
         })
-        .map(card => cardTemplate(card)).join('')
-    setHTML($("#cards_display"), cards);
+        .map(card => cardTemplate(card))
+    setHTML($("#cards_display"), cards.join(' '));
 }
