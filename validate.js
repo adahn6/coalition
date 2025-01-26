@@ -1,5 +1,5 @@
 import { $, getState, setHTML, setState } from './utils.js';
-import { prepareData, getCard, isAffiliated, getCreatureTypeFromId, isCardType, isBanned, isLegendary, isBasicLand, isLeader, getCardHtmlLink, isReserved } from './data.js';
+import { prepareData, getCard, isUnaffiliated, isAffiliated, getCreatureTypeFromId, isCardType, isBanned, isLegendary, isBasicLand, isLeader, getCardHtmlLink, isReserved } from './data.js';
 import { cardTemplate } from './templates.js';
 
 document.addEventListener("DOMContentLoaded", async function () {
@@ -88,7 +88,7 @@ const parseDecklist = (decklist) => {
     }
     messages = messages.filter(message => message != null)
     if (messages.length == 0) {
-        if(validCoalitionTypes.length != 1) {
+        if(validCoalitionTypes.size < 1) {
             messages.push("<p>Deck does not have a valid Coalition type! Choose a type to highligh cards not affiliated:</p>");
             displayMessages(messages)
             let select = document.createElement('select');
@@ -109,7 +109,7 @@ const parseDecklist = (decklist) => {
                 });
             setSelectedAffiliation($("#affiliation_selection").firstChild.value, leader, mainboard, sideboard)
         } else {
-            displayDeck(leader, mainboard, sideboard, validCoalitionTypes[0])
+            displayDeck(leader, mainboard, sideboard, validCoalitionTypes)
             displayMessages(messages)
         }   
     } else {
@@ -130,27 +130,27 @@ function displayDeck(leader, maindeck, sideboard, coalitionType) {
         if(isCardType(card, "Creature")) {
             creatureList.push(makeCardListItem(card, count))
         } else if(isCardType(card, "Instant")) {
-            instantList.push(`<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`)
+            instantList.push(makeCardListItem(card, count))
         } else if(isCardType(card, "Sorcery")) {
-            sorceryList.push(`<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`)
+            sorceryList.push(makeCardListItem(card, count))
         } else if(isCardType(card, "Enchantment")) {
-            enchanmentList.push(`<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`)
+            enchanmentList.push(makeCardListItem(card, count))
         } else if(isCardType(card, "Artifact")) {
-            artifactList.push(`<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`)
+            artifactList.push(makeCardListItem(card, count))
         } else if(isCardType(card, "Battle")) {
-            battleList.push(`<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`)
+            battleList.push(makeCardListItem(card, count))
         } else if(isCardType(card, "Land")) {
-            landList.push(`<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`)
+            landList.push(makeCardListItem(card, count))
         }
     })
     const sideboardList = Array()
     sideboard.forEach((count, card) => {
-        sideboardList.push(`
-            <li class="valid">${count} ${getCardHtmlLink(card)}</a></li>
-        `)
+        sideboardList.push(makeCardListItem(card, count))
     })
     setHTML($("#coalitionleader"), getCardHtmlLink(leader))
-    setHTML($("#coalitiontype"), coalitionType)
+    let coalitionTypeStrings = Array.from(coalitionType).map(typeId => getCreatureTypeFromId(typeId))
+    setHTML($("#coalitiontype"), coalitionTypeStrings.join(","))
+    
     if(creatureList.length > 0) {
         setHTML($("#creaturelist"), creatureList.join(" ")); 
         if(creatureList.length > 9) {
@@ -304,9 +304,10 @@ function checkCardLegality(card) {
 function displayMessages(messages) {
     if(messages.length == 0 || !messages) {
         setHTML($("#message"), "Deck is valid!");
+        $("#message").setAttribute("class", "validdeck");
     } else {
         setHTML($("#message"), messages.join(''));
-        $("#message").setAttribute("class", $("#message").getAttribute("class").replace("validdeck", ""));
+        $("#message").setAttribute("class", "invaliddeck");
     }
 }
 
@@ -319,7 +320,7 @@ function makeLargeColumn(selector) {
 }
 
 function makeCardListItem(card, count) {
-    if(getState("affiliation") != null && !isAffiliated(card, getState("affiliation"))) {
+    if(getState("affiliation") != null && !isUnaffiliated(card) && !isAffiliated(card, getState("affiliation"))) {
         return `<li class='invalid'>${count} ${getCardHtmlLink(card)}</li>`
     } else {
         return `<li class='valid'>${count} ${getCardHtmlLink(card)}</li>`

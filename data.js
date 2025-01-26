@@ -91,6 +91,10 @@ function isAffiliated(card, creatureType) {
   return card["affiliations"].includes(creatureType)
 }
 
+function isUnaffiliated(card) {
+  return card["affiliations"].length === 0
+}
+
 function getCardHtmlLink(card) {
   return "<a href='https://scryfall.com/cards/" + card["uri"] + "' target='_blank'>" + card["name"] + "</a>"
 }
@@ -106,4 +110,4 @@ async function prepareData() {
   setState("legalities", legalities)
 };
 
-export { getCreatureTypes, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { isUnaffiliated, getCreatureTypes, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
