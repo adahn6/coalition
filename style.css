@@ -508,3 +508,8 @@ textarea{
   background: #1f1f1f;
   margin: 4px;
 }
+
+#legendaryban {
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
