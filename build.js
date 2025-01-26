@@ -142,13 +142,6 @@ function setExploreResults() {
                     } else {
                         return 0
                     }
-                    if(card1["manaValue"] > card2["manaValue"]) {
-                        return 1
-                    } else if (card1["manaValue"] < card2["manaValue"]) {
-                        return -1
-                    } else {
-                        return 0
-                    }
                 }
                 else {
                     if(card1["manaValue"] < card2["manaValue"]) {
@@ -158,24 +151,10 @@ function setExploreResults() {
                     } else {
                         return 0
                     }
-                    if(card1["manaValue"] < card2["manaValue"]) {
-                        return 1
-                    } else if (card1["manaValue"] > card2["manaValue"]) {
-                        return -1
-                    } else {
-                        return 0
-                    }
                 }
             }
-            else {
+            else if (getState("sortType") === "name") {
                 if (getState("sortDirection") === "ascending") {
-                    if(card1["name"] > card2["name"]) {
-                        return 1
-                    } else if (card1["name"] < card2["name"]) {
-                        return -1
-                    } else {
-                        return 0
-                    }
                     if(card1["name"] > card2["name"]) {
                         return 1
                     } else if (card1["name"] < card2["name"]) {
@@ -188,6 +167,25 @@ function setExploreResults() {
                     if(card1["name"] < card2["name"]) {
                         return 1
                     } else if (card1["name"] > card2["name"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
+                }
+            } else {
+                if (getState("sortDirection") === "ascending") {
+                    if(card1["released_at"] > card2["released_at"]) {
+                        return 1
+                    } else if (card1["released_at"] < card2["released_at"]) {
+                        return -1
+                    } else {
+                        return 0
+                    }
+                }
+                else {
+                    if(card1["released_at"] < card2["released_at"]) {
+                        return 1
+                    } else if (card1["released_at"] > card2["released_at"]) {
                         return -1
                     } else {
                         return 0
