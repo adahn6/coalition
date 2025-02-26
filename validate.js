@@ -1,6 +1,8 @@
 import { $, getState, setHTML, setState } from './utils.js';
 import { prepareData, getCard, isUnaffiliated, isAffiliated, getCreatureTypeFromId, isCardType, isBanned, isLegendary, isBasicLand, isLeader, getCardHtmlLink, isReserved } from './data.js';
-import { cardTemplate } from './templates.js';
+
+const cardsWithAnyNumberAllowed = ["Dragon's Approach", "Hare Apparent", "Nazgûl", 
+    "Persistent Petitioners", "Rat Colony", "Relentless Rats", "Seven Dwarves", "Shadowborn Apostle", "Slime Against Humanity", "Templar Knight"]
 
 document.addEventListener("DOMContentLoaded", async function () {
     document.state = {};
@@ -263,19 +265,22 @@ function checkMainboardCounts(mainboard) {
 }
 
 function checkCardCount(card, count) {
-    if (isCardType(card, "Land")) {
-        if (count > 4 && !isBasicLand(card)) {
-            return "<p>Cannot include more than 4 copies of land card " + getCardHtmlLink(card) + "</p>"
+    console.log("Checking " + card["name"].str)
+    if(!cardsWithAnyNumberAllowed.includes(card["name"])) {
+        if (isCardType(card, "Land")) {
+            if (count > 4 && !isBasicLand(card)) {
+                return "<p>Cannot include more than 4 copies of land card " + getCardHtmlLink(card) + "</p>"
+            }
+        } else if (isCardType(card, "Creature")) {
+            if (isLeader(card) && count > 1) {
+                return "<p>Cannot include more than 1 copy of leader card " + getCardHtmlLink(card) + "</p>"
+            }
+            if (count > 4) {
+                return "<p>Cannot include more than 4 copies of creature card " + getCardHtmlLink(card) + "</p>"
+            }
+        } else if (count > 1) {
+            return "<p>Cannot include more than 1 copy of non-land, non-creature card " + getCardHtmlLink(card) + "</p>"
         }
-    } else if (isCardType(card, "Creature")) {
-        if (isLeader(card) && count > 1) {
-            return "<p>Cannot include more than 1 copy of leader card " + getCardHtmlLink(card) + "</p>"
-        }
-        if (count > 4) {
-            return "<p>Cannot include more than 4 copies of creature card " + getCardHtmlLink(card) + "</p>"
-        }
-    } else if (count > 1) {
-        return "<p>Cannot include more than 1 copy of non-land, non-creature card " + getCardHtmlLink(card) + "</p>"
     }
 }
 
