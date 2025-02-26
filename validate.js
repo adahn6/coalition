@@ -265,7 +265,6 @@ function checkMainboardCounts(mainboard) {
 }
 
 function checkCardCount(card, count) {
-    console.log("Checking " + card["name"].str)
     if(!cardsWithAnyNumberAllowed.includes(card["name"])) {
         if (isCardType(card, "Land")) {
             if (count > 4 && !isBasicLand(card)) {
