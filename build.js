@@ -1,5 +1,5 @@
 import { $, setHTML, getState, setState } from "./utils.js";
-import { getCreatureTypes, prepareData, getCard, getCreatureTypeFromId, isCardType, isAffiliated, isNonLeader, isLeader} from "./data.js";
+import { getCreatureTypes, prepareData, isLegal, isCardType, isAffiliated} from "./data.js";
 import { cardTemplate } from './templates.js';
 
 document.addEventListener("DOMContentLoaded", async function () {
@@ -116,6 +116,7 @@ function setExploreResults() {
     const cards = getState("cards")
         .filter(card => isAffiliated(card, affiliation))
         .filter(card => isCardType(card, cardType))
+        .filter(card => isLegal(card))
         .filter(card => filterChangelings
              || card["affiliations"].length < 20
         )
