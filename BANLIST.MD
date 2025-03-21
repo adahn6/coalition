@@ -2,7 +2,7 @@
 This ban list uses the [Legacy banlist](https://magic.wizards.com/en/banned-restricted-list) as inspiration, and is a work in progress pending playtesting. Updates will be made semi-regularly as playtests occur. 
 
 ## Guiding Principles
-Generally, the preference to not ban cards. However, cards that are overly damaging to the spirit of the format may need to be banned-- as an example, [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle) is currently banned as it is extremely consistent. Similarly, [Malcom, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator) is a two-card combo with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer). Consistent one and two card combos like these will have a great deal of scrutiny placed on them. Many of the most efficient and powerful fast mana and tutor cards are restricted, and scrutiny is applied to any cards with those effects.
+Generally, the preference to not ban cards. However, cards that are overly damaging to the spirit of the format may need to be banned-- as an example, [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle) is currently banned as it is extremely consistent. Similarly, [Malcom, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator) is a two-card combo with [Glint-Horn Buccaneer](https://scryfall.com/card/m20/141/glint-horn-buccaneer). Consistent one and two card combos like these will have a great deal of scrutiny placed on them. Many of the most efficient and powerful fast mana and tutor cards are banned, and scrutiny is applied to any cards with those effects.
 
 > [!NOTE]
 > Legendary cards that are not your coalition leader are not allowed and are effectively banned.
@@ -20,23 +20,23 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 <dt><a href="https://scryfall.com/card/ima/157/channel">Channel</a></dt>
 	<dd>This card is already banned in nearly all formats for very good reason</dd>
 <dt><a href="https://scryfall.com/card/cmm/150/demonic-tutor">Demonic Tutor</a></dt>
-	<dd>Tutor restricted based on historical power level and efficiency</dd>
+	<dd>Tutor banned based on historical power level and efficiency</dd>
 <dt><a href="https://scryfall.com/card/6ed/186/goblin-recruiter">Goblin Recruiter</a></dt>
 	<dd>It's not the power level but rather the sheer annoyance of this card's effect. No one should be stuck waiting while a player orders their entire libary</dd>
 <dt><a href="https://scryfall.com/card/2x2/354/imperial-seal">Imperial Seal</a></dt>
 	<dd>Decks should be consistent enough without tutor</dd>
 <dt><a href="https://scryfall.com/card/2xm/270/mana-crypt">Mana Crypt</a></dt>
-	<dd>Fast mana restricted based on historical power level and efficiency</dd>
+	<dd>Fast mana banned based on historical power level and efficiency</dd>
 <dt><a href="https://scryfall.com/card/2x2/308/mana-vault">Mana Vault</a></dt>
 	<dd>With other restrictions from the format, this card isn't the broken fast mana access that it is in other formats, but it's still too relevant to combo lines to permit</dd>
 <dt><a href="https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator)">Malcolm, Keen-Eyed Navigator</a></dt>
 	<dd>Malcolm is just too strong, with extremely consistent access to a two-card combo with <a href="https://scryfall.com/card/m20/141/glint-horn-buccaneer">Glint-Horn Buccaneer</a></dd>
 <dt><a href="https://scryfall.com/card/ema/62/mystical-tutor)">Mystical Tutor</a></dt>
-	<dd>Tutor restricted based on historical power level and efficiency</dd>
+	<dd>Tutor banned based on historical power level and efficiency</dd>
 <dt><a href="https://scryfall.com/card/ima/98/necropotence)">Necropotence</a></dt>
 	<dd>Even as a singleton, Necropotence is a format warping card in any format and could cause unfortunate play patterns</dd>
 <dt><a href="https://scryfall.com/card/cmm/410/sol-ring)">Sol Ring</a></dt>
-	<dd>Fast mana restricted based on historical power level and efficiency</dd>
+	<dd>Fast mana banned based on historical power level and efficiency</dd>
 <dt><a href="https://scryfall.com/card/ulg/45/tinker">Tinker</a></dt>
 	<dd>This card is already banned in nearly all formats for very good reason</dd>
 <dt><a href="https://scryfall.com/card/thb/73/thassas-oracle">Thassa’s Oracle</a></dt>
@@ -44,7 +44,7 @@ Generally, the preference to not ban cards. However, cards that are overly damag
 <dt><a href="https://scryfall.com/card/thb/161/underworld-breach">Underworld Breach</a></dt>
 	<dd>On the potential unban list. Deckbuilding restrictions make this one a lot harder to work, though obviously it is still very powerful</dd>
 <dt><a href="https://scryfall.com/card/cmr/156/vampiric-tutor">Vampiric Tutor</a></dt>
-	<dd>Tutor restricted based on historical power level and efficiency</dd>
+	<dd>Tutor banned based on historical power level and efficiency</dd>
 </dl>
 
 ## Current watchlist:
