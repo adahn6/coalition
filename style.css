@@ -270,6 +270,7 @@ nav > a.selected {
 .explainer > .card td.winner {
   font-weight: bold;
   color: black;
+  background-color: green;
 }
 
 .explainer > .card th {
@@ -307,6 +308,7 @@ nav > a.selected {
 .explainer > .card > .deck-explainer > .info {
   font-size: 125%;
 }
+
 
 dt {
   font-style: italic;
