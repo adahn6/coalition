@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     const colors = ["W", "U", "B", "R", "G"]
     setState("colors", colors)
-    setState("showChangelings", true)
+    setState("showChangelings", false)
 
     document.querySelectorAll('.card_type_selection').forEach(button => {
         button.addEventListener('change', () => {
