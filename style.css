@@ -1,4 +1,5 @@
 @import "https://www.nerdfonts.com/assets/css/webfont.css";
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
   --standard-size: 20px;
@@ -11,7 +12,8 @@ body {
   margin: 0;
   margin-top: var(--standard-size);
   background:#1f1f1f;
-  font-family: "Times New Roman";
+  font-family: "Jost";
+  font-weight: 340;
   color:#dddbd4;
   font-size: 14pt;
   display: flex;
@@ -258,6 +260,7 @@ nav > a.selected {
 
 .explainer > .card table {
   margin-bottom: var(--standard-size);
+  font-weight: 275;
 }
 
 .explainer > .card td {
@@ -268,13 +271,14 @@ nav > a.selected {
 }
 
 .explainer > .card td.winner {
-  font-weight: bold;
+  font-weight: 500;
   color: black;
   background-color: green;
 }
 
 .explainer > .card th {
   color: var(--standard-bg);
+  font-weight: 350;
   background: #FFB347;
   padding: 5px;
 }
@@ -286,7 +290,6 @@ nav > a.selected {
 .explainer > .card tr th:first-child {
     background: var(--standard-bg);
     color: #dddbd4;
-    font-weight: normal;
 }
 
 .explainer > .card > .deck-explainer {
@@ -308,7 +311,6 @@ nav > a.selected {
 .explainer > .card > .deck-explainer > .info {
   font-size: 125%;
 }
-
 
 dt {
   font-style: italic;

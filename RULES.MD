@@ -9,7 +9,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 * 906.3. Each deck has a legendary creature card designated as its "coalition leader". This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
 
-	* Example: A coalition leader that’s been turned face down (due to Ixidron’s effect, for example) is still a coalition leader. A coalition leader that’s copying another card (due to Cytoshape’s effect, for example) is still a coalition leader. A permanent that’s copying a coalition leader (such as a Body Double, for example, copying a coalition leader in a player’s graveyard) is not a coalition leader
+	* Example: A coalition leader that has been turned face down (due to Ixidron’s effect, for example) is still a coalition leader. A coalition leader that is copying another card (due to Cytoshape’s effect, for example) is still a coalition leader. A permanent that is copying a coalition leader (such as a Body Double, for example, copying a coalition leader in a player’s graveyard) is not a coalition leader
 
 	* 906.3a Double-faced cards can be the coalition leader as long as the front face of the card has the types legendary creature.
 
@@ -57,7 +57,7 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.6f A player who concedes the game at any time loses all victory points from the current game and may not participate in further games
 
-	* 906.6g As an exception, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.6g does not apply to any of them
+	* 906.6g As an exception to 906.6f, if all opponents remaining in the current game wish to concede to a player simultaneously, 906.6g does not apply to any of them
 
 	* 906.6h At the end of each game, each player adds their victory points earned during that game to their cumulative total for the match, referred to as their ranking
 
@@ -71,13 +71,19 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.7d If the game has no winner for any other reason, 906.6d does not apply to any player
 
-* 906.8 The winner of a Coalition match is the player or players with the highest ranking (see 906.6h). 
+* 906.8 The winner of a Coalition match is the player or players with the highest ranking (see 906.6h).
+
+	* 906.8a If two or more players tie for the highest ranking at the end of the match, the player with the highest life total in the third game is the winner of the match.
+
+	* 906.8b If two or more players tie for the highest ranking and the highest life total at the end of the match, the match is considered a draw
 
 * 906.9 For each game, once the starting player has been determined, each player sets their life total to 25 and draws a hand of seven cards.
 
 	* 906.9a The starting player should be determined randomly for the first game
 
-	* 906.9b For the subsequent games, the starting player is chosen by the player ranked last
+	* 906.9b For the subsequent games, the turn order starts with the player with the lowest ranking (see 906.6h) and proceeds to the next player with the lowest ranking. 
+
+	* 906.9c If two players are tied in the ranking, determine which of them play first randomly.
 
 * 906.10 Once on each of their turns, a player may put their coalition leader card from outside the game into their hand. This is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn, but only if they haven’t done so yet this turn.
 
