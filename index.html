@@ -43,15 +43,15 @@
         <div class='box' id="overview">
           <h2>Overview</h2>
           <p>
-            Coalition is an eternal multiplayer format for Magic: The Gathering. To play, you'll choose a legendary creature as a <a href="#leaders">coalition leader</a>, then build a 60-card deck plus sideboard around one of its creature type <a href="#affiliation">affiliations</a>.
+            Coalition is an eternal multiplayer format for Magic: The Gathering. To play, you'll choose a legendary creature as a <a href="#leaders">leader</a>, then build a 60-card deck plus sideboard around one of its creature type <a href="#affiliation">affiliations</a>.
           </p>
   
           <p>
-            Coalition is played as a match of three games in which players compete for the most <a href="#victorypoints">victory points</a>. Players earn victory points equal to the combat damage they deal to opponents-- reaching 21 victory points immediately wins the game. At the end of each game, each player adds all victory points they earned during the game to their ranking. The player with the highest ranking at the end of the match wins.
+            Coalition is played as a match of three games in which players compete for the most <a href="#victorypoints">victory points</a>. Players earn victory points equal to the combat damage they deal to opponents; reaching 21 victory points immediately wins the game. At the end of each game, each player adds all victory points they earned during the game to their ranking. The player with the highest ranking at the end of the match wins.
           </p>
   
           <p>
-            Want to get started? Check out <a href="/reference.html#decks">sample decks</a>, or explore building your own with the <a href="/build.html">deckbuilder</a> and <a href="/validate.html">decklist validator</a>. And <a href="https://discord.gg/NwQm5m4eBT">join the Discord</a> for community discussions and updates.
+            Want to get started? Check out <a href="https://moxfield.com/bookmarks/98bXA-coalition-deck-library">the deck library</a>, or explore building your own with the <a href="/build.html">deckbuilder</a> and <a href="/validate.html">decklist validator</a>. And <a href="https://discord.gg/NwQm5m4eBT">join the Discord</a> for community discussions and updates.
           </p>
         </div>
 
@@ -106,11 +106,11 @@
           <div class='info box'>
             <h2>Leaders</h2>
             <p>
-              Your coalition's leader is any legendary creature. It starts outside the game in your sideboard, and once on each of your turns, you may put it into your hand from outside the game as a sorcery. This is a special action and does not use the stack.
+              Your coalition's leader is any legendary creature. It starts outside the game in your sideboard, and once on each of your turns, you may put it into your hand from outside the game. Leaders also have similar state-based actions and replacement effects to commanders-- they can be removed from the game again if they would transition zones.
             </p>
 
             <p>
-              Leaders also have similar state-based actions and replacement effects to commanders-- they can be removed from the game again if they would transition zones.
+              Choose your leader carefully! It's the only legendary card allowed in your deck-- the rest of your coalition will be regular creatures.
             </p>
 
             <div class="tooltip">
@@ -130,13 +130,10 @@
           <div class='info box'>
             <h2>Affiliation</h2>
             <p>
-              Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text.
+              Affiliation describes what creature types a card is associated with. A card is affiliated with all creature types it is, as well as all creature types referenced in its Oracle text. As an exception, "non-[type]" negations do not count as a reference to a creature type.
             </p>
 
-            <p>
-              As an exception, "non-[type]" negations do not count as a reference to a creature type. A card that is not affiliated with any creature types is unaffiliated.
-            </p>
-            
+            <p>Every deck will choose one creature type to form a coalition around-- all cards in the deck will need to be affiliated with that creature type, or unaffiliated.</p>            
             <div class='tooltip'>
               <img src="https://cards.scryfall.io/large/front/6/3/6394a522-37bb-4cf3-b434-5121c8000ac6.jpg" />
               <span>
@@ -154,7 +151,7 @@
             </p>
 
             <p>
-              At the end of each game, each player adds all victory points they earned during the game to their ranking. The player with the highest ranking at the end of the match wins.
+              Victory points matter wheter you win or lose a game! At the end of each game, each player adds the victory points they earned during the game to their ranking. Then, for games two and three, turn order is decided by the inverse of the ranking-- the player in last goes first. And at the end of game three, the player with the highest ranking wins.
             </p>
           </div>
 
