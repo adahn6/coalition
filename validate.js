@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 })
 
 const parseDecklist = (decklist) => {
-    const decklistLines = decklist.split("\n").filter(line => line != "")
+    const decklistLines = decklist.split("\n").filter(line => line != "").map(line => line.replace("/", "//"))
     const mainboard = new Map()
     const sideboard = new Map()
     let messages = Array()
