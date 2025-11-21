@@ -43,6 +43,8 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.5h The deck must not contain any legendary cards except the legendary creature declared as the coalition leader. This restriction includes double-faced cards with only a legendary back-face; this is an exception to 712.8a.
 
+	* 906.5i Each deck's coalition leader is public and must be revealed from the sideboard before the start of the game. Each player must also declare the chosen coalition type before the game.
+
 * 906.6 The Coalition variant includes the following specification for victory points.
 
 	* 906.6a A player starts each game with 0 victory points
@@ -85,8 +87,8 @@ A WIP modification of Magic The Gathering: Comprehensive Rules for "Coalition":
 
 	* 906.9c If two players are tied in the ranking, determine which of them play first randomly.
 
-* 906.10 Once on each of their turns, a player may put their coalition leader card from outside the game into their hand. This is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn, but only if they haven’t done so yet this turn.
+* 906.10 Once on each of their turns, a player may reveal their coalition leader card and put it from outside the game into their hand. This is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn, but only if they haven’t done so yet this turn.
 
 * 906.11. A coalition leader may return to outside the game during a Coalition game.
 	* 906.11a If a coalition leader is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may remove it from the game. This is a state-based action. See rule 704.
-	* 906.11b If a coalition leader would be put into its owner’s hand or library from anywhere, its owner may remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
+	* 906.11b If a coalition leader would be put into its owner’s hand or library from anywhere, its owner may reveal it and remove it from the game instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
