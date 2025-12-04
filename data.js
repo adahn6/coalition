@@ -12,6 +12,11 @@ function getCard(cardName) {
   return getState("cards").find(el => (el["name"] === cardName));
 }
 
+function getRandomLeader() {
+  leaders = getState("cards").filter(card => isLeader(card))
+  return leaders[ Math.random() * leaders.length |0 ]['image']
+}
+
 function getCreatureTypeFromId(creature_type_id) {
   return getState("creature_types")[creature_type_id]
 }
@@ -110,4 +115,4 @@ async function prepareData() {
   setState("legalities", legalities)
 };
 
-export { isUnaffiliated, getCreatureTypes, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId };
+export { isUnaffiliated, getCreatureTypes, isBanned, isLegendary, isReserved, getCardHtmlLink, isBasicLand, getCreatureTypeId, getCreatureTypeFromId, mapAttributes, getCard, isCompatibleCard, isLegal, isNonLeader, isLeader, isCardType, isAffiliated, createDecklistFromAllCards, prepareData, getCardTypeId, getRandomLeader };

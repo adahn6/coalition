@@ -1,5 +1,5 @@
 @import "https://www.nerdfonts.com/assets/css/webfont.css";
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'https://indestructibletype.com/fonts/Jost.css';
 
 :root {
   --standard-size: 20px;
@@ -13,7 +13,7 @@ body {
   margin-top: var(--standard-size);
   background:#1f1f1f;
   font-family: "Jost";
-  font-weight: 340;
+  font-weight: 300;
   color:#dddbd4;
   font-size: 14pt;
   display: flex;
