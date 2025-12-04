@@ -4,5 +4,7 @@ import { prepareData, getRandomLeader } from './data.js';
 document.addEventListener("DOMContentLoaded", async function () {
     document.state = {};
     await prepareData();
-    $("#leaderexample1").src="https://cards.scryfall.io/large/front/"+getRandomLeader()
+    var randomLeader = getRandomLeader()
+    $("#leaderexample1").src="https://cards.scryfall.io/large/front/"+randomLeader
+    $("#leaderexample2").src="https://cards.scryfall.io/large/front/"+randomLeader
 })
