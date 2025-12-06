@@ -19,16 +19,16 @@
           Learn
         </a>
 
-        <a href="build.html" class='selected'>
+        <a href="build.html" class="selected">
           Build
         </a>
 
-        <a href="play.html">
-          Play
+        <a href="banlist.html">
+          Banlist
         </a>
 
-        <a href="banlist.html">
-          Resources
+        <a href="faq.html">
+          More
         </a>
       </nav>
 
@@ -38,25 +38,17 @@
         <p>
             Tools for deckbuilding
         </p>
-        <div class='columns menu'>
-          <div class='column'>
-            <a href="build.html">
-            <div>
+          <div class='columns menu' id="buildmenu">
+            <a href="build.html" class="column">
               Find Cards
-            </div>
-          </a>
-          </div>
-          <div class='column selected'>
-            <a href="validate.html">
-            <div>
+            </a>
+            <a href="validate.html" class="column selected">
               Validate Decklists
-            </div>
-          </a>
+            </a>
           </div>
-        </div>
         </div>
         <div class='box'>
-        <p>The following tool validates decklists -- it is provided as-is and may occasionally misinterpret card text or rules. Please submit any issues to the Discord.</p>
+        <p>The following tool validates decklists exported in the Moxfield format -- it is provided as-is and may occasionally misinterpret card text or rules. Please submit any issues to the Discord.</p>
         <textarea id="decklist" placeholder="paste your decklist"></textarea>
         </div>
         <div id="deckinfo" class="box hidden">

@@ -517,3 +517,7 @@ textarea{
   margin-bottom: 15px;
   margin-top: 0px;
 }
+
+.menu > a {
+  text-decoration: none;
+}
